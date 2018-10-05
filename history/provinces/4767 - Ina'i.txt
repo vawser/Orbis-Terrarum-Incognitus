@@ -1,0 +1,21 @@
+# 4767 - Ina'i.txt
+
+is_city = no
+native_size = 10
+native_ferocity = 5
+native_hostileness = 5
+
+base_tax = 5
+base_production = 4
+base_manpower = 5
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = unknown
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}

@@ -1,0 +1,18 @@
+
+owner = DAG
+controller = DAG
+add_core = DAG
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 2
+
+culture = dagon
+religion = dagon
+
+trade_goods = fish
+hre = no
+
+
+

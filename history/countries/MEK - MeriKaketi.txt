@@ -1,0 +1,303 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = hurufi
+primary_culture = kakushivilar
+capital = 5092
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Bhuvan-Singh"
+		dynasty = "Tupakula"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1365.1.1
+	}
+
+	queen = {
+		country_of_origin = MEK 
+		name = "Pommavâyi"
+		dynasty = "Tupakula"
+		adm = 4
+		dip = 4
+		mil = 1
+		birth_date = 1385.1.1
+		death_date = 1467.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Gajankusha"
+		dynasty = "Gopala"
+		adm = 4
+		dip = 3
+		mil = 1
+		birth_date = 1417.1.1
+	}
+
+	queen = {
+		country_of_origin = MEK 
+		name = "Tiruvânaikkâvi"
+		dynasty = "Gopala"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1427.1.1
+		death_date = 1525.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Pollâtapillai"
+		monarch_name = "Pollâtapillai"
+		dynasty = "Gopala"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1443.1.1
+		death_date = 1467.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Celiyancentan"
+		dynasty = "Gajapati"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1439.1.1
+	}
+
+	queen = {
+		country_of_origin = MEK 
+		name = "Mahadevi"
+		dynasty = "Gajapati"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1420.1.1
+		death_date = 1506.1.1
+		female = yes
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Pavitram"
+		dynasty = "Kalachuri"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1482.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Aditya"
+		monarch_name = "Aditya"
+		dynasty = "Kalachuri"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 25
+		birth_date = 1490.1.1
+		death_date = 1555.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Ambra-Prasad"
+		dynasty = "Satadhanva"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1503.1.1
+	}
+
+	heir = {
+		name = "Mâtêvatikalâr"
+		monarch_name = "Mâtêvatikalâr"
+		dynasty = "Satadhanva"
+		adm = 2
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1564.1.1
+		death_date = 1622.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Kopperunchinga"
+		dynasty = "Jadon"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1565.1.1
+	}
+
+	queen = {
+		country_of_origin = MEK 
+		name = "Nankaiyâr"
+		dynasty = "Jadon"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1567.1.1
+		death_date = 1657.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Suratrana"
+		monarch_name = "Suratrana"
+		dynasty = "Jadon"
+		adm = 4
+		dip = 3
+		mil = 2
+		claim = 50
+		birth_date = 1584.1.1
+		death_date = 1663.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Devapala"
+		dynasty = "Nagavamsi"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1639.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Timmappa"
+		monarch_name = "Timmappa"
+		dynasty = "Nagavamsi"
+		adm = 1
+		dip = 3
+		mil = 4
+		claim = 75
+		birth_date = 1701.1.1
+		death_date = 1716.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Jagadeva"
+		dynasty = "Sankara"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1682.1.1
+	}
+
+	heir = {
+		name = "Lakhanapala"
+		monarch_name = "Lakhanapala"
+		dynasty = "Sankara"
+		adm = 5
+		dip = 3
+		mil = 5
+		claim = 75
+		birth_date = 1705.1.1
+		death_date = 1774.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Câttanân"
+		dynasty = "Gahadvala"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1680.1.1
+	}
+
+	queen = {
+		country_of_origin = MEK 
+		name = "Tiruvânaikkâvi"
+		dynasty = "Gahadvala"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1684.1.1
+		death_date = 1797.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Periyanâcci"
+		monarch_name = "Periyanâcci"
+		dynasty = "Gahadvala"
+		adm = 1
+		dip = 2
+		mil = 2
+		claim = 50
+		birth_date = 1736.1.1
+		death_date = 1791.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Ereyanga"
+		dynasty = "Bhanja"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1769.1.1
+	}
+
+	queen = {
+		country_of_origin = MEK 
+		name = "Irâcinkam"
+		dynasty = "Bhanja"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 1768.1.1
+		death_date = 1862.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Aparâcitavarman"
+		monarch_name = "Aparâcitavarman"
+		dynasty = "Bhanja"
+		adm = 1
+		dip = 3
+		mil = 5
+		claim = 50
+		birth_date = 1787.1.1
+		death_date = 1795.1.1
+	}
+}
+

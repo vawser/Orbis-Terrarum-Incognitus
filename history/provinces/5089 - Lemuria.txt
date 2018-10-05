@@ -1,0 +1,17 @@
+
+owner = MAC
+controller = MAC
+add_core = MAC
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+culture = kakushivilar
+religion = hurufi
+
+trade_goods = unknown
+hre = no
+
+

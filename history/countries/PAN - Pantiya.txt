@@ -1,0 +1,278 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5045
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Lakshmivarman"
+		dynasty = "Gahadvala"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1372.1.1
+	}
+
+	queen = {
+		country_of_origin = PAN 
+		name = "Tirumûlattânam"
+		dynasty = "Gahadvala"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1368.1.1
+		death_date = 1465.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter"
+		dynasty = "Gahadvala"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1430.1.1
+		death_date = 1481.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Cîvallapan"
+		dynasty = "Mirrani"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1421.1.1
+	}
+
+	queen = {
+		country_of_origin = PAN 
+		name = "Eccumantai"
+		dynasty = "Mirrani"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1410.1.1
+		death_date = 1537.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Naravarman"
+		monarch_name = "Naravarman"
+		dynasty = "Mirrani"
+		adm = 2
+		dip = 3
+		mil = 4
+		claim = 25
+		birth_date = 1440.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Kirtivarman"
+		dynasty = "Chagi"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1445.1.1
+	}
+
+	heir = {
+		name = "Madhava"
+		monarch_name = "Madhava"
+		dynasty = "Chagi"
+		adm = 1
+		dip = 4
+		mil = 5
+		claim = 50
+		birth_date = 1478.1.1
+		death_date = 1506.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Segarajasekaran"
+		dynasty = "Malikzada"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1433.1.1
+	}
+
+	heir = {
+		name = "Paramêsvaravarman"
+		monarch_name = "Paramêsvaravarman"
+		dynasty = "Malikzada"
+		adm = 5
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1476.1.1
+		death_date = 1530.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Nakarattâl"
+		dynasty = "Kadamba"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1538.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Rudaladevi"
+		monarch_name = "Rudaladevi"
+		dynasty = "Kadamba"
+		adm = 5
+		dip = 4
+		mil = 2
+		claim = 25
+		birth_date = 1564.1.1
+		death_date = 1644.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Minaski"
+		dynasty = "Saadatullahid"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1574.1.1
+	}
+
+	queen = {
+		country_of_origin = PAN 
+		name = "Kannapparaciyâr"
+		dynasty = "Saadatullahid"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1582.1.1
+		death_date = 1637.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Meenakshi"
+		dynasty = "Mana"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1662.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = PAN 
+		name = "Niyâyaparipâlapattan"
+		dynasty = "Mana"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1667.1.1
+		death_date = 1706.1.1
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Chandraraja"
+		dynasty = "Wodeyar"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1681.1.1
+	}
+
+	queen = {
+		country_of_origin = PAN 
+		name = "Sosamma"
+		dynasty = "Wodeyar"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1680.1.1
+		death_date = 1771.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Dhruvasena"
+		monarch_name = "Dhruvasena"
+		dynasty = "Wodeyar"
+		adm = 4
+		dip = 2
+		mil = 3
+		claim = 75
+		birth_date = 1705.1.1
+		death_date = 1763.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Gajasimha"
+		dynasty = "Gautam"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1734.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Taturântakiyâr"
+		dynasty = "Kohkkar"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1744.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Cimmavisnu"
+		monarch_name = "Cimmavisnu"
+		dynasty = "Kohkkar"
+		adm = 3
+		dip = 2
+		mil = 2
+		claim = 75
+		birth_date = 1760.1.1
+		death_date = 1829.1.1
+	}
+}
+

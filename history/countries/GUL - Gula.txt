@@ -1,0 +1,300 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = gulamur
+capital = 5450
+religious_school = cyan_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Vairea"
+		dynasty = "'Ewalani"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1405.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kaili"
+		monarch_name = "Kaili"
+		dynasty = "'Ewalani"
+		adm = 2
+		dip = 5
+		mil = 4
+		claim = 50
+		birth_date = 1444.1.1
+		death_date = 1509.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Maija"
+		dynasty = "Jambi"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1406.1.1
+	}
+
+	queen = {
+		country_of_origin = GUL 
+		name = "Nalanie"
+		dynasty = "Jambi"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1406.1.1
+		death_date = 1473.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Keola"
+		monarch_name = "Keola"
+		dynasty = "Jambi"
+		adm = 2
+		dip = 2
+		mil = 1
+		claim = 75
+		birth_date = 1416.1.1
+		death_date = 1458.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Malia"
+		dynasty = "Alealani"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1448.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Puatea"
+		monarch_name = "Puatea"
+		dynasty = "Alealani"
+		adm = 2
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1458.1.1
+		death_date = 1577.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Iolani"
+		dynasty = "Kamehu"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1434.1.1
+	}
+
+	queen = {
+		country_of_origin = GUL 
+		name = "Shâh"
+		dynasty = "Kamehu"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1416.1.1
+		death_date = 1515.1.1
+	}
+
+	heir = {
+		name = "Kertawardhana"
+		monarch_name = "Kertawardhana"
+		dynasty = "Kamehu"
+		adm = 4
+		dip = 1
+		mil = 3
+		claim = 100
+		birth_date = 1505.1.1
+		death_date = 1558.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Keanu"
+		dynasty = "Pasai"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1527.1.1
+	}
+
+	heir = {
+		name = "Mauli"
+		monarch_name = "Mauli"
+		dynasty = "Pasai"
+		adm = 2
+		dip = 1
+		mil = 1
+		claim = 75
+		birth_date = 1548.1.1
+		death_date = 1597.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Menradza"
+		dynasty = "Kamehu"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1568.1.1
+	}
+
+	queen = {
+		country_of_origin = GUL 
+		name = "Makana"
+		dynasty = "Kamehu"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1555.1.1
+		death_date = 1635.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Vaite"
+		monarch_name = "Vaite"
+		dynasty = "Kamehu"
+		adm = 1
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1590.1.1
+		death_date = 1639.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Ri'âyat"
+		dynasty = "Panduranga"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1607.1.1
+	}
+
+	heir = {
+		name = "Megat"
+		monarch_name = "Megat"
+		dynasty = "Panduranga"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 25
+		birth_date = 1674.1.1
+		death_date = 1735.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Qasim"
+		dynasty = "Siak"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1685.1.1
+	}
+
+	queen = {
+		country_of_origin = GUL 
+		name = "Chan"
+		dynasty = "Siak"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1678.1.1
+		death_date = 1770.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Hayam"
+		dynasty = "Waipuna"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1698.1.1
+	}
+
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî"
+		dynasty = "Waipuna"
+		adm = 5
+		dip = 3
+		mil = 3
+		claim = 25
+		birth_date = 1747.1.1
+		death_date = 1818.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Agi"
+		dynasty = "Hau'oli"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1732.1.1
+	}
+
+	queen = {
+		country_of_origin = GUL 
+		name = "Makelina"
+		dynasty = "Hau'oli"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1730.1.1
+		death_date = 1825.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Hau'oli"
+		adm = 2
+		dip = 4
+		mil = 5
+		claim = 75
+		birth_date = 1786.1.1
+		death_date = 1834.1.1
+	}
+}
+

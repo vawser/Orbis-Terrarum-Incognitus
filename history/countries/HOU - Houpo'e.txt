@@ -1,0 +1,299 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = savaikian
+capital = 4747
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Thuttirai"
+		dynasty = "Kamehameha"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1354.1.1
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Kiele"
+		dynasty = "Kamehameha"
+		adm = 5
+		dip = 1
+		mil = 4
+		birth_date = 1361.1.1
+		death_date = 1458.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Yu"
+		monarch_name = "Yu"
+		dynasty = "Kamehameha"
+		adm = 3
+		dip = 2
+		mil = 2
+		claim = 25
+		birth_date = 1424.1.1
+		death_date = 1505.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Mansûr"
+		dynasty = "'Ehukai"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1377.1.1
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Nu’utea"
+		dynasty = "'Ehukai"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1366.1.1
+		death_date = 1472.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Feleti"
+		monarch_name = "Feleti"
+		dynasty = "'Ehukai"
+		adm = 5
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1414.1.1
+		death_date = 1536.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Loe"
+		dynasty = "Polola"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1448.1.1
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Merenui"
+		dynasty = "Polola"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1456.1.1
+		death_date = 1511.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Polola"
+		adm = 4
+		dip = 1
+		mil = 1
+		claim = 50
+		birth_date = 1487.1.1
+		death_date = 1529.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Agi"
+		dynasty = "Terengganu"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1427.1.1
+	}
+
+	heir = {
+		name = "Keani"
+		monarch_name = "Keani"
+		dynasty = "Terengganu"
+		adm = 2
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1477.1.1
+		death_date = 1516.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Nalani"
+		dynasty = "Makikonu"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1527.1.1
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Tuianu"
+		dynasty = "Makikonu"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1541.1.1
+		death_date = 1658.1.1
+		female = yes
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Mugâyat"
+		dynasty = "Sanoe"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1576.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Malo"
+		dynasty = "Momilani"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1643.1.1
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Tumata"
+		dynasty = "Momilani"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1646.1.1
+		death_date = 1706.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Chong"
+		monarch_name = "Chong"
+		dynasty = "Momilani"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1689.1.1
+		death_date = 1735.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Moeata"
+		dynasty = "Kedah"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1619.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Kertawardhana"
+		dynasty = "Kedah"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1623.1.1
+		death_date = 1721.1.1
+	}
+
+	heir = {
+		name = "Kalagamet"
+		monarch_name = "Kalagamet"
+		dynasty = "Kedah"
+		adm = 1
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1698.1.1
+		death_date = 1761.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Demak"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1714.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Badr"
+		dynasty = "Akeakamai"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1726.1.1
+	}
+
+	queen = {
+		country_of_origin = HOU 
+		name = "Taurua"
+		dynasty = "Akeakamai"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1740.1.1
+		death_date = 1869.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tithun"
+		monarch_name = "Tithun"
+		dynasty = "Akeakamai"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 25
+		birth_date = 1784.1.1
+		death_date = 1851.1.1
+	}
+}
+

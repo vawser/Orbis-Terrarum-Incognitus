@@ -1,0 +1,4 @@
+france_region = {
+    discover_country = ROOT
+}
+

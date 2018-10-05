@@ -1,0 +1,277 @@
+government = merchant_republic
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4695
+religious_school = pythagorean_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Gennadios"
+		dynasty = "Chrysoberges"
+		adm = 5
+		dip = 1
+		mil = 3
+		birth_date = 1425.1.1
+	}
+
+	queen = {
+		country_of_origin = ATZ 
+		name = "Agnes"
+		dynasty = "Chrysoberges"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1421.1.1
+		death_date = 1532.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Aineias"
+		monarch_name = "Aineias"
+		dynasty = "Chrysoberges"
+		adm = 3
+		dip = 2
+		mil = 2
+		claim = 50
+		birth_date = 1407.1.1
+		death_date = 1516.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Gregorios"
+		dynasty = "Styppes"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1385.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Andronicus"
+		monarch_name = "Andronicus"
+		dynasty = "Styppes"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1453.1.1
+		death_date = 1462.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Demetrius"
+		dynasty = "Choriates"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1418.1.1
+	}
+
+	queen = {
+		country_of_origin = ATZ 
+		name = "Anastasia"
+		dynasty = "Choriates"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1416.1.1
+		death_date = 1503.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Pelagios"
+		monarch_name = "Pelagios"
+		dynasty = "Choriates"
+		adm = 3
+		dip = 4
+		mil = 3
+		claim = 75
+		birth_date = 1481.1.1
+		death_date = 1534.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Ioustina"
+		dynasty = "Keroularios"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1426.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Germanos"
+		monarch_name = "Germanos"
+		dynasty = "Keroularios"
+		adm = 3
+		dip = 2
+		mil = 1
+		claim = 50
+		birth_date = 1496.1.1
+		death_date = 1554.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Himerios"
+		dynasty = "Epanokomites"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1512.1.1
+	}
+
+	heir = {
+		name = "Dorothea"
+		monarch_name = "Dorothea"
+		dynasty = "Epanokomites"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1579.1.1
+		death_date = 1653.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Chrysanthos"
+		dynasty = "Makrembolites"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1586.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Gregoras"
+		dynasty = "Mamalos"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1679.1.1
+	}
+
+	heir = {
+		name = "Gregorios"
+		monarch_name = "Gregorios"
+		dynasty = "Mamalos"
+		adm = 3
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1688.1.1
+		death_date = 1766.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Arsenios"
+		dynasty = "Maleinos"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1646.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Nikolaos"
+		dynasty = "Mouzelis"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1714.1.1
+	}
+
+	queen = {
+		country_of_origin = ATZ 
+		name = "Agatha"
+		dynasty = "Mouzelis"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1705.1.1
+		death_date = 1774.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Germanus"
+		monarch_name = "Germanus"
+		dynasty = "Mouzelis"
+		adm = 2
+		dip = 5
+		mil = 3
+		claim = 75
+		birth_date = 1728.1.1
+		death_date = 1763.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Andrew"
+		dynasty = "Tzimiskes"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1755.1.1
+	}
+
+	queen = {
+		country_of_origin = ATZ 
+		name = "Kyra"
+		dynasty = "Tzimiskes"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1744.1.1
+		death_date = 1874.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bartholomaios"
+		monarch_name = "Bartholomaios"
+		dynasty = "Tzimiskes"
+		adm = 1
+		dip = 1
+		mil = 4
+		claim = 100
+		birth_date = 1783.1.1
+		death_date = 1841.1.1
+	}
+}
+

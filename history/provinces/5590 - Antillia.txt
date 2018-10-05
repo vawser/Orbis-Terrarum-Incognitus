@@ -1,0 +1,17 @@
+
+owner = ARI
+controller = ARI
+add_core = ARI
+is_city = yes
+
+base_tax = 6
+base_production = 5
+base_manpower = 4
+
+culture = antillian
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+

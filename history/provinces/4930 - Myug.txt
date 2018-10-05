@@ -1,0 +1,17 @@
+# 4930 - Myug.txt
+
+owner = LUD
+controller = LUD
+add_core = LUD
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

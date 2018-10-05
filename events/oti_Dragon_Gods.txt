@@ -1,0 +1,31 @@
+namespace = dragon_gods_events
+
+# yellow_school: Kamean
+# blue_school: Palil
+# cyan_school: Rarii
+# green_school: Xanzen
+# red_school: Tehani
+# purple_school: Orama
+
+country_event = {
+	id = dragon_gods_events.1
+	title = dragon_gods_events.1.title
+	desc = dragon_gods_events.1.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+        religion = dragon_gods
+    }
+    
+    is_triggered_only = yes
+    
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = dragon_gods_events.1.option.a
+        
+	}
+}
+

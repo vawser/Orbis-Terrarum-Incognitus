@@ -1,0 +1,17 @@
+# 4604 - Kalkutunga.txt
+
+owner = KUM
+controller = KUM
+add_core = KUM
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+culture = lemurian
+religion = asakti
+
+trade_goods = iron
+hre = no
+

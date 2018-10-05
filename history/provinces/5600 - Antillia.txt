@@ -1,0 +1,17 @@
+
+owner = ASL
+controller = ASL
+add_core = ASL
+is_city = yes
+
+base_tax = 5
+base_production = 3
+base_manpower = 4
+
+culture = antillian
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+

@@ -1,0 +1,266 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = muror
+capital = 4809
+religious_school = yellow_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Kertabumi"
+		dynasty = "Alohilani"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1347.1.1
+	}
+
+	queen = {
+		country_of_origin = MUR 
+		name = "Po"
+		dynasty = "Alohilani"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1345.1.1
+		death_date = 1452.1.1
+	}
+
+	heir = {
+		name = "Inoke"
+		monarch_name = "Inoke"
+		dynasty = "Alohilani"
+		adm = 4
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1437.1.1
+		death_date = 1512.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Kui"
+		dynasty = "Pahang"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1397.1.1
+	}
+
+	heir = {
+		name = "Poehina"
+		monarch_name = "Poehina"
+		dynasty = "Pahang"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 25
+		birth_date = 1421.1.1
+		death_date = 1473.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Ma'ayat"
+		dynasty = "Ahulani"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1397.1.1
+	}
+
+	queen = {
+		country_of_origin = MUR 
+		name = "Pear"
+		dynasty = "Ahulani"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1410.1.1
+		death_date = 1504.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kaipo"
+		monarch_name = "Kaipo"
+		dynasty = "Ahulani"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 50
+		birth_date = 1480.1.1
+		death_date = 1524.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Iwalani"
+		dynasty = "Kaheleha"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1449.1.1
+	}
+
+	heir = {
+		name = "Nohealani"
+		monarch_name = "Nohealani"
+		dynasty = "Kaheleha"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 100
+		birth_date = 1485.1.1
+		death_date = 1559.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Girindrawardhana"
+		dynasty = "Kameha'o"
+		adm = 1
+		dip = 5
+		mil = 3
+		birth_date = 1511.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Lilo"
+		dynasty = "Aalona"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1554.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tahiata"
+		monarch_name = "Tahiata"
+		dynasty = "Aalona"
+		adm = 5
+		dip = 3
+		mil = 1
+		claim = 100
+		birth_date = 1584.1.1
+		death_date = 1673.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "'Alî"
+		dynasty = "Pahang"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1609.1.1
+	}
+
+	heir = {
+		name = "Muzaffar"
+		monarch_name = "Muzaffar"
+		dynasty = "Pahang"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1685.1.1
+		death_date = 1755.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Mahmûd"
+		dynasty = "Po'okela"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1643.1.1
+	}
+
+	heir = {
+		name = "Orama"
+		monarch_name = "Orama"
+		dynasty = "Po'okela"
+		adm = 1
+		dip = 5
+		mil = 3
+		claim = 50
+		birth_date = 1688.1.1
+		death_date = 1743.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Inoke"
+		dynasty = "Palembang"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1717.1.1
+	}
+
+	queen = {
+		country_of_origin = MUR 
+		name = "Raunui"
+		dynasty = "Palembang"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1702.1.1
+		death_date = 1764.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tithuntirai"
+		monarch_name = "Tithuntirai"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 2
+		claim = 25
+		birth_date = 1732.1.1
+		death_date = 1791.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Keani"
+		dynasty = "Aalona"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1718.1.1
+	}
+
+}
+

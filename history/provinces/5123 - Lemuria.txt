@@ -1,0 +1,17 @@
+
+owner = JEN
+controller = JEN
+add_core = JEN
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+culture = lemurian
+religion = asakti
+
+trade_goods = tea
+hre = no
+
+

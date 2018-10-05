@@ -1,0 +1,17 @@
+# 4568 - Pitiyachola.txt
+
+owner = YUB
+controller = YUB
+add_core = YUB
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = lemurian
+religion = asakti
+
+trade_goods = cotton
+hre = no
+

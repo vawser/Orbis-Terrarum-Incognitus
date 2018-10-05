@@ -1,0 +1,72 @@
+#When adding effects directly in on_actions always consider if it would be best to do so through a scripted effect. on_actions with a lot of script in them are harder to get an overview of.
+
+on_startup = {
+	events = {
+		oti_discovery.1
+        oti_lore.1
+        oti_lore.2
+        oti_lore.3
+        oti_lore.4
+        oti_dragon_schools.1
+        oti_atlantis_schools.1
+	}
+    initialize_dragon_schools_effect = yes
+}
+
+on_battle_won_country = {
+    random_events = {
+        10 = occult_events.3
+        500 = 0
+    }
+}
+
+on_religion_change = {
+    events = {
+        oti_dragon_schools.1
+        oti_atlantis_schools.1
+    }
+}
+
+on_new_monarch = {
+    events = {
+        oti_dragon_schools.1
+        oti_atlantis_schools.1
+    }
+}
+
+on_bi_yearly_pulse_3 = {
+    events = {
+        oti_dragon_schools.1
+        oti_atlantis_schools.1
+    }
+}
+
+on_harmonized_atlantean = {
+	events = {
+		confucian_events.100
+	}
+}
+
+on_harmonized_lemurian = {
+	events = {
+		confucian_events.101
+	}
+}
+
+on_harmonized_muror = {
+	events = {
+		confucian_events.102
+	}
+}
+
+on_harmonized_occult = {
+	events = {
+		confucian_events.103
+	}
+}
+
+on_harmonized_mazu = {
+	events = {
+		confucian_events.104
+	}
+}

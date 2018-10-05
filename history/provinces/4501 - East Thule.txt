@@ -1,0 +1,17 @@
+# 4501 - East Thule.txt
+
+owner = THL
+controller = THL
+add_core = THL
+
+is_city = yes
+base_tax = 7
+base_production = 8
+base_manpower = 6
+
+culture = irish
+religion = catholic
+
+trade_goods = fish
+hre = no
+

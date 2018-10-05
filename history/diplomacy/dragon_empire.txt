@@ -1,0 +1,112 @@
+# All Mu nations are tributary to the current Dragon Emperor
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = ALJ
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = GAN
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = GEQ
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = GOP
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = GUL
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = JIJ
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = LAB
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = MUR
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = NJI
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = QTI
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = TOL
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = VAS
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = YOL
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MUU
+	second = YTK
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}

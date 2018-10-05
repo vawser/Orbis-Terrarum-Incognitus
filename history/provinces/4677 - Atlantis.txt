@@ -1,0 +1,17 @@
+
+owner = MEL
+controller = MEL
+add_core = MEL
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = wine
+hre = no
+
+

@@ -1,0 +1,17 @@
+
+owner = AIH
+controller = AIH
+add_core = AIH
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+culture = tahitian
+religion = arioi
+
+trade_goods = tobacco
+hre = no
+
+

@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+
+graphical_culture = africangfx
+
+color = { 13  245  245 }
+
+
+monarch_names = { 
+	"Hume #1" = 50
+	"Dunama #1" = 50
+	"Ali #1" = 50
+	"Idris #1" = 50	
+	"Said #1" = 50	
+	"Sef #1" = 50	
+	"Ibrahim #1" = 50	
+	"Dugu #1" = 50
+	"Fune #1" = 50
+	"Arsu #0" = 50
+	"Katur #0" = 50
+	"Buyuma #0" = 20
+	"Bulu #0" = 20
+	"Arku #0" = 50
+	"Shu #0" = 50
+    "Kakiryah #0" = 50
+	"Abd #0" = 50
+	"Biri #0" = 50
+	"Salmama #0" = 20	
+	"Kuri #0" = 20	
+	"Umar #0" = 50	
+	"Dawud  #0" = 50	
+	}
+
+leader_names = {
+    Katakarmabe
+	Ghajideni
+	Alauma
+	Dibbalemi
+	al-Kanemi
+	Selma
+	al-Jalil
+	Nigalemi
+	Biri
+	Bikorom
+	Kura
+	Liyatu
+	Aminami
+	Ngumarsmma
+	Dakumuni
+	Kaliwama
+	Lefiami
+	Dalatumi
+}
+
+ship_names = {
+    Katakarmabe
+	Ghajideni
+	Alauma
+	Dibbalemi
+	al-Kanemi
+	Selma
+	al-Jalil
+	Nigalemi
+	Biri
+	Bikorom
+	Kura
+	Liyatu
+	Aminami
+	Ngumarsmma
+	Dakumuni
+	Kaliwama
+	Lefiami
+	Dalatumi
+}

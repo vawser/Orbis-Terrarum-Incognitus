@@ -1,0 +1,277 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4578
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Ajayapala"
+		dynasty = "Chanda"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1359.1.1
+	}
+
+	heir = {
+		name = "Narasimha"
+		monarch_name = "Narasimha"
+		dynasty = "Chanda"
+		adm = 1
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1405.1.1
+		death_date = 1458.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Cayantavarman"
+		dynasty = "Chindaka"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1390.1.1
+	}
+
+	queen = {
+		country_of_origin = EFI 
+		name = "Pommavâyi"
+		dynasty = "Chindaka"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1374.1.1
+		death_date = 1467.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Rudaladevi"
+		dynasty = "Janda"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1460.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = EFI 
+		name = "Eccavarâkan"
+		dynasty = "Janda"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1454.1.1
+		death_date = 1572.1.1
+	}
+
+	heir = {
+		name = "Ariñcikaippirâttiyâr"
+		monarch_name = "Ariñcikaippirâttiyâr"
+		dynasty = "Janda"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 100
+		birth_date = 1489.1.1
+		death_date = 1502.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Tunaiyiruntâlcâni"
+		dynasty = "Saluva"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1453.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = EFI 
+		name = "Vijada-Dasasyandana"
+		dynasty = "Saluva"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1471.1.1
+		death_date = 1554.1.1
+	}
+
+	heir = {
+		name = "Perumâl"
+		monarch_name = "Perumâl"
+		dynasty = "Saluva"
+		adm = 1
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1508.1.1
+		death_date = 1559.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Cyrus"
+		dynasty = "Chowta"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1536.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Viradeva"
+		monarch_name = "Viradeva"
+		dynasty = "Chowta"
+		adm = 2
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1568.1.1
+		death_date = 1661.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Rajadhiraja"
+		dynasty = "Sandhawalia"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 1575.1.1
+	}
+
+	queen = {
+		country_of_origin = EFI 
+		name = "Jaitra-Singh"
+		dynasty = "Sandhawalia"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1571.1.1
+		death_date = 1656.1.1
+	}
+
+	heir = {
+		name = "Mahendravarman"
+		monarch_name = "Mahendravarman"
+		dynasty = "Sandhawalia"
+		adm = 1
+		dip = 1
+		mil = 2
+		claim = 25
+		birth_date = 1614.1.1
+		death_date = 1670.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Manavâlapperumâl"
+		dynasty = "Chand"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1666.1.1
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Thresiamma"
+		dynasty = "Chaulukya"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1644.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = EFI 
+		name = "Rajasingan"
+		dynasty = "Chaulukya"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1664.1.1
+		death_date = 1732.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Cinkapâku"
+		dynasty = "Sandhawalia"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1663.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Govinda"
+		dynasty = "Chindaka"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1749.1.1
+	}
+
+	queen = {
+		country_of_origin = EFI 
+		name = "Atittapitâriyâr"
+		dynasty = "Chindaka"
+		adm = 1
+		dip = 5
+		mil = 3
+		birth_date = 1769.1.1
+		death_date = 1825.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Seervallabha"
+		monarch_name = "Seervallabha"
+		dynasty = "Chindaka"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1754.1.1
+		death_date = 1809.1.1
+	}
+}
+

@@ -1,0 +1,70 @@
+pythagorean_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    development_cost = -0.1
+}
+
+sophist_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    core_creation = -0.1
+}
+
+cynic_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    yearly_corruption = -0.1
+}
+
+cyrenaic_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    advisor_cost = -0.1
+}
+
+pyrrhon_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    global_institution_spread = 0.2
+}
+
+epicurean_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    war_exhaustion = -0.1
+}
+
+stoic_school_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    discipline = 0.05
+}
+

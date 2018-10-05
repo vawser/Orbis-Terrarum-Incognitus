@@ -1,0 +1,241 @@
+government = tribal_democracy
+mercantilism = 0.1
+technology_group = chinese
+religion = mazu
+primary_culture = hairen
+capital = 4924
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Youxiao"
+		dynasty = "Fu"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1406.1.1
+	}
+
+	heir = {
+		name = "Zongyan"
+		monarch_name = "Zongyan"
+		dynasty = "Fu"
+		adm = 1
+		dip = 3
+		mil = 2
+		claim = 50
+		birth_date = 1419.1.1
+		death_date = 1467.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Hongdao"
+		dynasty = "Jiao"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1402.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Dayong"
+		dynasty = "Huang"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1410.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Song"
+		dynasty = "Xiao"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1429.1.1
+	}
+
+	heir = {
+		name = "Shiming"
+		monarch_name = "Shiming"
+		dynasty = "Xiao"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 75
+		birth_date = 1484.1.1
+		death_date = 1539.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Yourong"
+		dynasty = "Sun"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1492.1.1
+	}
+
+	heir = {
+		name = "Xiaoying"
+		monarch_name = "Xiaoying"
+		dynasty = "Sun"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 25
+		birth_date = 1541.1.1
+		death_date = 1653.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Liangxiang"
+		dynasty = "Zheng"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1554.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Youdun"
+		dynasty = "Fu"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1676.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Jingming"
+		monarch_name = "Jingming"
+		dynasty = "Fu"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 25
+		birth_date = 1698.1.1
+		death_date = 1779.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Shangzhen"
+		dynasty = "Wang"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1671.1.1
+	}
+
+	queen = {
+		country_of_origin = ZHE 
+		name = "Kon"
+		dynasty = "Wang"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1687.1.1
+		death_date = 1748.1.1
+		female = yes
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Zhibao"
+		dynasty = "Niu"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1685.1.1
+	}
+
+	queen = {
+		country_of_origin = ZHE 
+		name = "Luzhen"
+		dynasty = "Niu"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1675.1.1
+		death_date = 1763.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Weizhen"
+		monarch_name = "Weizhen"
+		dynasty = "Niu"
+		adm = 4
+		dip = 1
+		mil = 5
+		claim = 75
+		birth_date = 1741.1.1
+		death_date = 1801.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Danian"
+		dynasty = "Yu"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1753.1.1
+	}
+
+	queen = {
+		country_of_origin = ZHE 
+		name = "Fuyuan"
+		dynasty = "Yu"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1767.1.1
+		death_date = 1807.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Quan"
+		monarch_name = "Quan"
+		dynasty = "Yu"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 100
+		birth_date = 1750.1.1
+		death_date = 1821.1.1
+	}
+}
+

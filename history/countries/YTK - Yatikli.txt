@@ -1,0 +1,299 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = muror
+capital = 4816
+religious_school = green_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Mengtsekya"
+		dynasty = "Kameha'o"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1385.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Kameha'o"
+		adm = 2
+		dip = 3
+		mil = 4
+		claim = 75
+		birth_date = 1437.1.1
+		death_date = 1484.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Moke"
+		dynasty = "Alani"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1355.1.1
+	}
+
+	queen = {
+		country_of_origin = YTK 
+		name = "Poehina"
+		dynasty = "Alani"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1354.1.1
+		death_date = 1458.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Abu"
+		monarch_name = "Abu"
+		dynasty = "Alani"
+		adm = 4
+		dip = 4
+		mil = 4
+		claim = 75
+		birth_date = 1449.1.1
+		death_date = 1511.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Inayat"
+		dynasty = "Ikepela"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1446.1.1
+	}
+
+	heir = {
+		name = "Wuruk"
+		monarch_name = "Wuruk"
+		dynasty = "Ikepela"
+		adm = 5
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1484.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Poerava"
+		dynasty = "Aceh"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 1479.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = YTK 
+		name = "Krei"
+		dynasty = "Aceh"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1485.1.1
+		death_date = 1518.1.1
+	}
+
+	heir = {
+		name = "Kui"
+		monarch_name = "Kui"
+		dynasty = "Aceh"
+		adm = 3
+		dip = 4
+		mil = 5
+		claim = 75
+		birth_date = 1496.1.1
+		death_date = 1589.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Yu"
+		dynasty = "Kamehameha"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1518.1.1
+	}
+
+	queen = {
+		country_of_origin = YTK 
+		name = "Nu’utea"
+		dynasty = "Kamehameha"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1530.1.1
+		death_date = 1641.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Kamehameha"
+		adm = 1
+		dip = 3
+		mil = 1
+		claim = 50
+		birth_date = 1544.1.1
+		death_date = 1592.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Bong"
+		dynasty = "Nohealani"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1573.1.1
+	}
+
+	heir = {
+		name = "Girindrawardhana"
+		monarch_name = "Girindrawardhana"
+		dynasty = "Nohealani"
+		adm = 3
+		dip = 5
+		mil = 3
+		claim = 25
+		birth_date = 1580.1.1
+		death_date = 1680.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Mengtsekya"
+		dynasty = "Hualani"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1630.1.1
+	}
+
+	queen = {
+		country_of_origin = YTK 
+		name = "Moea"
+		dynasty = "Hualani"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1631.1.1
+		death_date = 1737.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "ar-Rahmân"
+		dynasty = "Banten"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1630.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Iskander"
+		monarch_name = "Iskander"
+		dynasty = "Banten"
+		adm = 3
+		dip = 5
+		mil = 3
+		claim = 25
+		birth_date = 1718.1.1
+		death_date = 1789.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Wuruk"
+		dynasty = "Momilani"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1705.1.1
+	}
+
+	queen = {
+		country_of_origin = YTK 
+		name = "Kanoa"
+		dynasty = "Momilani"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1698.1.1
+		death_date = 1787.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Halia"
+		dynasty = "Ahulani"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1714.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = YTK 
+		name = "Shâh"
+		dynasty = "Ahulani"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1728.1.1
+		death_date = 1826.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Ahulani"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 100
+		birth_date = 1755.1.1
+		death_date = 1837.1.1
+	}
+}
+

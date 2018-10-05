@@ -1,0 +1,278 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4600
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Cuntara"
+		dynasty = "Dhariwal"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1385.1.1
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Têcappukal"
+		dynasty = "Dhariwal"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1375.1.1
+		death_date = 1454.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Maravarman"
+		monarch_name = "Maravarman"
+		dynasty = "Dhariwal"
+		adm = 4
+		dip = 4
+		mil = 2
+		claim = 25
+		birth_date = 1425.1.1
+		death_date = 1458.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Kantarâtitta"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1419.1.1
+	}
+
+	heir = {
+		name = "Tribhuvanapala"
+		monarch_name = "Tribhuvanapala"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 5
+		mil = 4
+		claim = 25
+		birth_date = 1426.1.1
+		death_date = 1471.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Vîrôtaya"
+		dynasty = "Gahadvala"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1432.1.1
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Pertal"
+		dynasty = "Gahadvala"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1427.1.1
+		death_date = 1522.1.1
+		female = yes
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Sovideva"
+		dynasty = "Malhi"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1490.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Ramapala"
+		dynasty = "Bundela"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1513.1.1
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Atittapitâriyâr"
+		dynasty = "Bundela"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1516.1.1
+		death_date = 1599.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Bundela"
+		adm = 2
+		dip = 2
+		mil = 1
+		claim = 25
+		birth_date = 1545.1.1
+		death_date = 1638.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Harischandra"
+		dynasty = "Aryacakravarti"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1579.1.1
+	}
+
+	heir = {
+		name = "Asaga"
+		monarch_name = "Asaga"
+		dynasty = "Aryacakravarti"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 50
+		birth_date = 1600.1.1
+		death_date = 1627.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Samanta"
+		dynasty = "Ajaka"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1618.1.1
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Rupadevi"
+		dynasty = "Ajaka"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1601.1.1
+		death_date = 1721.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Vigraharaja"
+		dynasty = "Ummattur"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1620.1.1
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Kundakadevi"
+		dynasty = "Ummattur"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1619.1.1
+		death_date = 1740.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Nankaiyâr"
+		monarch_name = "Nankaiyâr"
+		dynasty = "Ummattur"
+		adm = 3
+		dip = 5
+		mil = 2
+		claim = 25
+		birth_date = 1709.1.1
+		death_date = 1772.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Vitari"
+		dynasty = "Pandya"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1705.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Immadai"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1690.1.1
+		death_date = 1791.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Mahap"
+		dynasty = "Mansukhani"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1729.1.1
+	}
+
+	queen = {
+		country_of_origin = KWI 
+		name = "Susan"
+		dynasty = "Mansukhani"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1730.1.1
+		death_date = 1800.1.1
+		female = yes
+	}
+
+}
+

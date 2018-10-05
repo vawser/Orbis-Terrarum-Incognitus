@@ -1,0 +1,275 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4715
+religious_school = pyrrhon_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Gregoras"
+		dynasty = "Attaleiates"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1380.1.1
+	}
+
+	heir = {
+		name = "Eugenios"
+		monarch_name = "Eugenios"
+		dynasty = "Attaleiates"
+		adm = 5
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1413.1.1
+		death_date = 1451.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Bartholomaios"
+		dynasty = "Skandales"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1435.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Philaretos"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1451.1.1
+	}
+
+	heir = {
+		name = "Alexios"
+		monarch_name = "Alexios"
+		dynasty = "Philaretos"
+		adm = 2
+		dip = 2
+		mil = 3
+		claim = 25
+		birth_date = 1487.1.1
+		death_date = 1580.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Nikomedes"
+		dynasty = "Orphanotrophos"
+		adm = 5
+		dip = 1
+		mil = 3
+		birth_date = 1424.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Gregory"
+		dynasty = "Botaneiates"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1558.1.1
+	}
+
+	heir = {
+		name = "Dionysus"
+		monarch_name = "Dionysus"
+		dynasty = "Botaneiates"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1578.1.1
+		death_date = 1635.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Gregorios"
+		dynasty = "Rizenos"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1571.1.1
+	}
+
+	queen = {
+		country_of_origin = DIA 
+		name = "Euphrasia"
+		dynasty = "Rizenos"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1566.1.1
+		death_date = 1630.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Eirene"
+		monarch_name = "Eirene"
+		dynasty = "Rizenos"
+		adm = 3
+		dip = 3
+		mil = 2
+		claim = 100
+		birth_date = 1606.1.1
+		death_date = 1624.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Alexandra"
+		dynasty = "Katotikos"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1643.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = DIA 
+		name = "Daniel"
+		dynasty = "Katotikos"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1656.1.1
+		death_date = 1720.1.1
+	}
+
+	heir = {
+		name = "Stefanos"
+		monarch_name = "Stefanos"
+		dynasty = "Katotikos"
+		adm = 2
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1670.1.1
+		death_date = 1734.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Gabriel"
+		dynasty = "Peteinakes"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1651.1.1
+	}
+
+	queen = {
+		country_of_origin = DIA 
+		name = "Agatha"
+		dynasty = "Peteinakes"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1656.1.1
+		death_date = 1743.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Antonius"
+		monarch_name = "Antonius"
+		dynasty = "Peteinakes"
+		adm = 5
+		dip = 4
+		mil = 5
+		claim = 100
+		birth_date = 1685.1.1
+		death_date = 1801.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Pavlos"
+		dynasty = "Gabrielopoulos"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1674.1.1
+	}
+
+	heir = {
+		name = "Athanasios"
+		monarch_name = "Athanasios"
+		dynasty = "Gabrielopoulos"
+		adm = 5
+		dip = 5
+		mil = 4
+		claim = 100
+		birth_date = 1730.1.1
+		death_date = 1827.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Alexeios"
+		dynasty = "Sarakenopoulos"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1733.1.1
+	}
+
+	queen = {
+		country_of_origin = DIA 
+		name = "Justina"
+		dynasty = "Sarakenopoulos"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1726.1.1
+		death_date = 1804.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Arsenios"
+		monarch_name = "Arsenios"
+		dynasty = "Sarakenopoulos"
+		adm = 4
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1755.1.1
+		death_date = 1803.1.1
+	}
+}
+

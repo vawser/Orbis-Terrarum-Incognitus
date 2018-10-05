@@ -1,0 +1,17 @@
+
+owner = JIJ
+controller = JIJ
+add_core = JIJ
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = gulamur
+religion = dragon_gods
+
+trade_goods = livestock
+hre = no
+
+

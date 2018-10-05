@@ -1,0 +1,17 @@
+
+owner = MLL
+controller = MLL
+add_core = MLL
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+culture = mul
+religion = dragon_gods
+
+trade_goods = livestock
+hre = no
+
+

@@ -1,0 +1,287 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = chinese
+religion = mazu
+primary_culture = hairen
+capital = 4933
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Jixuan"
+		dynasty = "Ruan"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1370.1.1
+	}
+
+	heir = {
+		name = "Shiming"
+		monarch_name = "Shiming"
+		dynasty = "Ruan"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 25
+		birth_date = 1437.1.1
+		death_date = 1525.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Yunjian"
+		dynasty = "Kong"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1413.1.1
+	}
+
+	heir = {
+		name = "Mao"
+		monarch_name = "Mao"
+		dynasty = "Kong"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 25
+		birth_date = 1427.1.1
+		death_date = 1466.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Ciheng"
+		dynasty = "Cao"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1453.1.1
+	}
+
+	heir = {
+		name = "Nan"
+		monarch_name = "Nan"
+		dynasty = "Cao"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1477.1.1
+		death_date = 1556.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Luzhen"
+		dynasty = "Yan"
+		adm = 4
+		dip = 4
+		mil = 1
+		birth_date = 1445.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Xiaoying"
+		monarch_name = "Xiaoying"
+		dynasty = "Yan"
+		adm = 4
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1473.1.1
+		death_date = 1588.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Changrun"
+		dynasty = "Yu"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1501.1.1
+	}
+
+	queen = {
+		country_of_origin = YUR 
+		name = "Yuying"
+		dynasty = "Yu"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1520.1.1
+		death_date = 1588.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Yuantong"
+		monarch_name = "Yuantong"
+		dynasty = "Yu"
+		adm = 5
+		dip = 3
+		mil = 3
+		claim = 25
+		birth_date = 1554.1.1
+		death_date = 1665.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Fu"
+		dynasty = "Kong"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 1527.1.1
+	}
+
+	heir = {
+		name = "Tianhui"
+		monarch_name = "Tianhui"
+		dynasty = "Kong"
+		adm = 1
+		dip = 4
+		mil = 5
+		claim = 25
+		birth_date = 1594.1.1
+		death_date = 1624.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Bo"
+		dynasty = "Shi"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1662.1.1
+	}
+
+	heir = {
+		name = "Cilang"
+		monarch_name = "Cilang"
+		dynasty = "Shi"
+		adm = 1
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1680.1.1
+		death_date = 1719.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Bian"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1638.1.1
+	}
+
+	queen = {
+		country_of_origin = YUR 
+		name = "Xizheng"
+		dynasty = "Zhou"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1637.1.1
+		death_date = 1735.1.1
+	}
+
+	heir = {
+		name = "Shuang"
+		monarch_name = "Shuang"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 25
+		birth_date = 1700.1.1
+		death_date = 1773.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Changluo"
+		dynasty = "Yue"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1661.1.1
+	}
+
+	heir = {
+		name = "Ruirong"
+		monarch_name = "Ruirong"
+		dynasty = "Yue"
+		adm = 1
+		dip = 4
+		mil = 2
+		claim = 50
+		birth_date = 1721.1.1
+		death_date = 1828.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Shanglie"
+		dynasty = "Huang"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1754.1.1
+	}
+
+	queen = {
+		country_of_origin = YUR 
+		name = "Xiaoying"
+		dynasty = "Huang"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1741.1.1
+		death_date = 1849.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Danian"
+		monarch_name = "Danian"
+		dynasty = "Huang"
+		adm = 2
+		dip = 5
+		mil = 5
+		claim = 25
+		birth_date = 1756.1.1
+		death_date = 1851.1.1
+	}
+}
+

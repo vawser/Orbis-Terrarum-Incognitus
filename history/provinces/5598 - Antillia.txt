@@ -1,0 +1,17 @@
+
+owner = ALI
+controller = ALI
+add_core = ALI
+is_city = yes
+
+base_tax = 5
+base_production = 5
+base_manpower = 6
+
+culture = antillian
+religion = catholic
+
+trade_goods = naval_supplies
+hre = no
+
+

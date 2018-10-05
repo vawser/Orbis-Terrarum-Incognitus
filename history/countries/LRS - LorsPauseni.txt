@@ -1,0 +1,288 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = hurufi
+primary_culture = kakushivilar
+capital = 5084
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Têvânrâl"
+		dynasty = "Jadon"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1360.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Râcatêviyâr"
+		monarch_name = "Râcatêviyâr"
+		dynasty = "Jadon"
+		adm = 2
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1428.1.1
+		death_date = 1528.1.1
+		female = yes
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Cataiyavarman"
+		dynasty = "Chauhan"
+		adm = 4
+		dip = 3
+		mil = 1
+		birth_date = 1383.1.1
+	}
+
+	heir = {
+		name = "Virappa"
+		monarch_name = "Virappa"
+		dynasty = "Chauhan"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 50
+		birth_date = 1421.1.1
+		death_date = 1532.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Venkatapathi"
+		dynasty = "Tupakula"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1404.1.1
+	}
+
+	queen = {
+		country_of_origin = LRS 
+		name = "Kañciakkan"
+		dynasty = "Tupakula"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1410.1.1
+		death_date = 1499.1.1
+		female = yes
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Ariñcikaipirâtti"
+		dynasty = "Gahirawar"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1476.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = LRS 
+		name = "Ahmad"
+		dynasty = "Gahirawar"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1495.1.1
+		death_date = 1521.1.1
+	}
+
+	heir = {
+		name = "Natwar"
+		monarch_name = "Natwar"
+		dynasty = "Gahirawar"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 25
+		birth_date = 1494.1.1
+		death_date = 1593.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Dinakarn"
+		dynasty = "Gajapati"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1546.1.1
+	}
+
+	queen = {
+		country_of_origin = LRS 
+		name = "Sâmavâyi"
+		dynasty = "Gajapati"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1533.1.1
+		death_date = 1653.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Job"
+		monarch_name = "Job"
+		dynasty = "Gajapati"
+		adm = 1
+		dip = 5
+		mil = 5
+		claim = 100
+		birth_date = 1566.1.1
+		death_date = 1599.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Ankâti"
+		dynasty = "Kalachuri"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1551.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Jaitrasimha"
+		monarch_name = "Jaitrasimha"
+		dynasty = "Kalachuri"
+		adm = 1
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1582.1.1
+		death_date = 1641.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Karka"
+		dynasty = "Matsya"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1643.1.1
+	}
+
+	heir = {
+		name = "Chandraraja"
+		monarch_name = "Chandraraja"
+		dynasty = "Matsya"
+		adm = 3
+		dip = 1
+		mil = 2
+		claim = 50
+		birth_date = 1700.1.1
+		death_date = 1746.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Viravijaya"
+		dynasty = "Tuluva"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1643.1.1
+	}
+
+	queen = {
+		country_of_origin = LRS 
+		name = "Pommavâyi"
+		dynasty = "Tuluva"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1653.1.1
+		death_date = 1721.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Immadai"
+		monarch_name = "Immadai"
+		dynasty = "Tuluva"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 75
+		birth_date = 1700.1.1
+		death_date = 1738.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Châma"
+		dynasty = "Kalachuri"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1683.1.1
+	}
+
+	heir = {
+		name = "Bhuvan-Singh"
+		monarch_name = "Bhuvan-Singh"
+		dynasty = "Kalachuri"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1724.1.1
+		death_date = 1779.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Pâlarâvâyan"
+		dynasty = "Anwarudid"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1717.1.1
+	}
+
+	heir = {
+		name = "Cîvallapa"
+		monarch_name = "Cîvallapa"
+		dynasty = "Anwarudid"
+		adm = 2
+		dip = 4
+		mil = 1
+		claim = 25
+		birth_date = 1750.1.1
+		death_date = 1826.1.1
+	}
+}
+

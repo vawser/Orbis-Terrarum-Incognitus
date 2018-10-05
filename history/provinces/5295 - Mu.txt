@@ -1,0 +1,17 @@
+
+owner = YOL
+controller = YOL
+add_core = YOL
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = tobacco
+hre = no
+
+

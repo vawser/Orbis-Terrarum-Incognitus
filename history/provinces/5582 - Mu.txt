@@ -1,0 +1,17 @@
+
+owner = GEQ
+controller = GEQ
+add_core = GEQ
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
+culture = gulamur
+religion = dragon_gods
+
+trade_goods = naval_supplies
+hre = no
+
+

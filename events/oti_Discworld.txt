@@ -1,0 +1,25 @@
+namespace = discworld_events
+
+country_event = {
+	id = discworld_events.1
+	title = discworld_events.1.title
+	desc = discworld_events.1.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+        religion = omnian
+        religion = offlian
+    }
+    
+    is_triggered_only = yes
+    
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = discworld_events.1.option.a
+        
+	}
+}
+

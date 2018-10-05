@@ -1,0 +1,264 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = antillian
+capital = 5598
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Fernando"
+		dynasty = "de Santcliment"
+		adm = 5
+		dip = 1
+		mil = 3
+		birth_date = 1420.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Bermudo"
+		monarch_name = "Bermudo"
+		dynasty = "de Santcliment"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1439.1.1
+		death_date = 1525.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Diego"
+		dynasty = "de Zúñiga"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1398.1.1
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Ximena"
+		dynasty = "de Zúñiga"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1402.1.1
+		death_date = 1482.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Diego"
+		monarch_name = "Diego"
+		dynasty = "de Zúñiga"
+		adm = 4
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1448.1.1
+		death_date = 1495.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Álvaro"
+		dynasty = "de Guzmán"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1424.1.1
+	}
+
+	heir = {
+		name = "Laín"
+		monarch_name = "Laín"
+		dynasty = "de Guzmán"
+		adm = 3
+		dip = 5
+		mil = 3
+		claim = 75
+		birth_date = 1486.1.1
+		death_date = 1556.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Sancho"
+		dynasty = "de Valencia"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1421.1.1
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Stephania"
+		dynasty = "de Valencia"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 1441.1.1
+		death_date = 1512.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Pelagius"
+		dynasty = "de Osorio"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1525.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Obeko"
+		dynasty = "de Zayas"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1583.1.1
+	}
+
+	heir = {
+		name = "Gutierre"
+		monarch_name = "Gutierre"
+		dynasty = "de Zayas"
+		adm = 5
+		dip = 3
+		mil = 5
+		claim = 100
+		birth_date = 1592.1.1
+		death_date = 1632.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Domingo"
+		dynasty = "de Haro"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1645.1.1
+	}
+
+	heir = {
+		name = "Anderquina"
+		monarch_name = "Anderquina"
+		dynasty = "de Haro"
+		adm = 4
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1680.1.1
+		death_date = 1721.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Amalric"
+		dynasty = "de Vilafermosa"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1619.1.1
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Isabel"
+		dynasty = "de Vilafermosa"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1636.1.1
+		death_date = 1730.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ignacio"
+		monarch_name = "Ignacio"
+		dynasty = "de Vilafermosa"
+		adm = 5
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1681.1.1
+		death_date = 1734.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Agnes"
+		dynasty = "de Osuna"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1694.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Juan"
+		dynasty = "de Osuna"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1710.1.1
+		death_date = 1835.1.1
+	}
+
+	heir = {
+		name = "Egidius"
+		monarch_name = "Egidius"
+		dynasty = "de Osuna"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 75
+		birth_date = 1718.1.1
+		death_date = 1767.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Hermenegildo"
+		dynasty = "de Argavieso"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1725.1.1
+	}
+
+}
+

@@ -1,0 +1,279 @@
+namespace = oti_institutions
+
+# Institutional Research
+country_event = {
+	id = oti_institutions.1
+	title = oti_institutions.1.title
+	desc = oti_institutions.1.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+        is_institution_enabled = feudalism
+        NOT = { has_institution = feudalism }
+        capital_scope = {
+            NOT = { feudalism = 100 }
+        }
+        OR = {
+            AND = {
+                technology_group = atlantean
+                mu_superregion = {
+                    NOT = { feudalism = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = muror
+                lemuria_superregion = {
+                    NOT = { feudalism = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = lemurian
+                lemuria_superregion = {
+                    NOT = { feudalism = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = occult
+                rleyh_area = {
+                    NOT = { feudalism = 100 }
+                    type = all
+                }
+            }
+        }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.1
+            any_owned_province = {
+                feudalism = 100
+            }
+        }
+	}
+    
+	option = {
+		name = oti_institutions.1.option.a
+		
+        capital_scope = {
+            add_institution_embracement = {
+                which = feudalism
+                value = 100
+            }
+        }
+	}
+}
+
+country_event = {
+	id = oti_institutions.2
+	title = oti_institutions.1.title
+	desc = oti_institutions.2.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+        is_institution_enabled = renaissance
+        NOT = { has_institution = renaissance }
+        capital_scope = {
+            NOT = { renaissance = 100 }
+        }
+        OR = {
+            AND = {
+                technology_group = atlantean
+                mu_superregion = {
+                    NOT = { renaissance = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = muror
+                lemuria_superregion = {
+                    NOT = { renaissance = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = lemurian
+                lemuria_superregion = {
+                    NOT = { renaissance = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = occult
+                rleyh_area = {
+                    NOT = { renaissance = 100 }
+                    type = all
+                }
+            }
+        }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.1
+            any_owned_province = {
+                renaissance = 100
+            }
+        }
+	}
+    
+	option = {
+		name = oti_institutions.1.option.a
+		
+        capital_scope = {
+            add_institution_embracement = {
+                which = renaissance
+                value = 100
+            }
+        }
+	}
+}
+
+country_event = {
+	id = oti_institutions.3
+	title = oti_institutions.1.title
+	desc = oti_institutions.3.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+        is_institution_enabled = new_world_i
+        NOT = { has_institution = new_world_i }
+        capital_scope = {
+            NOT = { new_world_i = 100 }
+        }
+        OR = {
+            AND = {
+                technology_group = atlantean
+                mu_superregion = {
+                    NOT = { new_world_i = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = muror
+                lemuria_superregion = {
+                    NOT = { new_world_i = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = lemurian
+                lemuria_superregion = {
+                    NOT = { new_world_i = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = occult
+                rleyh_area = {
+                    NOT = { new_world_i = 100 }
+                    type = all
+                }
+            }
+        }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.1
+            any_owned_province = {
+                new_world_i = 100
+            }
+        }
+	}
+    
+	option = {
+		name = oti_institutions.1.option.a
+		
+        capital_scope = {
+            add_institution_embracement = {
+                which = new_world_i
+                value = 100
+            }
+        }
+	}
+}
+
+country_event = {
+	id = oti_institutions.4
+	title = oti_institutions.1.title
+	desc = oti_institutions.4.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+        is_institution_enabled = printing_press
+        NOT = { has_institution = printing_press }
+        capital_scope = {
+            NOT = { printing_press = 100 }
+        }
+        OR = {
+            AND = {
+                technology_group = atlantean
+                mu_superregion = {
+                    NOT = { printing_press = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = muror
+                lemuria_superregion = {
+                    NOT = { printing_press = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = lemurian
+                lemuria_superregion = {
+                    NOT = { printing_press = 100 }
+                    type = all
+                }
+            }
+            AND = {
+                technology_group = occult
+                rleyh_area = {
+                    NOT = { printing_press = 100 }
+                    type = all
+                }
+            }
+        }
+	}
+
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.1
+            any_owned_province = {
+                printing_press = 100
+            }
+        }
+	}
+    
+	option = {
+		name = oti_institutions.1.option.a
+		
+        capital_scope = {
+            add_institution_embracement = {
+                which = printing_press
+                value = 100
+            }
+        }
+	}
+}
+

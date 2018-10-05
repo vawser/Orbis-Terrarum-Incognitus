@@ -1,0 +1,218 @@
+﻿l_english:
+ # Tooltips
+ anx_rebel_crush: "§RWe will attempt to put down the rebels by force, however that may lead to an uprising."
+ anx_rebel_negoiate: "§GWe will attempt to negoiate with the rebels, however they may think we are weak."
+ 
+ # Events
+ # ---- Anaxophas ----
+ anaxophas_events.1.title: "Anaxophoi Unrest"
+ anaxophas_events.1.desc: "Lately there have been more biligerent actions by the fish-eaters. Missing tax collectors are being more and more common around those parts. The fish-eaters are starting to band together into a full blown rebellion against our rule. We can either go in a destory the leaders of the rebellion, or we attempt to negoiate with them."
+ anaxophas_events.1.option.a: "Crush all resistance!"
+ anaxophas_events.1.option.b: "Attempt to negoiate with the fish-eaters."
+ 
+ anaxophas_events.2.title: "Anaxophoi Rebels gaining organisation"
+ anaxophas_events.2.desc: "Our attempt to put down the unrest proved futile."
+ anaxophas_events.2.option.a: "Let them rebel, we will solve this later"
+ 
+ anaxophas_events.3.title: "Anaxophoi Rebels declare independence"
+ anaxophas_events.3.desc: "The Anaxophoi have made their own state. We can either fight it, or leave them be."
+ anaxophas_events.3.option.a: "Will we re-capture our land!"
+ anaxophas_events.3.option.b: "(Player Only) Switch to the Anaxophoi"
+ anaxophas_events.3.option.c: "Let them be in peace"
+ 
+ anaxophas_events.4.title: "Anaxophoi Rebels capture our province"
+ anaxophas_events.4.desc: "Spillover from the Anaxophoi rebels have seized our land on the island. We can either let them be or join the war against them."
+ anaxophas_events.4.option.a: "Join the war against them!"
+ anaxophas_events.4.option.b: "Let them be, those lands were to much of a trouble anyway."
+ 
+ anaxophas_events.5.title: "Anaxophoi Mobilization"
+ anaxophas_events.5.desc: "We have become our own nation, let us organise the troops of the rebellion."
+ anaxophas_events.5.option.a: "An large sized rebellion"
+ anaxophas_events.5.option.b: "An average sized rebellion"
+ 
+ anaxophas_events.6.title: "Anaxophoi Rebels Crushed"
+ anaxophas_events.6.desc: "We have dashed any hope of them uprising ever again. We managed to find their leaders and dealt with them."
+ anaxophas_events.6.option.a: "Rebels crushed!"
+ 
+ anaxophas_events.7.title: "Negotiations with Anaxophoi Rebels"
+ anaxophas_events.7.desc: "With a few small concessions to the rebels, they will be happy forever!"
+ anaxophas_events.7.option.a: "Successful Negotiations means some small concessions"
+ 
+ anaxophas_events.8.title: "Anaxophoi rebels!"
+ anaxophas_events.8.desc: "We have gathered all those that have had land stolen from them by the rebels, let us wage the war."
+ anaxophas_events.8.option.a: "We will retake our lands!"
+ 
+ # ---- Occult ----
+ occult_events.1.title: "Set Forth into the Unknown"
+ occult_events.1.desc: "The devout have stayed cloistered within our lands for far too long. It is time to strike out into the terra incognita and discover what remains of the world, and spread the power of the Great Old Ones."
+ occult_events.1.option.a: "We'll see."
+ 
+ occult_events.2.title: "Gift of [Root.Religion.GetName]"
+ occult_events.2.desc: "The Great Old One, [Root.Religion.GetName] has sought it fit to infuse cosmic essence into the vessel of [Root.Monarch.GetTitle] [Root.Monarch.GetName]. This essence whilst malefic, prevents [Root.Monarch.GetName] from dying."
+ occult_events.2.option.a: "Oh wonderous ... Great Old One!"
+ 
+ occult_events.3.title: "Vision of [Root.Religion.GetName]"
+ occult_events.3.desc: "Our enemies are have seen a vision of the Great Old One, [Root.Religion.GetName]. Their sanity broken, they will fall like flies, broken by the malefic forces of the Outer Dark."
+ occult_events.3.option.a: "[Root.Religion.GetName] fhtagn!"
+ 
+ occult_events.4.title: "Vision of [From.Religion.GetName]"
+ occult_events.4.desc: "Our enemies are worshippers of the Great Old One [From.Religion.GetName]. Our men have seen a vision of the malefic entity known as [From.Religion.GetName], destroying their feeble minds in an instant."
+ occult_events.4.option.a: "Sanity broken!"
+ 
+ # ---- Discworld ----
+ discworld_events.1.title: ""
+ discworld_events.1.desc: ""
+ discworld_events.1.option.a: ""
+ 
+ # ---- Dragon Gods ----
+ dragon_gods_events.1.title: ""
+ dragon_gods_events.1.desc: ""
+ dragon_gods_events.1.option.a: ""
+ 
+ # ---- Nasrani ----
+ nasrani_events.1.title: ""
+ nasrani_events.1.desc: ""
+ nasrani_events.1.option.a: ""
+ 
+ # ---- Hurufi ----
+ hurufi_events.1.title: ""
+ hurufi_events.1.desc: ""
+ hurufi_events.1.option.a: ""
+ 
+ # ---- Mazu ----
+ mazu_events.1.title: ""
+ mazu_events.1.desc: ""
+ mazu_events.1.option.a: ""
+ 
+ # ---- Asakti ----
+ asakti_events.1.title: ""
+ asakti_events.1.desc: ""
+ asakti_events.1.option.a: ""
+ 
+ # ---- Tangata Manu ----
+ tangata_manu_events.1.title: ""
+ tangata_manu_events.1.desc: ""
+ tangata_manu_events.1.option.a: ""
+ 
+ # ---- Arioi ----
+ arioi_events.1.title: ""
+ arioi_events.1.desc: ""
+ arioi_events.1.option.a: ""
+ 
+ # ---- Tiki ----
+ tiki_events.1.title: ""
+ tiki_events.1.desc: ""
+ tiki_events.1.option.a: ""
+ 
+ # ---- Atlantis ----
+ atlantis_events.1.title: "The Discovery of Atlantis!"
+ atlantis_events.1.desc: "A land that was once myths has been discovered. They lost land is in a state of constant civil war, let us hope it stays that way."
+ atlantis_events.1.option.a: "This will be interesting."
+
+ atlantis_events.2.title: "Set Forth into the Unknown"
+ atlantis_events.2.desc: "The nations of Atlantis have stayed cloistered on the isle of Atlantis for far too long. It is time to strike out into the terra incognita and discover what remains of the old world."
+ atlantis_events.2.option.a: "We'll see."
+ 
+ atlantis_events.3.title: "Pax Atlantica"
+ atlantis_events.3.desc: "We have restored much of the Atlantean Empire to it's former glory. Let the people rejoice and the wine flow freely!"
+ atlantis_events.3.option.a: "Hurrah"
+ 
+ # ---- Institutions ----
+ oti_institutions.1.title: "Institutional Research"
+ oti_institutions.1.desc: "Our researchers have revealed many of facets of feudalism to us that were once unknown. This will greatly help our nation's technological advancement."
+ oti_institutions.1.option.a: "Excellent"
+ 
+ oti_institutions.2.desc: "Our researchers have revealed many of facets of the renaissance to us that were once unknown. This will greatly help our nation's technological advancement."
+ 
+ oti_institutions.3.desc: "Our researchers have revealed many of facets of colonialism to us that were once unknown. This will greatly help our nation's technological advancement."
+ 
+ oti_institutions.4.desc: "Our researchers have revealed many of facets of the printing press to us that were once unknown. This will greatly help our nation's technological advancement."
+ 
+ # ---- HArmony ----
+ confucian_events.100.title: "Harmonization of Atlantean Faiths"
+ confucian_events.100.desc: "Our efforts to integrate our atlantean subjects have now finally started to pay off. Our atlantean subjects have begun to accept the ideals of Confucianism and our local officials have also integrated elements of the local religion and culture in our wider Confucian corpus of ideals. As local bureaucrats enter our administration the pagan customs have to some extent began to filter upwards."
+ confucian_events.100.option.a: "'Submit the people of virtue, assimilate the people with enlightenment.'"
+ 
+ confucian_events.101.title: "Harmonization of Lemurian Faiths"
+ confucian_events.101.desc: "Our efforts to integrate our lemurian subjects have now finally started to pay off. Our lemurian subjects have begun to accept the ideals of Confucianism and our local officials have also integrated elements of the local religion and culture in our wider Confucian corpus of ideals. As local bureaucrats enter our administration the pagan customs have to some extent began to filter upwards."
+ confucian_events.101.option.a: "'Submit the people of virtue, assimilate the people with enlightenment.'"
+ 
+ confucian_events.102.title: "Harmonization of Muror Faiths"
+ confucian_events.102.desc: "Our efforts to integrate our muror subjects have now finally started to pay off. Our muror subjects have begun to accept the ideals of Confucianism and our local officials have also integrated elements of the local religion and culture in our wider Confucian corpus of ideals. As local bureaucrats enter our administration the pagan customs have to some extent began to filter upwards."
+ confucian_events.102.option.a: "'Submit the people of virtue, assimilate the people with enlightenment.'"
+ 
+ confucian_events.103.title: "Harmonization of Occult Faiths"
+ confucian_events.103.desc: "Our efforts to integrate our occult subjects have now finally started to pay off. Our occult subjects have begun to accept the ideals of Confucianism and our local officials have also integrated elements of the local religion and culture in our wider Confucian corpus of ideals. As local bureaucrats enter our administration the pagan customs have to some extent began to filter upwards."
+ confucian_events.103.option.a: "'Submit the people of virtue, assimilate the people with enlightenment.'"
+ 
+ confucian_events.104.title: "Harmonization of Mazu"
+ confucian_events.104.desc: "Our efforts to integrate our mazu subjects have now finally started to pay off. Our mazun subjects have begun to accept the ideals of Confucianism and our local officials have also integrated elements of the local religion and culture in our wider Confucian corpus of ideals. As local bureaucrats enter our administration the pagan customs have to some extent began to filter upwards."
+ confucian_events.104.option.a: "'Submit the people of virtue, assimilate the people with enlightenment.'"
+ 
+ # ---- Lore ----
+ oti_lore.1.title: "Atlantis"
+ oti_lore.1.desc: "The once ideal state of Atlantis, found in the Atlantic ocean, has crumbled due to internal strife. Minor states have emerged from the ruins, many abandoning the republican ideals Atlantis was created upon.\n\nSeek to unite the disparate nations of Atlantis once more, and the world will be your oyster."
+ oti_lore.1.option.a: "Good to know."
+
+ oti_lore.2.title: "Lemuria"
+ oti_lore.2.desc: "A lost continent, hypothesized to be a land bridge between Madagascar and India.\n\nThe people of Lemuria have associated closely with Indians, and are often mistaken for them by uneducated westerners. A diverse mix, the Lemurians operate numerous merchant republics on the coasts of Lemuria. Prosperity within the centre of the continent is lacking, and so the many warlords of Lemuria can be found by within this interior region."
+ oti_lore.2.option.a: "Good to know."
+ 
+ oti_lore.3.title: "Mu"
+ oti_lore.3.desc: "A lost continent, it was proposed by the traveler Augustus Le Plongeon that the civilizations of Egypt and Mesoamerica were formed by refugees from the continent of Mu.\n\nAn enigmatic people, the inhabitants of Mu are unduly wise, and their affinity for invention finds no match in the western world. Beset by many polynesian tribes, the people of Mu are struggling survive, as their technological prowess is not enough to account for their lack of numbers."
+ oti_lore.3.option.a: "Good to know."
+ 
+ oti_lore.4.title: "Cthulhu"
+ oti_lore.4.desc: "Our people worship the cosmic entity known as Cthulhu. He is considered a Great Old One, oft worshipped by cultists enthralled with his malificent power.\n\nCthulhu and his spawn built the great stone city of R'leyh upon one of the many islands of Mu. Here he and his children wage war agaisnt all other entities that dare venture to close."
+ oti_lore.4.option.a: "Good to know."
+ 
+ # ---- Exploration ----
+ oti_exploration.1.title: "Discovery of Atlantis"
+ oti_exploration.1.desc: "We are the first non-Atlantean people to have set foot on the shores of Atlantis for centuries. Such an achievement will bring us glory within the royal courts!"
+ oti_exploration.1.desc: "Wonderful"
+ 
+ oti_exploration.2.title: "Discovery of Lemuria"
+ oti_exploration.2.desc: "We are the first non-lemurian people to have set foot on the shores of Lemurian for centuries. Such an achievement will bring us glory within the royal courts!"
+ oti_exploration.2.desc: "Wonderful"
+ 
+ oti_exploration.3.title: "Discovery of Mu"
+ oti_exploration.3.desc: "We are the first non-muror people to have set foot on the shores of Mu for centuries. Such an achievement will bring us glory within the royal courts!"
+ oti_exploration.3.desc: "Wonderful"
+ 
+ 
+ # ---- Dragon Empire ----
+ oti_dragon_empire.1.title: "Fall of the Dragon Empire"
+ oti_dragon_empire.1.desc: "The people of the Dragon Empire have ceased worshipping the Dragon Gods. With there faith wavering, the power of the Dragon Empire fades in turn, and those proclamations of itself continued existence are ignored, for only those that follow the Dragon Gods may claim the throne of the Dragon Empire."
+ oti_dragon_empire.1.option.a: "Alas..."
+ oti_dragon_empire.1.option.b: "The Dragon Gods are supreme!"
+ 
+ oti_dragon_empire.2.title: "Dragon temple is damaged"
+ oti_dragon_empire.2.desc: "A dragon temple in a local province has been damaged after a festival. The dragon priests have requested funds to restore the temple."
+ oti_dragon_empire.2.option.a: "Repair the temple"
+ oti_dragon_empire.2.option.b: "Reclaim the materials to sell"
+ 
+ oti_dragon_empire.3.title: "Corrupt Dragon Priests"
+ oti_dragon_empire.3.desc: "The dragon priests who head the dragon temple in one of our provinces have been ignored their religious duties. Such a lax approach to religious duties is unacceptable, these priests must be made an example of."
+ oti_dragon_empire.3.option.a: "Purge the priests"
+ oti_dragon_empire.3.option.b: "Accept a bribe to ignore the issue"
+ 
+ # ---- Dragon Canal ----
+ oti_dragon_canal.1.title: "Dragon canal finished"
+ oti_dragon_canal.1.desc: ""Throughout history, attempts have been made to connect the Koe Inlet and the North Pacific in some capacity, but none have succeeded on the level of [Root.Owner.GetName]'s project. Where ships once needed to encircle a continent to travel across Mu, the barrier of land that many captains have no doubt cursed for centuries has been chipped away by our ingenious engineers. None thought it would be possible for decades, but we dared not only to think it, but to do it.""
+ oti_dragon_canal.1.option.a: "Wonderful!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

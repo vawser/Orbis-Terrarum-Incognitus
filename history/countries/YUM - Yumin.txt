@@ -1,0 +1,298 @@
+government = tribal_democracy
+mercantilism = 0.1
+technology_group = chinese
+religion = mazu
+primary_culture = hairen
+capital = 4919
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Mian"
+		dynasty = "Du"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1374.1.1
+	}
+
+	heir = {
+		name = "Zaiji"
+		monarch_name = "Zaiji"
+		dynasty = "Du"
+		adm = 4
+		dip = 2
+		mil = 1
+		claim = 75
+		birth_date = 1418.1.1
+		death_date = 1488.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Xiurong"
+		dynasty = "Qiu"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1376.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shouqian"
+		monarch_name = "Shouqian"
+		dynasty = "Qiu"
+		adm = 3
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1438.1.1
+		death_date = 1458.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Bo"
+		dynasty = "Yu"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1404.1.1
+	}
+
+	queen = {
+		country_of_origin = YUM 
+		name = "Boheng"
+		dynasty = "Yu"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1419.1.1
+		death_date = 1519.1.1
+	}
+
+	heir = {
+		name = "Yuntong"
+		monarch_name = "Yuntong"
+		dynasty = "Yu"
+		adm = 4
+		dip = 5
+		mil = 4
+		claim = 25
+		birth_date = 1487.1.1
+		death_date = 1540.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Zailun"
+		dynasty = "Ren"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1427.1.1
+	}
+
+	queen = {
+		country_of_origin = YUM 
+		name = "Kon"
+		dynasty = "Ren"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1418.1.1
+		death_date = 1523.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Xiao'e"
+		monarch_name = "Xiao'e"
+		dynasty = "Ren"
+		adm = 5
+		dip = 1
+		mil = 5
+		claim = 75
+		birth_date = 1506.1.1
+		death_date = 1542.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Song"
+		dynasty = "Chen"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1522.1.1
+	}
+
+	heir = {
+		name = "Linyuan"
+		monarch_name = "Linyuan"
+		dynasty = "Chen"
+		adm = 2
+		dip = 5
+		mil = 1
+		claim = 25
+		birth_date = 1549.1.1
+		death_date = 1618.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Gang"
+		dynasty = "Yu"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1527.1.1
+	}
+
+	queen = {
+		country_of_origin = YUM 
+		name = "Yuantong"
+		dynasty = "Yu"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1533.1.1
+		death_date = 1619.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Yuying"
+		monarch_name = "Yuying"
+		dynasty = "Yu"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 25
+		birth_date = 1607.1.1
+		death_date = 1630.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Cihuan"
+		dynasty = "Mao"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1659.1.1
+	}
+
+	queen = {
+		country_of_origin = YUM 
+		name = "Suzhen"
+		dynasty = "Mao"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1663.1.1
+		death_date = 1723.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Yijun"
+		monarch_name = "Yijun"
+		dynasty = "Mao"
+		adm = 4
+		dip = 3
+		mil = 1
+		claim = 100
+		birth_date = 1683.1.1
+		death_date = 1765.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Gui"
+		dynasty = "Yang"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1686.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Zishi"
+		dynasty = "Hua"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1696.1.1
+	}
+
+	heir = {
+		name = "Changyin"
+		monarch_name = "Changyin"
+		dynasty = "Hua"
+		adm = 2
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1744.1.1
+		death_date = 1828.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Zhongduo"
+		dynasty = "Mao"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1716.1.1
+	}
+
+	queen = {
+		country_of_origin = YUM 
+		name = "Luzhen"
+		dynasty = "Mao"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1702.1.1
+		death_date = 1794.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tianhui"
+		monarch_name = "Tianhui"
+		dynasty = "Mao"
+		adm = 3
+		dip = 3
+		mil = 2
+		claim = 50
+		birth_date = 1784.1.1
+		death_date = 1812.1.1
+		female = yes
+	}
+}
+

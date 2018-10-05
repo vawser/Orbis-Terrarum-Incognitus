@@ -1,0 +1,313 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4662
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Parantaka"
+		dynasty = "Sethupathy"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1408.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "Atavallâl"
+		dynasty = "Sethupathy"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1420.1.1
+		death_date = 1450.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Atticapitâriyâr"
+		monarch_name = "Atticapitâriyâr"
+		dynasty = "Sethupathy"
+		adm = 5
+		dip = 2
+		mil = 2
+		claim = 25
+		birth_date = 1415.1.1
+		death_date = 1509.1.1
+		female = yes
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Vîrôtaya"
+		dynasty = "Silavamsi"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1399.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "MariMâtêvatikal"
+		dynasty = "Silavamsi"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1417.1.1
+		death_date = 1532.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kumar-Singh"
+		monarch_name = "Kumar-Singh"
+		dynasty = "Silavamsi"
+		adm = 1
+		dip = 2
+		mil = 2
+		claim = 50
+		birth_date = 1440.1.1
+		death_date = 1518.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Bhima"
+		dynasty = "Talpura"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1471.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "Perrappai"
+		dynasty = "Talpura"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1477.1.1
+		death_date = 1557.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Jay-Singh"
+		monarch_name = "Jay-Singh"
+		dynasty = "Talpura"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1463.1.1
+		death_date = 1507.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Dadda"
+		dynasty = "Bundela"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1476.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "Pollâtapillai"
+		dynasty = "Bundela"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1486.1.1
+		death_date = 1566.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Varakuni"
+		monarch_name = "Varakuni"
+		dynasty = "Bundela"
+		adm = 4
+		dip = 5
+		mil = 5
+		claim = 25
+		birth_date = 1482.1.1
+		death_date = 1582.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tirumala"
+		dynasty = "Chindaka-Naga"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1537.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Vagbhata"
+		dynasty = "Silavamsi"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1553.1.1
+	}
+
+	heir = {
+		name = "Guhasena"
+		monarch_name = "Guhasena"
+		dynasty = "Silavamsi"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1588.1.1
+		death_date = 1638.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Jayasimha"
+		dynasty = "Tupakula"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1612.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "Meenakshi"
+		dynasty = "Tupakula"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 1606.1.1
+		death_date = 1714.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Amarapuyankan"
+		monarch_name = "Amarapuyankan"
+		dynasty = "Tupakula"
+		adm = 2
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1681.1.1
+		death_date = 1772.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Cadayan"
+		dynasty = "Dhariwal"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1661.1.1
+	}
+
+	heir = {
+		name = "Kâraikkâl"
+		monarch_name = "Kâraikkâl"
+		dynasty = "Dhariwal"
+		adm = 4
+		dip = 2
+		mil = 3
+		claim = 100
+		birth_date = 1685.1.1
+		death_date = 1762.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Marasimha"
+		dynasty = "Jhuti"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1703.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "Susan"
+		dynasty = "Jhuti"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1715.1.1
+		death_date = 1813.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Ahmad"
+		dynasty = "Tuluva"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1738.1.1
+	}
+
+	queen = {
+		country_of_origin = TUO  
+		name = "Accattêvi"
+		dynasty = "Tuluva"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1749.1.1
+		death_date = 1813.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Cyrus"
+		monarch_name = "Cyrus"
+		dynasty = "Tuluva"
+		adm = 4
+		dip = 2
+		mil = 3
+		claim = 50
+		birth_date = 1759.1.1
+		death_date = 1798.1.1
+	}
+}
+

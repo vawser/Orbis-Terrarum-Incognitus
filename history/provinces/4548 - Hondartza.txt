@@ -1,0 +1,16 @@
+
+owner = OIN
+controller = OIN
+add_core = OIN
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = iron
+hre = no
+

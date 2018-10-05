@@ -1,0 +1,17 @@
+
+owner = YUB
+controller = YUB
+add_core = YUB
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 2
+
+culture = lemurian
+religion = asakti
+
+trade_goods = cotton
+hre = no
+
+

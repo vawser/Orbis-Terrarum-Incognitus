@@ -1,0 +1,17 @@
+
+owner = MUR
+controller = MUR
+add_core = MUR
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 2
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = naval_supplies
+hre = no
+
+

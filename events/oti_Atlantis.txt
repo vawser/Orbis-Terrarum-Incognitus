@@ -1,0 +1,95 @@
+namespace = atlantis_events
+
+country_event = {
+	id = atlantis_events.1
+	title = atlantis_events.1.title
+	desc = atlantis_events.1.desc
+	picture = TRADEGOODS_eventPicture
+
+	fire_only_once = yes
+	major = yes
+
+	trigger = {
+		technology_group = western
+		OR = {
+			religion = reformed
+			religion = catholic
+			religion = protestant
+		}
+		knows_country = ATL
+	}
+    
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = atlantis_events.1.option.a
+        
+		add_prestige = 50
+	}
+}
+
+# Set Forth into the Unknown
+country_event = {
+	id = atlantis_events.2
+	title = atlantis_events.2.title
+	desc = atlantis_events.2.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+		technology_group = atlantean
+		NOT = { num_of_explorers = 1 }
+        NOT = {
+            europe = {
+                has_discovered = ROOT
+            }
+        }
+	}
+    
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.01
+            NOT = { is_year = 1445 }
+        }
+	}
+	
+	option = {
+		name = atlantis_events.2.option.a
+        
+		create_explorer = 5
+	}
+}
+
+# Pax Atlantica
+country_event = {
+	id = atlantis_events.3
+	title = atlantis_events.3.title
+	desc = atlantis_events.3.desc
+	picture = PAINTER_ARTIST_eventPicture
+
+    fire_only_once = yes
+    major = yes
+    
+    trigger = {
+        check_variable = {
+            which = pax_atlantica
+            value = 3
+        }
+    }
+    
+    mean_time_to_happen = {
+		months = 1
+    }
+
+	option = {
+		name = atlantis_events.3.option.a
+        
+		add_country_modifier = {
+            name = pax_atlantica
+            duration = -1
+        }
+	}
+}

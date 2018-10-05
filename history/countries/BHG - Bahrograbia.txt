@@ -1,0 +1,252 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4566
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Purnpala"
+		dynasty = "Chola"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1423.1.1
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Samantasimha"
+		dynasty = "Kadamba"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1425.1.1
+	}
+
+	queen = {
+		country_of_origin = BHG 
+		name = "Varakuni"
+		dynasty = "Kadamba"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1435.1.1
+		death_date = 1533.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Kulacêkara"
+		dynasty = "Rathore"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1400.1.1
+	}
+
+	queen = {
+		country_of_origin = BHG 
+		name = "Karumânikkam"
+		dynasty = "Rathore"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1394.1.1
+		death_date = 1510.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Vijai-Singh"
+		monarch_name = "Vijai-Singh"
+		dynasty = "Rathore"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1471.1.1
+		death_date = 1556.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Krishnappa"
+		dynasty = "Yayvapala"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1466.1.1
+	}
+
+	heir = {
+		name = "Vikkirama"
+		monarch_name = "Vikkirama"
+		dynasty = "Yayvapala"
+		adm = 5
+		dip = 3
+		mil = 5
+		claim = 100
+		birth_date = 1469.1.1
+		death_date = 1589.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Kirâmarâcapattan"
+		dynasty = "Keshari"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1514.1.1
+	}
+
+	heir = {
+		name = "Madhava"
+		monarch_name = "Madhava"
+		dynasty = "Keshari"
+		adm = 5
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1551.1.1
+		death_date = 1587.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Mallugi"
+		dynasty = "Sethupathy"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1572.1.1
+	}
+
+	queen = {
+		country_of_origin = BHG 
+		name = "Shantaladevi"
+		dynasty = "Sethupathy"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1585.1.1
+		death_date = 1707.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Mahesh"
+		dynasty = "Sankara"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1636.1.1
+	}
+
+	heir = {
+		name = "Kirtivarman"
+		monarch_name = "Kirtivarman"
+		dynasty = "Sankara"
+		adm = 2
+		dip = 4
+		mil = 2
+		claim = 50
+		birth_date = 1674.1.1
+		death_date = 1784.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Tirumûlattânam"
+		dynasty = "Sohota"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1691.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = BHG 
+		name = "Bhav"
+		dynasty = "Sohota"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1685.1.1
+		death_date = 1750.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Vicayâlaya"
+		dynasty = "Miri"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1681.1.1
+	}
+
+	heir = {
+		name = "Kambarasa"
+		monarch_name = "Kambarasa"
+		dynasty = "Miri"
+		adm = 4
+		dip = 5
+		mil = 3
+		claim = 100
+		birth_date = 1739.1.1
+		death_date = 1828.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Ayudha"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1744.1.1
+	}
+
+	heir = {
+		name = "Gangaraja"
+		monarch_name = "Gangaraja"
+		dynasty = "Ayudha"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 100
+		birth_date = 1782.1.1
+		death_date = 1827.1.1
+	}
+}
+

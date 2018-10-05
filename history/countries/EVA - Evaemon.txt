@@ -1,0 +1,292 @@
+government = merchant_republic
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4678
+religious_school = cynic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Stefanos"
+		dynasty = "Nabatenos"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1411.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Eustathia"
+		dynasty = "Nabatenos"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 1416.1.1
+		death_date = 1491.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "George"
+		dynasty = "Doukas"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1423.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Constantina"
+		dynasty = "Doukas"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1422.1.1
+		death_date = 1466.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Hektorios"
+		monarch_name = "Hektorios"
+		dynasty = "Doukas"
+		adm = 4
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1435.1.1
+		death_date = 1511.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Maurex"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1450.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Helene"
+		dynasty = "Maurex"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1446.1.1
+		death_date = 1507.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Euphemia"
+		monarch_name = "Euphemia"
+		dynasty = "Maurex"
+		adm = 2
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1466.1.1
+		death_date = 1564.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Chrysanthos"
+		dynasty = "Xeros"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1483.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Constantia"
+		dynasty = "Xeros"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1474.1.1
+		death_date = 1595.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Diogenes"
+		dynasty = "Kalekas"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1535.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Diogenes"
+		monarch_name = "Diogenes"
+		dynasty = "Kalekas"
+		adm = 3
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1569.1.1
+		death_date = 1643.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Gregory"
+		dynasty = "Dikaios"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 1546.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Antipatra"
+		dynasty = "Dikaios"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1544.1.1
+		death_date = 1659.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Eusebios"
+		dynasty = "Batatzes"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1660.1.1
+	}
+
+	heir = {
+		name = "Eustathios"
+		monarch_name = "Eustathios"
+		dynasty = "Batatzes"
+		adm = 4
+		dip = 4
+		mil = 5
+		claim = 100
+		birth_date = 1664.1.1
+		death_date = 1761.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Anthe"
+		dynasty = "Adralestos"
+		adm = 4
+		dip = 4
+		mil = 1
+		birth_date = 1666.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Justina"
+		monarch_name = "Justina"
+		dynasty = "Adralestos"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 75
+		birth_date = 1681.1.1
+		death_date = 1788.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Antonios"
+		dynasty = "Koukouzelis"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1693.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Chrysogone"
+		dynasty = "Koukouzelis"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1682.1.1
+		death_date = 1786.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Theodoros"
+		monarch_name = "Theodoros"
+		dynasty = "Koukouzelis"
+		adm = 4
+		dip = 4
+		mil = 5
+		claim = 100
+		birth_date = 1726.1.1
+		death_date = 1837.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Himerios"
+		dynasty = "Theodosiopolites"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1728.1.1
+	}
+
+	queen = {
+		country_of_origin = EVA 
+		name = "Zoe"
+		dynasty = "Theodosiopolites"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1723.1.1
+		death_date = 1791.1.1
+		female = yes
+	}
+
+}
+

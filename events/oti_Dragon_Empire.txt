@@ -1,0 +1,162 @@
+namespace = oti_dragon_empire
+
+# Prevent the Dragon Empire gov. form belonging to a non-Dragon Gods nation
+country_event = {
+	id = oti_dragon_empire.1
+	title = oti_dragon_empire.1.title
+	desc = oti_dragon_empire.1.desc
+	picture = BAD_WITH_MONARCH_eventPicture
+
+    major = yes
+    
+	trigger = {
+        government = dragon_empire
+        NOT = { religion = dragon_gods }
+	}
+
+    mean_time_to_happen = {
+		months = 1
+	}
+    
+	option = {
+		name = oti_dragon_empire.1.option.a
+        
+        change_government = feudal_monarchy
+        
+        ai_chance = {
+            factor = 90
+        }
+	}
+    
+    option = {
+		name = oti_dragon_empire.1.option.b
+        
+        add_prestige = -100
+        force_converted = yes
+        
+        change_religion = dragon_gods
+        capital_scope = {
+            change_religion = dragon_gods
+        }
+        
+        ai_chance = {
+            factor = 10
+            modifier = {
+                factor = 0
+                NOT = { dominant_religion = dragon_gods }
+            }
+        }
+	}
+}
+
+# Dragon Temple falls into ruin
+# - Repair the temple
+# - Reclaim the materials
+country_event = {
+	id = oti_dragon_empire.2
+	title = oti_dragon_empire.2.title
+	desc = oti_dragon_empire.2.desc
+	picture = DIPLOMACY_eventPicture
+
+	trigger = {
+        government = dragon_empire
+        legitimacy = 25
+        years_of_income = 0.5
+	}
+    
+    mean_time_to_happen = {
+		months = 360
+        
+        modifier = {
+            factor = 0.9
+            NOT = { stability = 0 }
+        }
+        
+        modifier = {
+            factor = 0.5
+            legitimacy = 90
+        }
+	}
+    
+	option = {
+		name = oti_dragon_empire.2.option.a
+        
+        add_years_of_income = -1
+        add_legitimacy = 10
+        
+        ai_chance = {
+            factor = 80
+        }
+	}
+    
+    option = {
+		name = oti_dragon_empire.2.option.b
+        
+        add_years_of_income = 1
+        add_legitimacy = -10
+        
+        ai_chance = {
+            factor = 20
+            modifier = {
+                factor = 0
+                NOT = { legitimacy = 95 }
+            }
+        }
+	}
+}
+
+# Corrupt Dragon Priests
+# - Purge priests
+# - Accept bribe
+country_event = {
+	id = oti_dragon_empire.3
+	title = oti_dragon_empire.3.title
+	desc = oti_dragon_empire.3.desc
+	picture = CORRUPTION_eventPicture
+
+	trigger = {
+        government = dragon_empire
+        legitimacy = 25
+        years_of_income = 0.5
+	}
+    
+    mean_time_to_happen = {
+		months = 360
+        
+        modifier = {
+            factor = 0.9
+            NOT = { stability = 0 }
+        }
+        
+        modifier = {
+            factor = 0.5
+            legitimacy = 90
+        }
+	}
+    
+	option = {
+		name = oti_dragon_empire.3.option.a
+
+        add_legitimacy = 10
+        
+        ai_chance = {
+            factor = 80
+        }
+	}
+    
+    option = {
+		name = oti_dragon_empire.3.option.b
+        
+        add_years_of_income = 0.5
+        add_legitimacy = -10
+        
+        ai_chance = {
+            factor = 20
+            modifier = {
+                factor = 0
+                NOT = { legitimacy = 95 }
+            }
+        }
+	}
+}
+

@@ -1,0 +1,72 @@
+namespace = anthropofagoi_events
+
+country_event = {
+	id = anthropofagoi_events.100
+	title = anthropofagoi_events.100.title
+	desc = anthropofagoi_events.100.desc
+	picture = RELIGION_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		any_known_country = { tag = APF }
+		NOT = { has_country_flag = hating_ant }
+		NOT = { tag = APF }
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+
+		modifier = {
+			factor = 0.1
+			NOT = { tag = APF }
+		}
+	}
+	
+	
+	option = {
+		name = anthropofagoi_events.100.option.a
+        
+		set_country_flag = hating_ant
+		add_opinion = { 
+            who = APF
+            modifier = pariah_state
+		}
+    }
+}
+
+country_event = {
+	id = anthropofagoi_events.2
+	title = anthropofagoi_events.2.title
+	desc = anthropofagoi_events.2.desc
+	picture = RELIGION_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		any_known_country = { tag = ATL }
+		NOT = { has_country_flag = hating_ant }
+		ATL = { has_country_flag = upgrade_APF }
+		NOT = { tag = ATL }
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+
+		modifier = {
+			factor = 0.1
+			NOT = { tag = ATL }
+		}
+	}
+	
+	
+	option = {
+		name = "anthropofagoi_events.EVTOPTA1"
+		set_country_flag = hating_ant
+		add_opinion = { 
+            who = ATL
+            modifier = pariah_state
+		}
+    }
+}
+

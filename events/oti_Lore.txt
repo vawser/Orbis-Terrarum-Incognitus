@@ -1,0 +1,102 @@
+namespace = oti_lore
+
+# Atlantis
+country_event = {
+	id = oti_lore.1
+	title = oti_lore.1.title
+	desc = oti_lore.1.desc
+	picture = BIG_BOOK_eventPicture
+	
+	fire_only_once = yes
+    is_triggered_only = yes
+    
+    trigger = {
+        NOT = { has_country_flag = shown_lore_event }
+        technology_group = atlantean
+        ai = no
+    }
+    
+    immediate = {
+        set_country_flag = shown_lore_event
+    }
+    
+	option = {
+		name = oti_lore.1.option.a
+	}
+}
+
+# Lemurian
+country_event = {
+	id = oti_lore.2
+	title = oti_lore.2.title
+	desc = oti_lore.2.desc
+	picture = BIG_BOOK_eventPicture
+	
+	fire_only_once = yes
+    is_triggered_only = yes
+    
+    trigger = {
+        NOT = { has_country_flag = shown_lore_event }
+        technology_group = lemurian
+        ai = no
+    }
+    
+    immediate = {
+        set_country_flag = shown_lore_event
+    }
+    
+	option = {
+		name = oti_lore.2.option.a
+	}
+}
+
+# Mu
+country_event = {
+	id = oti_lore.3
+	title = oti_lore.3.title
+	desc = oti_lore.3.desc
+	picture = BIG_BOOK_eventPicture
+	
+	fire_only_once = yes
+    is_triggered_only = yes
+    
+    trigger = {
+        NOT = { has_country_flag = shown_lore_event }
+        technology_group = muror
+        ai = no
+    }
+    
+    immediate = {
+        set_country_flag = shown_lore_event
+    }
+    
+	option = {
+		name = oti_lore.3.option.a
+	}
+}
+
+# Occult
+country_event = {
+	id = oti_lore.4
+	title = oti_lore.4.title
+	desc = oti_lore.4.desc
+	picture = BIG_BOOK_eventPicture
+	
+	fire_only_once = yes
+    is_triggered_only = yes
+    
+    trigger = {
+        NOT = { has_country_flag = shown_lore_event }
+        technology_group = occult
+        tag = CTH
+        ai = no
+    }
+    
+    immediate = {
+        set_country_flag = shown_lore_event
+    }
+    
+	option = {
+		name = oti_lore.4.option.a
+	}
+}

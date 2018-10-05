@@ -1,0 +1,298 @@
+country_decisions = {
+    institute_priest_rights = {
+		potential = {
+			religion = hellenic
+			NOT = { has_country_modifier = instituted_priest_rights }
+		}
+		allow = {
+			advisor = theologian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "instituted_priest_rights"
+				duration = -1
+			}
+        }
+		ai_will_do = {
+			factor = 1
+		}	
+	}
+
+
+	introduce_holy_text = {
+		potential = {
+			religion = hellenic
+			NOT = { has_country_modifier = holy_text_introduced }
+		}
+		allow = {
+			advisor = theologian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "holy_text_introduced"
+				duration = -1
+			}
+        }
+		ai_will_do = {
+			factor = 1
+		}	
+	}
+
+	formalize_worship = {
+		potential = {
+			religion = hellenic
+			NOT = { has_country_modifier = proper_worship }
+		}
+		allow = {
+            advisor = inquisitor
+			stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "proper_worship"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	call_for_preservation_of_the_oracles = {		
+		potential = {
+			religion = hellenic
+			NOT = { has_country_modifier = preservation_of_the_oracles }
+		}
+		allow = {
+			stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "preservation_of_the_oracles"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	support_the_priesthood = {
+		potential = {
+			religion = hellenic
+			NOT = { has_country_modifier = priesthood_supported }
+		}
+		allow = {
+			advisor = theologian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "priesthood_supported"
+				duration = -1				  
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}	
+	}
+	
+	institute_inclusive_worship = {
+				
+		potential = {
+			religion = hellenic
+            NOT = { has_country_modifier = inclusive_worship }
+			NOT = { has_country_modifier = exclusive_worship }
+		}
+		allow = {
+			religion = hellenic
+            stability = 1
+            NOT = { has_country_modifier = inclusive_worship }
+			NOT = { has_country_modifier = exclusive_worship }
+		}
+		effect = {
+			add_country_modifier = {
+				name = "inclusive_worship"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.5			
+		}	
+	}
+	
+	institute_exclusive_worship = {
+				
+		potential = {
+			religion = hellenic
+			NOT = { has_country_modifier = exclusive_worship }
+			NOT = { has_country_modifier = inclusive_worship }
+		}
+		allow = {
+			religion = hellenic
+            stability = 1
+            NOT = { has_country_modifier = inclusive_worship }
+			NOT = { has_country_modifier = exclusive_worship }
+		}
+		effect = {
+			add_country_modifier = {
+				name = "exclusive_worship"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.5			
+		}	
+	}
+
+	commission_unggue_pots = {
+				
+		potential = {
+			religion = omnian
+			NOT = { has_country_modifier = unggue_pot_museum }
+			
+		}
+		allow = {
+			advisor = theologian
+			stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "unggue_pot_museum"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1.0			
+		}	
+	}
+	
+	ban_witches = {
+		potential = {
+			religion = omnian
+			NOT = { has_country_modifier = witches_banned }	
+			NOT = { has_country_modifier = witches_supported }
+		}
+		allow = {
+			advisor = theologian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "witches_banned"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.2			
+		}	
+	}
+	
+	give_witches_free_reign = {	
+		potential = {
+			religion = omnian
+			NOT = { has_country_modifier = witches_supported }
+			NOT = { has_country_modifier = witches_banned }	
+		}
+		allow = {
+			religion = omnian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "witches_supported"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.7			
+		}	
+	}
+	
+	proclaim_om = {
+		potential = {
+			religion = omnian
+			NOT = { has_country_modifier = no_god_but_om }
+			
+		}
+		allow = {
+			advisor = theologian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "no_god_but_om"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.9			
+		}	
+	}
+
+	confirm_offler = {
+				
+		potential = {
+			religion = offlian
+			NOT = { has_country_modifier = offler_is_number_one }
+			
+		}
+		allow = {
+			advisor = theologian
+            stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "offler_is_number_one"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.8			
+		}	
+	}
+	
+	declare_standard_offerings = {
+		potential = {
+			religion = offlian
+			NOT = { has_country_modifier = sausages_r_good }
+			
+		}
+		allow = {
+			advisor = theologian
+			stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "sausages_r_good" 
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.8			
+		}	
+	}
+	
+	ban_broccoli = {	
+		potential = {
+			religion = offlian
+			NOT = { has_country_modifier = broccoli_banned }
+			
+		}
+		allow = {
+			advisor = theologian
+			stability = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "broccoli_banned"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0.2			
+		}	
+	}
+}

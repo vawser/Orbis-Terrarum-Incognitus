@@ -1,0 +1,1354 @@
+# Power
+atlantis_ideas = {
+	start = {
+        global_institution_spread = 0.25
+        idea_cost = -0.1
+    }
+	bonus = {
+        all_power_cost = -0.1
+    }
+	trigger = {
+		tag = ATL
+    }
+	free = yes
+	
+	atlantis_ideas_1 = {
+        technology_cost = -0.1
+    }
+	atlantis_ideas_2 = {
+        yearly_corruption = -0.05
+    }
+    atlantis_ideas_3 = {
+        embracement_cost = -0.1
+    }
+    atlantis_ideas_4 = {
+        monarch_admin_power = 1
+    }
+    atlantis_ideas_5 = {
+        monarch_diplomatic_power = 1
+    }
+    atlantis_ideas_6 = {
+        monarch_military_power = 1
+    }
+    atlantis_ideas_7 = {
+        advisor_cost = -0.1
+    }
+}
+# Army
+anaxophas_ideas = {
+	start = {
+        army_tradition = 1
+        infantry_cost = -0.15
+    }
+	bonus = {
+        infantry_power = 0.2
+    }
+	trigger = {
+		tag = ANX
+    }
+	free = yes
+	
+	anaxophas_ideas_1 = {
+        land_morale = 0.15
+    }
+	anaxophas_ideas_2 = {
+        global_manpower_modifier = 0.2
+    }
+    anaxophas_ideas_3 = {
+        land_maintenance_modifier = -0.1
+    }
+    anaxophas_ideas_4 = {
+        yearly_army_professionalism = 0.01
+        army_tradition_decay = -0.01
+    }
+    anaxophas_ideas_5 = {
+        state_maintenance_modifier = -0.2
+    }
+    anaxophas_ideas_6 = {
+        leader_siege = 1
+    }
+    anaxophas_ideas_7 = {
+        core_creation = -0.1
+    }
+}
+# Army
+anthropofagoi_ideas = {
+	start = {
+        cavalry_cost = -0.2
+        reinforce_cost_modifier = -0.2
+    }
+	bonus = {
+        cavalry_power = 0.2
+    }
+	trigger = {
+		tag = APF
+    }
+	free = yes
+	
+	anthropofagoi_ideas_1 = {
+        land_forcelimit_modifier = 0.25
+    }
+	anthropofagoi_ideas_2 = {
+        loot_amount = 0.5
+    }
+    anthropofagoi_ideas_3 = {
+        leader_land_manuever = 1
+    }
+    anthropofagoi_ideas_4 = {
+        shock_damage = 0.15
+    }
+    anthropofagoi_ideas_5 = {
+        movement_speed = 0.2
+    }
+    anthropofagoi_ideas_6 = {
+        unjustified_demands = -0.2
+    }
+    anthropofagoi_ideas_7 = {
+        discipline = 0.05
+    }
+}
+# Navy
+aterpea_ideas = {
+	start = {
+        global_ship_cost = -0.2
+        capture_ship_chance = 0.1
+    }
+	bonus = {
+        heavy_ship_power = 0.15
+    }
+	trigger = {
+		tag = ATE
+    }
+	free = yes
+	
+	aterpea_ideas_1 = {
+        naval_tradition_from_battle = 1.0
+    }
+	aterpea_ideas_2 = {
+        navy_tradition = 1
+    }
+    aterpea_ideas_3 = {
+        global_sailors_modifier = 0.5
+    }
+    aterpea_ideas_4 = {
+        sailor_maintenance_modifer = -0.2
+    }
+    aterpea_ideas_5 = {
+        naval_morale = 0.15
+    }
+    aterpea_ideas_6 = {
+        build_cost = -0.2
+    }
+    aterpea_ideas_7 = {
+        ship_durability = 0.05
+    }
+}
+# Economy
+artzainoi_ideas = {
+	start = {
+        global_tax_modifier = 0.1
+        interest = -1
+    }
+	bonus = {
+        administrative_efficiency = 0.05
+    }
+	trigger = {
+		tag = ATZ
+    }
+	free = yes
+	
+	artzainoi_ideas_1 = {
+        development_cost = -0.2
+    }
+	artzainoi_ideas_2 = {
+        global_institution_spread = 0.15
+    }
+    artzainoi_ideas_3 = {
+        production_efficiency = 0.2
+    }
+    artzainoi_ideas_4 = {
+        inflation_reduction = 0.1
+    }
+    artzainoi_ideas_5 = {
+        prestige = 1
+    }
+    artzainoi_ideas_6 = {
+        max_states = 3
+    }
+    artzainoi_ideas_7 = {
+        core_creation = -0.15
+    }
+}
+# Trade
+banepstimyo_ideas = {
+	start = {
+        naval_maintenance_modifier = -0.1
+        light_ship_cost = -0.15
+    }
+	bonus = {
+        naval_forcelimit_modifier = 0.5
+    }
+	trigger = {
+		tag = BNP
+    }
+	free = yes
+	
+	banepstimyo_ideas_1 = {
+        blockade_efficiency = 0.5
+    }
+	banepstimyo_ideas_2 = {
+        trade_efficiency = 0.1
+    }
+    banepstimyo_ideas_3 = {
+        trade_steering = 0.2
+    }
+    banepstimyo_ideas_4 = {
+        global_ship_trade_power = 0.2
+    }
+    banepstimyo_ideas_5 = {
+        ship_power_propagation = 0.1
+    }
+    banepstimyo_ideas_6 = {
+        naval_attrition = -0.2
+    }
+    banepstimyo_ideas_7 = {
+        merchants = 1
+    }
+}
+# Army
+ichthyofagoi_ideas = {
+	start = {
+        land_forcelimit_modifier = 0.1
+        land_maintenance_modifier = -0.1
+    }
+	bonus = {
+        siege_ability = 0.2
+    }
+	trigger = {
+		tag = ICH
+    }
+	free = yes
+	
+	ichthyofagoi_ideas_1 = {
+        leader_siege = 1
+    }
+	ichthyofagoi_ideas_2 = {
+        artillery_cost = -0.2
+    }
+    ichthyofagoi_ideas_3 = {
+        artillery_power = 0.15
+    }
+    ichthyofagoi_ideas_4 = {
+        ae_impact = -0.05
+    }
+    ichthyofagoi_ideas_5 = {
+        global_unrest = -2
+    }
+    ichthyofagoi_ideas_6 = {
+        drill_gain_modifier = 0.5
+        army_tradition = 1
+    }
+    ichthyofagoi_ideas_7 = {
+        backrow_artillery_damage = 0.15
+    }
+}
+# Trade
+indarra_ideas = {
+	start = {
+        caravan_power = 0.2
+        placed_merchant_power = 0.1
+    }
+	bonus = {
+        merchants = 1
+    }
+	trigger = {
+		tag = IND
+    }
+	free = yes
+	
+	indarra_ideas_1 = {
+        global_own_trade_power = 0.2
+    }
+	indarra_ideas_2 = {
+        trade_steering = 0.15
+    }
+    indarra_ideas_3 = {
+        trade_range_modifier = 0.1
+    }
+    indarra_ideas_4 = {
+        num_accepted_cultures = 1
+    }
+    indarra_ideas_5 = {
+        global_trade_goods_size_modifier = 0.2
+    }
+    indarra_ideas_6 = {
+        stability_cost_modifier = -0.2
+    }
+    indarra_ideas_7 = {
+        trade_efficiency = 0.1
+    }
+}
+# Diplomacy
+kanivalon_ideas = {
+	start = {
+        diplomats = 1
+        diplomatic_upkeep = 1
+    }
+	bonus = {
+        global_autonomy = -0.1
+    }
+	trigger = {
+		tag = KNV
+    }
+	free = yes
+	
+	kanivalon_ideas_1 = {
+        vassal_income = 0.5
+    }
+	kanivalon_ideas_2 = {
+        envoy_travel_time = -0.5
+    }
+    kanivalon_ideas_3 = {
+        diplomatic_reputation = 2
+    }
+    kanivalon_ideas_4 = {
+        improve_relation_modifier = 0.2
+    }
+    kanivalon_ideas_5 = {
+        diplomatic_annexation_cost = -0.25
+    }
+    kanivalon_ideas_6 = {
+        years_of_nationalism = -5
+    }
+    kanivalon_ideas_7 = {
+        vassal_forcelimit_bonus = 0.5
+    }
+}
+# Economy
+melachrinoi_ideas = {
+	start = {
+        production_efficiency = 0.1
+        development_cost = -0.1
+    }
+	bonus = {
+        core_creation = -0.1
+    }
+	trigger = {
+		tag = MEL
+    }
+	free = yes
+	
+	melachrinoi_ideas_1 = {
+        build_cost = -0.2
+    }
+	melachrinoi_ideas_2 = {
+        build_time = -0.5
+    }
+    melachrinoi_ideas_3 = {
+        advisor_cost = -0.1
+        advisor_pool = 1
+    }
+    melachrinoi_ideas_4 = {
+        monthly_splendor = 1
+        prestige = 1
+    }
+    melachrinoi_ideas_5 = {
+        monarch_admin_power = 1
+    }
+    melachrinoi_ideas_6 = {
+        yearly_corruption = -0.05
+    }
+    melachrinoi_ideas_7 = {
+        state_maintenance_modifier = -0.25
+    }
+}
+# Religious
+oinordekoek_ideas = {
+	start = {
+        adm_tech_cost_modifier = -0.1
+        tolerance_own = 1
+    }
+	bonus = {
+        missionaries = 1
+    }
+	trigger = {
+		tag = OIN
+    }
+	free = yes
+	
+	oinordekoek_ideas_1 = {
+        heir_chance = 0.5
+    }
+	oinordekoek_ideas_2 = {
+        global_missionary_strength = 0.03
+    }
+    oinordekoek_ideas_3 = {
+        prestige_per_development_from_conversion = 1.0
+    }
+    oinordekoek_ideas_4 = {
+        global_spy_defence = 0.2
+    }
+    oinordekoek_ideas_5 = {
+        global_unrest = -2
+    }
+    oinordekoek_ideas_6 = {
+        prestige_decay = -0.02
+    }
+    oinordekoek_ideas_7 = {
+        warscore_cost_vs_other_religion = -0.25
+    }
+}
+# Navy
+sorginak_ideas = {
+	start = {
+        global_ship_recruit_speed = -0.2
+        global_ship_repair = 0.2
+    }
+	bonus = {
+        global_ship_cost = -0.33
+    }
+	trigger = {
+		tag = SOR
+    }
+	free = yes
+	
+	sorginak_ideas_1 = {
+        naval_maintenance_modifier = -0.15
+    }
+	sorginak_ideas_2 = {
+        naval_attrition = -0.2
+    }
+    sorginak_ideas_3 = {
+        leader_naval_fire = 1
+    }
+    sorginak_ideas_4 = {
+        leader_naval_shock = 1
+    }
+    sorginak_ideas_5 = {
+        galley_power = 0.2
+    }
+    sorginak_ideas_6 = {
+        global_foreign_trade_power = 0.1
+    }
+    sorginak_ideas_7 = {
+        naval_morale = 0.15
+    }
+}
+# Navy
+trichotos_ideas = {
+	start = {
+        naval_morale = 0.1
+        heavy_ship_cost = -0.1
+    }
+	bonus = {
+        ship_durability = 0.1
+    }
+	trigger = {
+		tag = TCH
+    }
+	free = yes
+	
+	trichotos_ideas_1 = {
+        global_sailors_modifier = 0.33
+    }
+	trichotos_ideas_2 = {
+        blockade_efficiency = 0.5
+    }
+    trichotos_ideas_3 = {
+        leader_naval_fire = 1
+    }
+    trichotos_ideas_4 = {
+        prestige_from_naval = 1.0
+    }
+    trichotos_ideas_5 = {
+        sailor_maintenance_modifer = -0.25
+    }
+    trichotos_ideas_6 = {
+        ae_impact = -0.1
+    }
+    trichotos_ideas_7 = {
+        sailors_recovery_speed = 0.2
+    }
+}
+# Navy
+thule_ideas = {
+	start = {
+        global_ship_cost = -0.2
+        colonists = 1
+    }
+	bonus = {
+        naval_forcelimit_modifier = 0.25
+    }
+	trigger = {
+		tag = THL
+    }
+	free = yes
+	
+	thule_ideas_1 = {
+        global_colonial_growth = 30
+    }
+	thule_ideas_2 = {
+        range = 1.0
+    }
+    thule_ideas_3 = {
+        native_assimilation = 0.5
+    }
+    thule_ideas_4 = {
+        privateer_efficiency = 0.5
+    }
+    thule_ideas_5 = {
+        global_sailors_modifier = 0.25
+    }
+    thule_ideas_6 = {
+        global_tariffs = 0.33
+    }
+    thule_ideas_7 = {
+        reduced_liberty_desire = 10
+        # +10% Burgher loyalty
+    }
+}
+# Army
+ampheres_ideas = {
+	start = {
+        land_attrition = -0.1
+        reinforce_cost_modifier = -0.2
+    }
+	bonus = {
+        global_regiment_cost = -0.3
+    }
+	trigger = {
+		tag = AMP
+    }
+	free = yes
+	
+	ampheres_ideas_1 = {
+        global_manpower_modifier = 0.2
+    }
+	ampheres_ideas_2 = {
+        shock_damage_received = -0.2
+    }
+    ampheres_ideas_3 = {
+        defensiveness = 0.5
+    }
+    ampheres_ideas_4 = {
+        fort_maintenance_modifier = -0.2
+    }
+    ampheres_ideas_5 = {
+        war_taxes_cost_modifier = -0.5
+    }
+    ampheres_ideas_6 = {
+        war_exhaustion = -0.1
+    }
+    ampheres_ideas_7 = {
+        fire_damage_received = -0.2
+    }
+}
+# Religion
+evaemon_ideas = {
+	start = {
+        global_institution_spread = 0.1
+        yearly_corruption = -0.05
+    }
+	bonus = {
+        global_unrest = -2
+    }
+	trigger = {
+		tag = EVA
+    }
+	free = yes
+	
+	evaemon_ideas_1 = {
+        religious_unity = 0.5
+    }
+	evaemon_ideas_2 = {
+        max_states = 5
+    }
+    evaemon_ideas_3 = {
+        years_of_nationalism = -5
+    }
+    evaemon_ideas_4 = {
+        prestige = 1
+    }
+    evaemon_ideas_5 = {
+        stability_cost_modifier = -0.2
+    }
+    evaemon_ideas_6 = {
+        build_cost = -0.1
+    }
+    evaemon_ideas_7 = {
+        tolerance_heathen = 2
+    }
+}
+# Trade
+mneseus_ideas = {
+	start = {
+        merchants = 1
+        global_prov_trade_power_modifier = 0.2
+    }
+	bonus = {
+        naval_morale = 0.1
+    }
+	trigger = {
+		tag = MNE
+    }
+	free = yes
+	
+	mneseus_ideas_1 = {
+        light_ship_cost = -0.1
+    }
+	mneseus_ideas_2 = {
+        naval_maintenance_modifier = -0.2
+    }
+    mneseus_ideas_3 = {
+        naval_forcelimit_modifier = 0.2
+    }
+    mneseus_ideas_4 = {
+        ship_durability = 0.1
+    }
+    mneseus_ideas_5 = {
+        capture_ship_chance = 0.25
+    }
+    mneseus_ideas_6 = {
+        sunk_ship_morale_hit_recieved = -0.2
+    }
+    mneseus_ideas_7 = {
+        global_naval_engagement_modifier = 0.1
+    }
+}
+# Army
+autochthon_ideas = {
+	start = {
+        manpower_recovery_speed = 0.1
+        mercenary_cost = -0.25
+    }
+	bonus = {
+        recover_army_morale_speed = 0.05
+    }
+	trigger = {
+		tag = AUT
+    }
+	free = yes
+	
+	autochthon_ideas_1 = {
+        mercenary_discipline = 0.05
+    }
+	autochthon_ideas_2 = {
+        land_morale = 0.1
+    }
+    autochthon_ideas_3 = {
+        loot_amount = 0.33
+    }
+    autochthon_ideas_4 = {
+        reinforce_speed = 0.25
+    }
+    autochthon_ideas_5 = {
+        hostile_attrition = 1
+    }
+    autochthon_ideas_6 = {
+        merc_maintenance_modifier = -0.25
+    }
+    autochthon_ideas_7 = {
+        possible_mercenaries = 1.0
+    }
+}
+# Diplomacy
+elasippus_ideas = {
+	start = {
+        diplomatic_upkeep = 1
+        ae_impact = -0.1
+    }
+	bonus = {
+        technology_cost = -0.05
+    }
+	trigger = {
+		tag = ELA
+    }
+	free = yes
+	
+	elasippus_ideas_1 = {
+        global_institution_spread = 0.15
+    }
+	elasippus_ideas_2 = {
+        improve_relation_modifier = 0.15
+    }
+    elasippus_ideas_3 = {
+        province_warscore_cost = -0.1
+    }
+    elasippus_ideas_4 = {
+        unjustified_demands = -0.25
+    }
+    elasippus_ideas_5 = {
+        diplomatic_reputation = 1
+    }
+    elasippus_ideas_6 = {
+        envoy_travel_time = -0.25
+    }
+    elasippus_ideas_7 = {
+        yearly_absolutism = 1
+    }
+}
+# Court
+mestor_ideas = {
+	start = {
+        advisor_cost = -0.2
+        advisor_pool = 1
+    }
+	bonus = {
+        max_states = 5
+    }
+	trigger = {
+		tag = MES
+    }
+	free = yes
+	
+	mestor_ideas_1 = {
+        dip_tech_cost_modifier = -0.1
+    }
+	mestor_ideas_2 = {
+        embracement_cost = -0.2
+    }
+    mestor_ideas_3 = {
+        state_maintenance_modifier = -0.25
+    }
+    mestor_ideas_4 = {
+        development_cost = -0.1
+    }
+    mestor_ideas_5 = {
+        interest = -2
+    }
+    mestor_ideas_6 = {
+        yearly_corruption = -0.1
+    }
+    mestor_ideas_7 = {
+        core_creation = -0.1
+    }
+}
+# Navy
+azaes_ideas = {
+	start = {
+        global_ship_cost = -0.2
+        global_sailors_modifier = 0.1
+    }
+	bonus = {
+        global_tariffs = 0.5
+    }
+	trigger = {
+		tag = AZA
+    }
+	free = yes
+	
+	azaes_ideas_1 = {
+        naval_forcelimit_modifier = 0.1
+    }
+	azaes_ideas_2 = {
+        naval_attrition = -0.1
+    }
+    azaes_ideas_3 = {
+        navy_tradition = 1
+    }
+    azaes_ideas_4 = {
+        ship_recruit_speed = -0.5
+    }
+    azaes_ideas_5 = {
+        naval_maintenance_modifier = -0.2
+    }
+    azaes_ideas_6 = {
+        trade_efficiency = 0.1
+    }
+    azaes_ideas_7 = {
+        naval_morale = 0.1
+    }
+}
+# Economy
+diaprepes_ideas = {
+	start = {
+        monarch_admin_power = 2
+        monarch_diplomatic_power = 2
+        monarch_military_power = 2
+    }
+	bonus = {
+        heir_chance = 1.0
+    }
+	trigger = {
+		tag = DIA
+    }
+	free = yes
+	
+	diaprepes_ideas_1 = {
+        yearly_corruption = -0.05
+    }
+	diaprepes_ideas_2 = {
+        advisor_cost = -0.2
+    }
+    diaprepes_ideas_3 = {
+        global_tax_modifier = 0.1
+    }
+    diaprepes_ideas_4 = {
+        inflation_reduction = 0.05
+    }
+    diaprepes_ideas_5 = {
+        build_time = -0.33
+    }
+    diaprepes_ideas_6 = {
+        core_creation = -0.25
+    }
+    diaprepes_ideas_7 = {
+        production_efficiency = 0.2
+    }
+}
+
+# Diplomacy
+mu_ideas = {
+	start = {
+        diplomatic_reputation = 1
+        diplomatic_upkeep = 1
+    }
+	bonus = {
+        ae_impact = -0.2
+    }
+	trigger = {
+        tag = MUU
+    }
+	free = yes
+	
+	mu_ideas_1 = {
+        global_tax_modifier = 0.1
+    }
+	mu_ideas_2 = {
+        state_maintenance_modifier = -0.1
+    }
+    mu_ideas_3 = {
+        institution_spread_from_true_faith = 0.2
+    }
+    mu_ideas_4 = {
+        development_cost = -0.15
+    }
+    mu_ideas_5 = {
+        production_efficiency = 0.15
+    }
+    mu_ideas_6 = {
+        prestige = 1
+    }
+    mu_ideas_7 = {
+        advisor_pool = 1
+    }
+}
+  
+discworld_ideas = {
+	start = {
+        enemy_core_creation = 1.0
+    }
+	bonus = {
+        culture_conversion_cost = -0.25
+    }
+	trigger = {
+        OR = {
+            tag = OMM
+            tag = ANK
+        }
+    }
+	free = yes
+	
+	discworld_ideas_1 = {
+        stability_cost_modifier = -0.15
+    }
+	discworld_ideas_2 = {
+        spy_offence = 0.33
+    }
+    discworld_ideas_3 = {
+        global_spy_defence = 0.33
+    }
+    discworld_ideas_4 = {
+        rebel_support_efficiency = 0.5
+    }
+    discworld_ideas_5 = {
+        unjustified_demands = -0.5
+    }
+    discworld_ideas_6 = {
+        global_unrest = -2
+    }
+    discworld_ideas_7 = {
+        harsh_treatment_cost = -0.5
+    }
+}
+
+# Polynesian Prussia
+uriivi_ideas = {
+	start = {
+        land_morale = 0.2
+        monarch_military_power = 3
+    }
+	bonus = {
+        artillery_bonus_vs_fort = 10
+    }
+	trigger = {
+        tag = URI
+    }
+	free = yes
+	
+	uriivi_ideas_1 = {
+        core_creation = -0.3
+    }
+	uriivi_ideas_2 = {
+        technology_cost = -0.1
+    }
+    uriivi_ideas_3 = {
+        infantry_power = 0.2
+    }
+    uriivi_ideas_4 = {
+        artillery_power = 0.2
+    }
+    uriivi_ideas_5 = {
+        war_exhaustion = -0.1
+    }
+    uriivi_ideas_6 = {
+        global_autonomy	= -0.1
+    }
+    uriivi_ideas_7 = {
+        discipline = 0.2
+    }
+}
+
+# Lemuria
+lemuria_ideas = {
+	start = {
+        advisor_cost = -0.1
+        advisor_pool = 1
+    }
+	bonus = {
+        core_creation = -0.2
+    }
+	trigger = {
+        tag = LER
+    }
+	free = yes
+	
+	lemuria_ideas_1 = {
+        global_tax_modifier = 0.2
+    }
+	lemuria_ideas_2 = {
+        production_efficiency = 0.2
+    }
+    lemuria_ideas_3 = {
+        build_cost = -0.5
+    }
+    lemuria_ideas_4 = {
+        build_time = -0.5
+    }
+    lemuria_ideas_5 = {
+        technology_cost = -0.1
+    }
+    lemuria_ideas_6 = {
+        prestige = 1
+    }
+    lemuria_ideas_7 = {
+        heir_chance = 1.0
+    }
+}
+
+# Polynesia
+polynesia_ideas = {
+	start = {
+        global_regiment_cost = -0.25
+        global_regiment_recruit_speed = -0.25
+    }
+	bonus = {
+        global_sailors_modifier = 0.25
+    }
+	trigger = {
+        tag = PYS
+    }
+	free = yes
+	
+	polynesia_ideas_1 = {
+        global_manpower_modifier = 0.25
+    }
+	polynesia_ideas_2 = {
+        land_forcelimit_modifier = 0.25
+    }
+    polynesia_ideas_3 = {
+        land_maintenance_modifier = -0.1
+    }
+    polynesia_ideas_4 = {
+        shock_damage_received = -0.1
+    }
+    polynesia_ideas_5 = {
+        fire_damage_received = -0.1
+    }
+    polynesia_ideas_6 = {
+        naval_forcelimit_modifier = 0.25
+    }
+    polynesia_ideas_7 = {
+        naval_maintenance_modifier = -0.1
+    }
+}
+
+# Mazu
+mazu_ideas = {
+	start = {
+        may_perform_slave_raid = yes
+        global_ship_cost = -0.25
+    }
+	bonus = {
+        ship_durability = 0.1
+    }
+	trigger = {
+        tag = MZZ
+    }
+	free = yes
+	
+	mazu_ideas_1 = {
+        global_ship_recruit_speed = -0.25
+    }
+	mazu_ideas_2 = {
+        naval_forcelimit_modifier = 0.25
+    }
+    mazu_ideas_3 = {
+        naval_maintenance_modifier = -0.1
+    }
+    mazu_ideas_4 = {
+        naval_morale = 0.15
+    }
+    mazu_ideas_5 = {
+        privateer_efficiency = 1.0
+    }
+    mazu_ideas_6 = {
+        capture_ship_chance = 0.1
+    }
+    mazu_ideas_7 = {
+        global_sailors_modifier = 0.2
+    }
+}
+
+# Antillia
+antillia_ideas = {
+	start = {
+        global_ship_cost = -0.2
+        sailor_maintenance_modifer = -0.2
+    }
+	bonus = {
+        diplomatic_reputation = 1
+    }
+	trigger = {
+        tag = ILI
+    }
+	free = yes
+	
+	antillia_ideas_1 = {
+        global_tax_modifier = 0.2
+    }
+	antillia_ideas_2 = {
+        advisor_cost = -0.2
+    }
+    antillia_ideas_3 = {
+        max_states = 5
+    }
+    antillia_ideas_4 = {
+        global_unrest = -2
+    }
+    antillia_ideas_5 = {
+        global_trade_power = 0.2
+    }
+    antillia_ideas_6 = {
+        trade_efficiency = 0.2
+    }
+    antillia_ideas_7 = {
+        state_maintenance_modifier = -0.2
+    }
+}
+
+# Empire of Cthulhu
+empire_of_cthulhu_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        global_sailors_modifier = 1.0
+    }
+	trigger = {
+        tag = EOC
+    }
+	free = yes
+	
+	empire_of_cthulhu_ideas_1 = {
+        naval_morale = 0.2
+    }
+	empire_of_cthulhu_ideas_2 = {
+        land_morale = 0.2
+    }
+    empire_of_cthulhu_ideas_3 = {
+        ship_durability = 0.2
+    }
+    empire_of_cthulhu_ideas_4 = {
+        shock_damage = 0.2
+    }
+    empire_of_cthulhu_ideas_5 = {
+        fire_damage = 0.2
+    }
+    empire_of_cthulhu_ideas_6 = {
+        discipline = 0.1
+    }
+    empire_of_cthulhu_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+
+empire_of_yog_sothoth_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        army_tradition = 2
+    }
+	trigger = {
+        always = no
+    }
+	free = yes
+	
+	empire_of_yog_sothoth_ideas_1 = {
+        yearly_absolutism = 5
+    }
+	empire_of_yog_sothoth_ideas_2 = {
+        land_morale = 0.2
+    }
+    empire_of_yog_sothoth_ideas_3 = {
+        infantry_power = 0.25
+    }
+    empire_of_yog_sothoth_ideas_4 = {
+        cavalry_power = 0.25
+    }
+    empire_of_yog_sothoth_ideas_5 = {
+        artillery_power = 0.25
+    }
+    empire_of_yog_sothoth_ideas_6 = {
+        discipline = 0.2
+    }
+    empire_of_yog_sothoth_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+
+empire_of_nyarlathotep_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        discipline = 0.2
+    }
+	trigger = {
+        tag = EOY
+    }
+	free = yes
+	
+	empire_of_nyarlathotep_ideas_1 = {
+        core_creation = -0.25
+    }
+	empire_of_nyarlathotep_ideas_2 = {
+        yearly_corruption = -0.1
+    }
+    empire_of_nyarlathotep_ideas_3 = {
+        land_morale = 0.1
+    }
+    empire_of_nyarlathotep_ideas_4 = {
+        technology_cost = -0.25
+    }
+    empire_of_nyarlathotep_ideas_5 = {
+        administrative_efficiency = 0.25
+    }
+    empire_of_nyarlathotep_ideas_6 = {
+        advisor_cost = -0.25
+    }
+    empire_of_nyarlathotep_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+  
+empire_of_shub_niggurath_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        interest = -5
+    }
+	trigger = {
+        tag = EOS
+    }
+	free = yes
+	
+	empire_of_shub_niggurath_ideas_1 = {
+        build_time = -0.75
+    }
+	empire_of_shub_niggurath_ideas_2 = {
+        build_cost = -0.75
+    }
+    empire_of_shub_niggurath_ideas_3 = {
+        development_cost = -0.5
+    }
+    empire_of_shub_niggurath_ideas_4 = {
+        global_tax_modifier = 0.5
+    }
+    empire_of_shub_niggurath_ideas_5 = {
+        production_efficiency = 0.5
+    }
+    empire_of_shub_niggurath_ideas_6 = {
+        prestige = 1
+    }
+    empire_of_shub_niggurath_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+  
+empire_of_hastur_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        missionaries = 1
+    }
+	trigger = {
+        tag = EOH
+    }
+	free = yes
+	
+	empire_of_hastur_ideas_1 = {
+        global_spy_defence = 1.0
+    }
+	empire_of_hastur_ideas_2 = {
+        spy_offence = 1.0
+    }
+    empire_of_hastur_ideas_3 = {
+        global_missionary_strength = 0.1
+    }
+    empire_of_hastur_ideas_4 = {
+        warscore_cost_vs_other_religion = -0.75
+    }
+    empire_of_hastur_ideas_5 = {
+        enforce_religion_cost = -0.75
+    }
+    empire_of_hastur_ideas_6 = {
+        tolerance_own = 10
+    }
+    empire_of_hastur_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+  
+empire_of_dagon_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        reinforce_cost_modifier = -1.0
+    }
+	trigger = {
+        tag = EOD
+    }
+	free = yes
+	
+	empire_of_dagon_ideas_1 = {
+        shock_damage = 0.25
+    }
+	empire_of_dagon_ideas_2 = {
+        movement_speed = 1.0
+    }
+    empire_of_dagon_ideas_3 = {
+        global_regiment_cost = -0.75
+    }
+    empire_of_dagon_ideas_4 = {
+        global_manpower_modifier = 1
+    }
+    empire_of_dagon_ideas_5 = {
+        land_morale = 0.1
+    }
+    empire_of_dagon_ideas_6 = {
+        leader_land_manuever = 3
+    }
+    empire_of_dagon_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+  
+empire_of_tsathoggua_ideas = {
+	start = {
+        monarch_admin_power = 3
+        monarch_diplomatic_power = 3
+        monarch_military_power = 3
+    }
+	bonus = {
+        years_of_nationalism = -20
+    }
+	trigger = {
+        tag = EOT
+    }
+	free = yes
+	
+	empire_of_tsathoggua_ideas_1 = {
+        advisor_cost = -0.5
+    }
+	empire_of_tsathoggua_ideas_2 = {
+        advisor_pool = 3
+    }
+    empire_of_tsathoggua_ideas_3 = {
+        prestige = 1
+    }
+    empire_of_tsathoggua_ideas_4 = {
+        max_states = 10
+    }
+    empire_of_tsathoggua_ideas_5 = {
+        culture_conversion_cost = -0.75
+    }
+    empire_of_tsathoggua_ideas_6 = {
+        same_culture_advisor_cost = -0.5
+    }
+    empire_of_tsathoggua_ideas_7 = {
+        all_power_cost = -0.25
+    }
+}
+
+dummy_ideas = {
+	start = {
+
+    }
+	bonus = {
+
+    }
+	trigger = {
+        always = no
+    }
+	free = yes
+	
+	dummy_ideas_1 = {
+
+    }
+	dummy_ideas_2 = {
+        
+    }
+    dummy_ideas_3 = {
+        
+    }
+    dummy_ideas_4 = {
+        
+    }
+    dummy_ideas_5 = {
+        
+    }
+    dummy_ideas_6 = {
+        
+    }
+    dummy_ideas_7 = {
+        
+    }
+}
+  

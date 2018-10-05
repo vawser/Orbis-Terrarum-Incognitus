@@ -1,0 +1,60 @@
+dragon_school_yellow_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    diplomatic_reputation = 1
+}
+
+dragon_school_blue_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    naval_morale = 0.1
+}
+
+dragon_school_cyan_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    yearly_corruption = -0.05
+}
+
+dragon_school_green_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    core_creation = -0.1
+}
+
+dragon_school_red_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    land_morale = 0.1
+}
+
+dragon_school_purple_modifier = {
+	religion_sub_modifier = yes
+	religion = yes
+	is_scholar_modifier = yes
+	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
+    
+	# bonus
+    prestige = 1
+}
+

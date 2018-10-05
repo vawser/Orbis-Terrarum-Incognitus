@@ -1,0 +1,16 @@
+# 4644 - Camaveiyl.txt
+
+native_size = 10
+native_ferocity = 5
+native_hostileness = 5
+
+base_tax = 4
+base_production = 5
+base_manpower = 4
+
+culture = lemurian
+religion = asakti
+
+trade_goods = unknown
+hre = no
+

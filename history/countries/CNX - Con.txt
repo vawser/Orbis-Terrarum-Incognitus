@@ -1,0 +1,299 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = antillian
+capital = 5591
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Nuño"
+		dynasty = "de Zayas"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1412.1.1
+	}
+
+	queen = {
+		country_of_origin = CNX 
+		name = "Mayor"
+		dynasty = "de Zayas"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1409.1.1
+		death_date = 1468.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Amalric"
+		dynasty = "de Altamira"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1420.1.1
+	}
+
+	queen = {
+		country_of_origin = CNX 
+		name = "Aldonza"
+		dynasty = "de Altamira"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1419.1.1
+		death_date = 1475.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Gutierre"
+		monarch_name = "Gutierre"
+		dynasty = "de Altamira"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 75
+		birth_date = 1419.1.1
+		death_date = 1502.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Salvador"
+		dynasty = "de Vilafermosa"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1418.1.1
+	}
+
+	heir = {
+		name = "Garcia"
+		monarch_name = "Garcia"
+		dynasty = "de Vilafermosa"
+		adm = 3
+		dip = 3
+		mil = 1
+		claim = 50
+		birth_date = 1468.1.1
+		death_date = 1502.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Rodrigo"
+		dynasty = "de Zayas"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1418.1.1
+	}
+
+	queen = {
+		country_of_origin = CNX 
+		name = "Mencía"
+		dynasty = "de Zayas"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1436.1.1
+		death_date = 1530.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Diego"
+		monarch_name = "Diego"
+		dynasty = "de Zayas"
+		adm = 3
+		dip = 1
+		mil = 5
+		claim = 25
+		birth_date = 1501.1.1
+		death_date = 1523.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Diego"
+		dynasty = "de Castro"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1488.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Martin"
+		monarch_name = "Martin"
+		dynasty = "de Castro"
+		adm = 2
+		dip = 4
+		mil = 2
+		claim = 75
+		birth_date = 1578.1.1
+		death_date = 1667.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Sancha"
+		dynasty = "de Vilafermosa"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1541.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = CNX 
+		name = "Hermenegildo"
+		dynasty = "de Vilafermosa"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1544.1.1
+		death_date = 1662.1.1
+	}
+
+	heir = {
+		name = "Guillén"
+		monarch_name = "Guillén"
+		dynasty = "de Vilafermosa"
+		adm = 1
+		dip = 3
+		mil = 5
+		claim = 50
+		birth_date = 1579.1.1
+		death_date = 1687.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Alphonse"
+		dynasty = "de Alcalá"
+		adm = 5
+		dip = 1
+		mil = 4
+		birth_date = 1638.1.1
+	}
+
+	queen = {
+		country_of_origin = CNX 
+		name = "Estefanía"
+		dynasty = "de Alcalá"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1656.1.1
+		death_date = 1729.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Suero"
+		monarch_name = "Suero"
+		dynasty = "de Alcalá"
+		adm = 3
+		dip = 4
+		mil = 5
+		claim = 75
+		birth_date = 1694.1.1
+		death_date = 1725.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Gil"
+		dynasty = "de Mendoza"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1674.1.1
+	}
+
+	heir = {
+		name = "Teresa"
+		monarch_name = "Teresa"
+		dynasty = "de Mendoza"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 50
+		birth_date = 1690.1.1
+		death_date = 1728.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Gonzalo"
+		dynasty = "de Osuna"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1666.1.1
+	}
+
+	queen = {
+		country_of_origin = CNX 
+		name = "Stephania"
+		dynasty = "de Osuna"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1672.1.1
+		death_date = 1765.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Gonzalo"
+		dynasty = "de Mendoza"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1702.1.1
+	}
+
+	heir = {
+		name = "Carlos"
+		monarch_name = "Carlos"
+		dynasty = "de Mendoza"
+		adm = 5
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1750.1.1
+		death_date = 1815.1.1
+	}
+}
+

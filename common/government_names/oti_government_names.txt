@@ -1,0 +1,113 @@
+dragon_empire_gov = {
+	rank = {
+		3 = dragon_empire
+	}
+	
+	ruler_male = {
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		government = dragon_empire
+	}
+}
+
+geniocracy_gov = {
+	rank = {
+		1 = geniocracy
+		2 = geniocracy
+		3 = geniocracy
+	}
+	
+	ruler_male = {
+		1 = MEGALOFIYA
+		2 = MEGALOFIYA
+		3 = MEGALOFIYA
+	}
+	
+	ruler_female = {
+		1 = MEGALOFIYA
+		2 = MEGALOFIYA
+		3 = MEGALOFIYA
+	}
+	
+	trigger = {
+		government = geniocracy
+	}
+}
+
+patricianship_gov = {
+	rank = {
+		1 = patricianship
+		2 = patricianship
+		3 = patricianship
+	}
+	
+	ruler_male = {
+		1 = LORD
+		2 = LORD
+		3 = LORD
+	}
+	
+	ruler_female = {
+		1 = LADY
+		2 = LADY
+		3 = LADY
+	}
+	
+	trigger = {
+		government = patricianship
+	}
+}
+
+cenobiarchy_gov = {
+	rank = {
+		1 = cenobiarchy
+		2 = cenobiarchy
+		3 = cenobiarchy
+	}
+	
+	ruler_male = {
+		1 = CENOBIARCH
+		2 = CENOBIARCH
+		3 = CENOBIARCH
+	}
+	
+	ruler_female = {
+		1 = CENOBIARCH
+		2 = CENOBIARCH
+		3 = CENOBIARCH
+	}
+	
+	trigger = {
+		government = cenobiarchy
+	}
+}
+
+oti_cult = {
+	rank = {
+		1 = cult
+		2 = cult
+		3 = cult
+	}
+	
+	ruler_male = {
+		1 = HIGH_PRIEST
+		2 = HIGH_PRIEST
+		3 = HIGH_PRIEST
+	}
+	
+	ruler_female = {
+		1 = HIGH_PRIESTESS
+		2 = HIGH_PRIESTESS
+		3 = HIGH_PRIESTESS
+	}
+	
+	trigger = {
+		government = cult
+	}
+}

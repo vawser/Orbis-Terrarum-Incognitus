@@ -1,0 +1,17 @@
+# 4840 - Fa'e.txt
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 6
+base_production = 6
+base_manpower = 6
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = livestock
+hre = no
+

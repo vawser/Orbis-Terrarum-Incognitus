@@ -1,0 +1,138 @@
+namespace = oti_atlantis_schools
+
+country_event = {
+	id = oti_atlantis_schools.1
+	title = oti_atlantis_schools.1.title
+	desc = oti_atlantis_schools.1.desc
+	picture = HARBOUR_eventPicture
+	
+	trigger = {
+		has_dlc = "Cradle of Civilization"
+		religion_group = atlantean
+		has_religious_school = no
+	}
+	
+	is_triggered_only = yes
+
+	option = {
+		name = oti_atlantis_schools.1.option.ai
+		trigger = {
+			ai = yes
+		}
+        random_list = {
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = pythagorean_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = sophist_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = cynic_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = cyrenaic_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = pyrrhon_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = epicurean_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = atlantean
+                    school = stoic_school
+                }
+            }
+        }
+    }
+    option = {
+		name = oti_atlantis_schools.1.option.a
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = pythagorean_school
+		}
+	}
+    option = {
+		name = oti_atlantis_schools.1.option.b
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = sophist_school
+		}
+	}
+    option = {
+		name = oti_atlantis_schools.1.option.c
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = cynic_school
+		}
+	}
+    option = {
+		name = oti_atlantis_schools.1.option.d
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = cyrenaic_school
+		}
+	}
+    option = {
+		name = oti_atlantis_schools.1.option.e
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = pyrrhon_school
+		}
+	}
+    option = {
+		name = oti_atlantis_schools.1.option.f
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = epicurean_school
+		}
+	}
+    option = {
+		name = oti_atlantis_schools.1.option.g
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = atlantean
+			school = stoic_school
+		}
+	}
+}
+

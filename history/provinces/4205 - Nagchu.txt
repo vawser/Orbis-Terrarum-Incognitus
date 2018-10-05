@@ -1,0 +1,18 @@
+
+owner = SHB
+controller = SHB
+add_core = SHB
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = shub_niggurath
+religion = shub_niggurath
+
+trade_goods = livestock
+hre = no
+
+
+

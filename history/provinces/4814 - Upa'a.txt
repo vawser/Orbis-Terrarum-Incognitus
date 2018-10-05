@@ -1,0 +1,17 @@
+# 4814 - Upa'a.txt
+
+owner = NJI
+controller = NJI
+add_core = NJI
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = livestock
+hre = no
+

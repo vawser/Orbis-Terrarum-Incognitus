@@ -1,0 +1,77 @@
+﻿l_english:
+ # Technology Groups
+ atlantean: "Atlantean"
+ atlantean_desc: "With the Atlantean technology group, technology levels are standard cost (100%)."
+ lemurian: "Lemurian"
+ lemurian_desc: "With the Lemurian technology group, technology levels are standard cost (100%)."
+ muror: "Muror"
+ muror_desc: "With the Muror technology group, technology levels are standard cost (100%)."
+ polynesian: "Polynesian"
+ polynesian_desc: "With the Polynesian technology group, technology levels are standard cost (100%)."
+ occult: "Occult"
+ occult_desc: "With the Occult technology group, technology levels are standard cost (100%)."
+ 
+ # Bookmarks
+ ATLANTIS_REBORN: "Atlantis Reborn"
+ ATLANTIS_REBORN_DESC: "The Old Kingdom is shattered, and its children squabble amongst its bones. Your people alone have the vision necessary to restore this once-mighty realm to its proper glory."
+ 
+ # CB
+ cb_atlantean_wars: "Atlantean Wars"
+ cb_atlantean_wars_desc: "We must force our neighbors to bend knee, so that we may unite Atlantis once more."
+ 
+ cb_claim_dragon_empire_throne: "Claim the Dragon Throne"
+ cb_claim_dragon_empire_throne_desc: "Our claim to the Dragon Throne is stronger than theirs."
+ 
+ cb_occult_aggression: "Occult Aggression"
+ cb_occult_aggression_desc: "We must force our neighbors to worship Cthulhu, the great Deep One."
+ 
+ # Wargoal
+ superiority_atlantean_unification: "Conquer Atlantis"
+ superiority_atlantean_unification_desc:0 "War goal is to show our superiority towards other Atlantean states."
+ ATLANTIS_UNIFICATION_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ war"
+ 
+ take_capital_dragon_empire: "Claim the Dragon Throne"
+ take_capital_dragon_empire_desc: "War goal is to take the capital."
+ DRAGON_EMPIRE_CLAIM_WAR_NAME: "War for the Dragon Throne"
+ DRAGON_EMPIRE_COUNTRY: "The Dragon Emperor."
+
+ superiority_occult: "Conquer World"
+ superiority_occult_desc: "War goal is to show our superiority."
+ OCCULT_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ war"
+ 
+ # Peace Terms
+ po_take_dragon_empire_throne: "Claim the Dragon Throne"
+ po_take_dragon_empire_throne_desc: "We become the Dragon Emperor."
+ CB_ALLOWED_po_take_dragon_empire_throne: "Claim the Dragon Throne"
+ PEACE_po_take_dragon_empire_throne: "Claim the Dragon Throne"
+ 
+ po_occult_conversion: "Occult Conversion"
+ po_occult_conversion_desc: "We convert them to our religion."
+ CB_ALLOWED_po_occult_conversion: "Occult Conversion"
+ PEACE_po_occult_conversion: "Occult Conversion"
+ 
+ # Subject Types
+ #dragon_tributary_state: "Dragon Tributary"
+ #dragon_tributary_state_title: "Dragon Tributary"
+ #dragon_tributary_state_title_plural: "Dragon Tributaries"
+ #dragon_tributary_state_long_desc: "A Dragon Tributary is a nation under the influence of the Dragon Emperor via indirect means."
+ #dragon_tributary_state_is_our: "$NAME|Y$ is our Dragon Tributary."
+ 
+ # Diplomatic Actions
+ #establish_dragon_tributary: "Establish"
+ #establish_dragon_tributary_title: "Integrate Sphere"
+ #establish_dragon_tributary_desc: "Integrate [From.GetName] into our nation." 
+ #establish_dragon_tributary_tooltip: "Integrate [From.GetName] into our nation."
+ #establish_dragon_tributary_alert_tooltip: "Integrate Sphere"
+ 
+ # Canal
+ dragon_canal_title: "Build Dragon canal"
+ dragon_canal: "Dragon canal"
+ great_project_dragon_canal: "Dragon canal"
+ 
+ construct_dragon_canal_title: "Construct the Dragon canal"
+ construct_dragon_canal_desc: "Cutting a canal across the isthmus of Koe to connect the Koe Inlet to the Northern Pacific Ocean is a truly mammoth task that once completed will severely cut the travel time of our ships. But the project is very expensive and may run into additional problems along the way..."
+ 
+ cancel_dragon_canal_title: "Cancel Dragon canal"
+ cancel_dragon_canal_desc: "Our project to construct the Dragon canal has been deemed too costly and will be canceled."
+ 

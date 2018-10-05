@@ -1,0 +1,17 @@
+
+owner = ATZ
+controller = ATZ
+add_core = ATZ
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = paper
+hre = no
+
+

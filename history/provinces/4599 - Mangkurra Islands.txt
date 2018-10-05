@@ -1,0 +1,17 @@
+# 4599 - Mangkurra Islands.txt
+
+owner = KWI
+controller = KWI
+add_core = KWI
+is_city = yes
+
+base_tax = 4
+base_production = 6
+base_manpower = 4
+
+culture = lemurian
+religion = asakti
+
+trade_goods = tropical_wood
+hre = no
+

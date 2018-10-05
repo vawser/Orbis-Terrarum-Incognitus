@@ -1,0 +1,21 @@
+
+is_city = no
+native_size = 65
+native_ferocity = 2
+native_hostileness = 3
+
+base_tax = 5
+base_production = 4
+base_manpower = 4
+
+culture = lemurian
+religion = asakti
+
+trade_goods = unknown
+hre = no
+
+add_permanent_province_modifier = {
+	name = inland_center_of_trade_modifier
+	duration = -1
+}
+

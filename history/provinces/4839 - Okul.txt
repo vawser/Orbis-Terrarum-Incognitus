@@ -1,0 +1,17 @@
+# 4839 - Okul.txt
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 8
+base_production = 6
+base_manpower = 7
+
+culture = mul
+religion = dragon_gods
+
+trade_goods = gems
+hre = no
+

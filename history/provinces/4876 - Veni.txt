@@ -1,0 +1,15 @@
+owner = PAK
+controller = PAK
+add_core = PAK
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = samoan
+religion = arioi
+
+trade_goods = gold
+hre = no
+

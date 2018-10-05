@@ -1,0 +1,264 @@
+government = tribal_democracy
+mercantilism = 0.1
+technology_group = polynesian
+religion = tangata_manu
+primary_culture = rapanni
+capital = 4849
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Lono"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1347.1.1
+	}
+
+	heir = {
+		name = "Muzaffar"
+		monarch_name = "Muzaffar"
+		dynasty = "Lono"
+		adm = 1
+		dip = 4
+		mil = 4
+		claim = 100
+		birth_date = 1415.1.1
+		death_date = 1508.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Kameha'o"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1364.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Kapono"
+		monarch_name = "Kapono"
+		dynasty = "Kameha'o"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 75
+		birth_date = 1450.1.1
+		death_date = 1487.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Pear"
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1417.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AKI 
+		name = "Pekelo"
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1410.1.1
+		death_date = 1507.1.1
+	}
+
+	heir = {
+		name = "Anan"
+		monarch_name = "Anan"
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1453.1.1
+		death_date = 1542.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Ipo"
+		dynasty = "Kainalu"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1484.1.1
+	}
+
+	queen = {
+		country_of_origin = AKI 
+		name = "Palani"
+		dynasty = "Kainalu"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1485.1.1
+		death_date = 1535.1.1
+	}
+
+	heir = {
+		name = "Krei"
+		monarch_name = "Krei"
+		dynasty = "Kainalu"
+		adm = 3
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1486.1.1
+		death_date = 1573.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tehani"
+		dynasty = "Banten"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1497.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AKI 
+		name = "Kui"
+		dynasty = "Banten"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1505.1.1
+		death_date = 1605.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Keiki"
+		dynasty = "Kedah"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1533.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Kapena"
+		dynasty = "Demak"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1621.1.1
+	}
+
+	heir = {
+		name = "Ipo"
+		monarch_name = "Ipo"
+		dynasty = "Demak"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1685.1.1
+		death_date = 1780.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Poenui"
+		dynasty = "Kelantan"
+		adm = 5
+		dip = 1
+		mil = 3
+		birth_date = 1676.1.1
+		female = yes
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Ko"
+		dynasty = "Kelantan"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1695.1.1
+	}
+
+	queen = {
+		country_of_origin = AKI 
+		name = "Moeata"
+		dynasty = "Kelantan"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1713.1.1
+		death_date = 1840.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Kealii"
+		dynasty = "Hualani"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1757.1.1
+	}
+
+	queen = {
+		country_of_origin = AKI 
+		name = "cheng"
+		dynasty = "Hualani"
+		adm = 1
+		dip = 5
+		mil = 3
+		birth_date = 1748.1.1
+		death_date = 1851.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Hualani"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1784.1.1
+		death_date = 1867.1.1
+	}
+}
+

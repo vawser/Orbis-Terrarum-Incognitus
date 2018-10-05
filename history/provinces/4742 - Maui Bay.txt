@@ -1,0 +1,17 @@
+# 4742 - Maui Bay.txt
+
+owner = KEA
+controller = KEA
+add_core = KEA
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 4
+
+culture = hawaiian
+religion = tiki
+
+trade_goods = salt
+hre = no
+

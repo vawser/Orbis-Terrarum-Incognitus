@@ -1,0 +1,278 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = gulamur
+capital = 4821
+religious_school = blue_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Kapena"
+		dynasty = "Hau'oli"
+		adm = 4
+		dip = 2
+		mil = 2
+		birth_date = 1390.1.1
+	}
+
+	queen = {
+		country_of_origin = GEQ 
+		name = "Raunui"
+		dynasty = "Hau'oli"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1391.1.1
+		death_date = 1452.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Chan"
+		monarch_name = "Chan"
+		dynasty = "Hau'oli"
+		adm = 3
+		dip = 4
+		mil = 2
+		claim = 100
+		birth_date = 1419.1.1
+		death_date = 1515.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Sinhavarman"
+		dynasty = "Kehaulani"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1432.1.1
+	}
+
+	heir = {
+		name = "'Abd"
+		monarch_name = "'Abd"
+		dynasty = "Kehaulani"
+		adm = 1
+		dip = 4
+		mil = 2
+		claim = 50
+		birth_date = 1443.1.1
+		death_date = 1509.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Mele"
+		dynasty = "Momilani"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1408.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Keahi"
+		dynasty = "Samprangan"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 1452.1.1
+	}
+
+	queen = {
+		country_of_origin = GEQ 
+		name = "Hòng"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1436.1.1
+		death_date = 1537.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Syahid"
+		monarch_name = "Syahid"
+		dynasty = "Samprangan"
+		adm = 2
+		dip = 3
+		mil = 3
+		claim = 50
+		birth_date = 1478.1.1
+		death_date = 1570.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Nanihi"
+		dynasty = "Jambi"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1506.1.1
+		female = yes
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Metetini"
+		dynasty = "Kauthara"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1543.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = GEQ 
+		name = "Ganvuh"
+		dynasty = "Kauthara"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1539.1.1
+		death_date = 1638.1.1
+	}
+
+	heir = {
+		name = "Inayat"
+		monarch_name = "Inayat"
+		dynasty = "Kauthara"
+		adm = 3
+		dip = 2
+		mil = 1
+		claim = 25
+		birth_date = 1607.1.1
+		death_date = 1662.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Tathun"
+		dynasty = "Makikonu"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1626.1.1
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Jaya"
+		dynasty = "Pahang"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1645.1.1
+	}
+
+	queen = {
+		country_of_origin = GEQ 
+		name = "Okalani"
+		dynasty = "Pahang"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1650.1.1
+		death_date = 1730.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "al-Jalîl"
+		monarch_name = "al-Jalîl"
+		dynasty = "Pahang"
+		adm = 1
+		dip = 5
+		mil = 5
+		claim = 75
+		birth_date = 1684.1.1
+		death_date = 1768.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "'Abd"
+		dynasty = "Selangor"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1717.1.1
+	}
+
+	queen = {
+		country_of_origin = GEQ 
+		name = "Moea"
+		dynasty = "Selangor"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1703.1.1
+		death_date = 1772.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Lehuanani"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1735.1.1
+	}
+
+	queen = {
+		country_of_origin = GEQ 
+		name = "Merenui"
+		dynasty = "Lehuanani"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1755.1.1
+		death_date = 1847.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Malia"
+		monarch_name = "Malia"
+		dynasty = "Lehuanani"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1755.1.1
+		death_date = 1858.1.1
+		female = yes
+	}
+}
+

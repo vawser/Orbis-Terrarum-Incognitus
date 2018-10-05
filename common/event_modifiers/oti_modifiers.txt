@@ -1,0 +1,124 @@
+pax_atlantica = {
+	prestige = 1
+	global_missionary_strength = 0.03
+	stability_cost_modifier = -0.25
+	war_exhaustion = -0.1
+}
+
+instituted_priest_rights = {
+	global_missionary_strength = 0.01
+	tolerance_heretic = -1
+    religion = yes
+}
+
+holy_text_introduced = {
+	global_unrest = -1.0
+	global_missionary_strength = 0.02
+	global_tax_modifier = -0.1
+    religion = yes
+}
+
+proper_worship = {
+	missionaries = 1
+	stability_cost_modifier = 0.25
+	global_tax_modifier = -0.05
+    religion = yes
+}
+
+preservation_of_the_oracles = {
+	global_unrest = 1
+	global_tax_modifier = 0.1
+    religion = yes
+}
+
+priesthood_supported = {
+	global_missionary_strength = 0.01
+	global_tax_modifier = -0.05
+    religion = yes
+}
+
+inclusive_worship = {
+	global_missionary_strength = -0.005
+	tolerance_heretic = 1
+	tolerance_heathen = 1
+	stability_cost_modifier = -0.05
+    religion = yes
+}
+
+exclusive_worship = {
+	global_missionary_strength = 0.02
+	tolerance_heretic = -1
+	tolerance_heathen = -1
+	stability_cost_modifier = 0.05
+    religion = yes
+}
+
+
+unggue_pot_museum = {
+	tolerance_heretic = 1
+	stability_cost_modifier = -0.05
+    religion = yes
+}
+
+witches_banned = {
+	prestige = 1		#It's gutsy to try to ban witches
+	global_unrest = 1	#It's stupid to try to ban witches
+	stability_cost_modifier = 0.1 #It's stupid to try to ban witches
+    religion = yes
+}
+
+witches_supported = {
+	prestige = -1	#Shame on you, you're letting a witch tell you how to run your kingdom?
+	global_unrest = -1	#A witch in the right place...
+	stability_cost_modifier = -0.1 #A witch in the right place...
+    religion = yes
+}
+
+offler_is_number_one = {
+	prestige = -2
+	missionaries = 3	
+	stability_cost_modifier = -0.2
+	tolerance_heretic = -3
+    religion = yes
+}
+
+sausages_r_good = {
+	prestige = 0.5
+	missionaries = 1	
+	global_tax_modifier = -0.025
+    religion = yes
+}
+
+broccoli_banned = {
+	prestige = -0.5
+	missionaries = 1
+	global_tax_modifier = -0.05
+    religion = yes
+}
+
+no_god_but_om = {
+	tolerance_heretic = -2
+	tolerance_heathen = -2
+	prestige = 1
+	missionaries = 1
+    religion = yes
+}
+
+strict_diet = {
+	global_unrest = 1
+	global_missionary_strength = -0.005
+	stability_cost_modifier = -0.1
+	global_tax_modifier = 0.1
+    religion = yes
+}
+
+no_diet = {
+	global_unrest = -1
+	global_missionary_strength = 0.02
+	stability_cost_modifier = -0.05
+    religion = yes
+}
+
+sanity_blast = {
+    land_morale = -0.2
+}

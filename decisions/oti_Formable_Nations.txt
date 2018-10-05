@@ -1,0 +1,676 @@
+country_decisions = {
+	atlantis_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = ATL }
+			culture_group = atlantean
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            
+			atlantis_region = {
+                owned_by = ROOT
+                is_core = ROOT
+                type = all
+            }
+		}
+		effect = {
+			change_tag = ATL
+            set_government_rank = 3
+            
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+	lemuria_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = LER }
+			culture_group = lemurian_group
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            OR = {
+                north_lemuria_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                central_lemuria_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                east_lemuria_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                west_lemuria_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                south_lemuria_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+            }
+		}
+		effect = {
+			change_tag = LER
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    mu_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = MUU }
+			culture_group = mu_group
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            OR = {
+                north_mu_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                east_mu_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                west_mu_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+                south_mu_region = {
+                    owned_by = ROOT
+                    is_core = ROOT
+                    type = all
+                }
+            }
+		}
+		effect = {
+			change_tag = MUU
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    polynesia_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = PYS }
+			culture_group = muror_polynesian_group
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            capital_scope = {
+                continent = mu
+            }
+            total_development = 500
+		}
+		effect = {
+			change_tag = PYS
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    mazu_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = MZZ }
+			religion = mazu
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            capital_scope = {
+                continent = mu
+            }
+            total_development = 250
+		}
+		effect = {
+			change_tag = MZZ
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    empire_of_cthulhu_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EOC }
+			primary_culture = cthulu_worship
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EOC
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    antillia_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = ILI }
+			primary_culture = antillian
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            total_development = 250
+		}
+		effect = {
+			change_tag = ILI
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    
+    empire_of_yog_sothoth_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EOY }
+			primary_culture = yog_sothoth
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EOY
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    empire_of_nyarlathotep_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EON }
+			primary_culture = nyarlathotep
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EON
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    empire_of_shub_niggurath_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EOS }
+			primary_culture = shub_niggurath
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EOS
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    empire_of_hastur_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EOH }
+			primary_culture = hastur
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EOH
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    empire_of_dagon_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EOD }
+			primary_culture = dagon
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EOD
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+    empire_of_tsathoggua_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            NOT = { tag = PAP }
+			NOT = { tag = HLR }
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = EOT }
+			primary_culture = tsathoggua
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            owns_core_province = 236
+            owns_core_province = 183
+            owns_core_province = 219
+            owns_core_province = 1821
+            owns_core_province = 151
+            owns_core_province = 361
+            owns_core_province = 596
+		}
+		effect = {
+			change_tag = EOT
+            set_government_rank = 3
+            add_prestige = 100
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+            if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
+}

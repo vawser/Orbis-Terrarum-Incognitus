@@ -1,0 +1,17 @@
+
+owner = AKI
+controller = AKI
+add_core = AKI
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 1
+
+culture = rapanni
+religion = tangata_manu
+
+trade_goods = tropical_wood
+hre = no
+
+

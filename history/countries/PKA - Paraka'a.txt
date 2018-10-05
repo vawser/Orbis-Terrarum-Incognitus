@@ -1,0 +1,286 @@
+government = tribal_democracy
+mercantilism = 0.1
+technology_group = polynesian
+religion = tangata_manu
+primary_culture = rapanni
+capital = 5490
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Akamu"
+		dynasty = "Aceh"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1373.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Aceh"
+		adm = 1
+		dip = 5
+		mil = 3
+		claim = 50
+		birth_date = 1437.1.1
+		death_date = 1513.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Ha'aheo"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1357.1.1
+	}
+
+	queen = {
+		country_of_origin = PKA 
+		name = "Moerani"
+		dynasty = "Ha'aheo"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1354.1.1
+		death_date = 1469.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Agi"
+		monarch_name = "Agi"
+		dynasty = "Ha'aheo"
+		adm = 1
+		dip = 2
+		mil = 1
+		claim = 75
+		birth_date = 1444.1.1
+		death_date = 1502.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Kalauokalani"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1437.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Kalauokalani"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 50
+		birth_date = 1458.1.1
+		death_date = 1503.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Sinhavarman"
+		dynasty = "Cirebon"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1475.1.1
+	}
+
+	heir = {
+		name = "Ibrâhîm"
+		monarch_name = "Ibrâhîm"
+		dynasty = "Cirebon"
+		adm = 1
+		dip = 4
+		mil = 3
+		claim = 100
+		birth_date = 1488.1.1
+		death_date = 1529.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Ainalani"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1508.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî"
+		dynasty = "Ainalani"
+		adm = 1
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1573.1.1
+		death_date = 1600.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Mansûr"
+		dynasty = "Kamehameha"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1569.1.1
+	}
+
+	heir = {
+		name = "Keon"
+		monarch_name = "Keon"
+		dynasty = "Kamehameha"
+		adm = 3
+		dip = 3
+		mil = 3
+		claim = 50
+		birth_date = 1610.1.1
+		death_date = 1658.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "'Alî"
+		dynasty = "Waipuna"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1660.1.1
+	}
+
+	heir = {
+		name = "Sam"
+		monarch_name = "Sam"
+		dynasty = "Waipuna"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1696.1.1
+		death_date = 1784.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Momilani"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1631.1.1
+	}
+
+	heir = {
+		name = "Iwalani"
+		monarch_name = "Iwalani"
+		dynasty = "Momilani"
+		adm = 4
+		dip = 2
+		mil = 2
+		claim = 50
+		birth_date = 1683.1.1
+		death_date = 1794.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Loe"
+		dynasty = "Pasai"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1699.1.1
+	}
+
+	queen = {
+		country_of_origin = PKA 
+		name = "Tautiare"
+		dynasty = "Pasai"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1699.1.1
+		death_date = 1799.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Okalani"
+		monarch_name = "Okalani"
+		dynasty = "Pasai"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 25
+		birth_date = 1738.1.1
+		death_date = 1811.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Kouei-Lai"
+		dynasty = "Melaka"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1760.1.1
+	}
+
+	queen = {
+		country_of_origin = PKA 
+		name = "Moeata"
+		dynasty = "Melaka"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1757.1.1
+		death_date = 1871.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Akamu"
+		monarch_name = "Akamu"
+		dynasty = "Melaka"
+		adm = 3
+		dip = 2
+		mil = 4
+		claim = 75
+		birth_date = 1785.1.1
+		death_date = 1856.1.1
+	}
+}
+

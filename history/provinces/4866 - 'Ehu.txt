@@ -1,0 +1,17 @@
+# 4866 - 'Ehu.txt
+
+owner = ITI
+controller = ITI
+add_core = ITI
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = samoan
+religion = arioi
+
+trade_goods = fish
+hre = no
+

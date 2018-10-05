@@ -1,0 +1,15 @@
+owner = EVA
+controller = EVA
+add_core = EVA
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 4
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = glass
+hre = no
+

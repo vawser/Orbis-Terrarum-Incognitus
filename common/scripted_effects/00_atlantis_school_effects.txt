@@ -1,0 +1,105 @@
+clear_atlantis_scholar_modifiers_effect = {
+	remove_country_modifier = pythagorean_school_modifier
+	remove_country_modifier = sophist_school_modifier
+	remove_country_modifier = cynic_school_modifier
+	remove_country_modifier = cyrenaic_school_modifier
+	remove_country_modifier = pyrrhon_school_modifier
+	remove_country_modifier = epicurean_school_modifier
+    remove_country_modifier = stoic_school_modifier
+}
+
+# Not used atm
+initialize_atlantis_schools_effect = {
+	if = {
+		limit = { NOT = { has_global_flag = dragon_schools_initiated } }
+		set_global_flag = dragon_schools_initiated
+		random_country = {
+			limit = {
+				religious_school = {
+					group = muror
+					school = yellow_school
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = blue_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = green_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+		}
+        random_country = {
+			limit = {
+				religious_school = {
+					group = muror
+					school = red_school
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = blue_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = green_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+            random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = yellow_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+            random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = cyan_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+		}
+    }
+}

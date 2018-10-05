@@ -1,0 +1,17 @@
+
+owner = MES
+controller = MES
+add_core = MES
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 3
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = wine
+hre = no
+
+

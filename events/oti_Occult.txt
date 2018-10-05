@@ -1,0 +1,136 @@
+namespace = occult_events
+
+# cthulu
+# yog_sothoth
+# nyarlathotep
+# shub_niggurath
+# hastur
+# dagon
+# tsathoggua
+
+# Set Forth into the Unknown
+country_event = {
+	id = occult_events.1
+	title = occult_events.1.title
+	desc = occult_events.1.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+		technology_group = occult
+		NOT = { num_of_explorers = 1 }
+	}
+    
+	mean_time_to_happen = {
+		months = 120
+        
+        modifier = {
+            factor = 0.01
+            NOT = { is_year = 1445 }
+        }
+	}
+	
+	option = {
+		name = occult_events.1.option.a
+        
+		create_explorer = 5
+	}
+}
+
+# Gift of [Root.Religion.GetName]
+# The Great One, [Root.Religion.GetName] has sought it fit to infuse cosmic essence into the vessel of [Root.Monarch.GetTitle] [Root.Monarch.GetName]. This essence whilst malefic, prevents [Root.Monarch.GetName] from dying.
+# Oh wonderous ... Great One!
+# has_dlc = "Rights of Man"
+country_event = {
+	id = occult_events.2
+	title = occult_events.2.title
+	desc = occult_events.2.desc
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	trigger = {
+		technology_group = occult
+        has_dlc = "Rights of Man"
+        NOT = { has_regency = yes }
+	}
+    
+	mean_time_to_happen = {
+		months = 1200
+        
+        modifier = {
+            factor = 0.9
+            stability = 3
+        }
+        
+        modifier = {
+            factor = 0.9
+            OR = {
+                ADM = 5
+                DIP = 5
+                MIL = 5
+            }
+        }
+        
+        modifier = {
+            factor = 0.9
+            ruler_age = 80
+        }
+	}
+	
+	option = {
+		name = occult_events.2.option.a
+        
+		add_ruler_personality = immortal_personality
+	}
+}
+
+# Vision of [Root.Religion.GetName]
+# Our enemies are have seen a vision of the Great Old One, [Root.Religion.GetName]. Their sanity broken, they will fall like flies, broken by the malefic forces of the Outer Dark.
+# [Root.Religion.GetName] fhtagn!
+country_event = {
+	id = occult_events.3
+	title = occult_events.3.title
+	desc = occult_events.3.desc
+	picture = BATTLE_eventPicture
+
+	trigger = {
+		technology_group = occult
+        FROM = { 
+            NOT = { technology_group = occult }
+            NOT = { has_country_modifier = sanity_blast }
+            NOT = { tag = REB }
+            NOT = { tag = NAT }
+        }
+	}
+    
+    is_triggered_only = yes
+    
+	option = {
+		name = occult_events.3.option.a
+        
+		FROM = {
+            country_event = { id = occult_events.4 }
+        }
+	}
+}
+
+# Vision of [From.Religion.GetName]
+# Our enemies are worshippers of the Great Old One [Root.Religion.GetName]. Our men have seen a vision of the malefic entity known as [Root.Religion.GetName], destroying their feeble minds in an instant.
+# Sanity broken!
+country_event = {
+	id = occult_events.4
+	title = occult_events.4.title
+	desc = occult_events.4.desc
+	picture = BATTLE_eventPicture
+
+    is_triggered_only = yes
+    
+	option = {
+		name = occult_events.4.option.a
+        
+		add_country_modifier = {
+            name = sanity_blast
+            duration = 7200
+        }
+	}
+}
+
+

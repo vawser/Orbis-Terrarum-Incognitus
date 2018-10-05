@@ -1,0 +1,297 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4514
+religious_school = stoic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Nestor"
+		dynasty = "Xylinites"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1357.1.1
+	}
+
+	heir = {
+		name = "Christophoros"
+		monarch_name = "Christophoros"
+		dynasty = "Xylinites"
+		adm = 2
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1412.1.1
+		death_date = 1467.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Himerios"
+		dynasty = "Theodorokanos"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1416.1.1
+	}
+
+	queen = {
+		country_of_origin = ANX 
+		name = "Alexandra"
+		dynasty = "Theodorokanos"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1399.1.1
+		death_date = 1456.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Athanasius"
+		monarch_name = "Athanasius"
+		dynasty = "Theodorokanos"
+		adm = 4
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1452.1.1
+		death_date = 1538.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Anthimos"
+		dynasty = "Tzamplakon"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1446.1.1
+	}
+
+	heir = {
+		name = "Thomas"
+		monarch_name = "Thomas"
+		dynasty = "Tzamplakon"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 25
+		birth_date = 1469.1.1
+		death_date = 1532.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Bartholomaios"
+		dynasty = "Kyprios"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1449.1.1
+	}
+
+	heir = {
+		name = "Gregoras"
+		monarch_name = "Gregoras"
+		dynasty = "Kyprios"
+		adm = 2
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1501.1.1
+		death_date = 1516.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Diogenes"
+		dynasty = "Makrembolites"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1558.1.1
+	}
+
+	queen = {
+		country_of_origin = ANX 
+		name = "Gabrielia"
+		dynasty = "Makrembolites"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1539.1.1
+		death_date = 1641.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Anastasios"
+		monarch_name = "Anastasios"
+		dynasty = "Makrembolites"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 75
+		birth_date = 1574.1.1
+		death_date = 1668.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Gennadios"
+		dynasty = "Adralestos"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1564.1.1
+	}
+
+	queen = {
+		country_of_origin = ANX 
+		name = "Dorothea"
+		dynasty = "Adralestos"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1556.1.1
+		death_date = 1627.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Herakleios"
+		monarch_name = "Herakleios"
+		dynasty = "Adralestos"
+		adm = 4
+		dip = 3
+		mil = 5
+		claim = 100
+		birth_date = 1596.1.1
+		death_date = 1661.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Skantarios"
+		dynasty = "Logariastes"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1621.1.1
+	}
+
+	heir = {
+		name = "Belisarius"
+		monarch_name = "Belisarius"
+		dynasty = "Logariastes"
+		adm = 3
+		dip = 4
+		mil = 3
+		claim = 75
+		birth_date = 1686.1.1
+		death_date = 1711.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Eirenaios"
+		dynasty = "Konops"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1672.1.1
+	}
+
+	queen = {
+		country_of_origin = ANX 
+		name = "Kyriake"
+		dynasty = "Konops"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1686.1.1
+		death_date = 1735.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Herakleios"
+		monarch_name = "Herakleios"
+		dynasty = "Konops"
+		adm = 4
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1698.1.1
+		death_date = 1799.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Eudocia"
+		dynasty = "Saronites"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1717.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Antonios"
+		monarch_name = "Antonios"
+		dynasty = "Saronites"
+		adm = 4
+		dip = 4
+		mil = 2
+		claim = 25
+		birth_date = 1717.1.1
+		death_date = 1803.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Andreas"
+		dynasty = "Zonaras"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1733.1.1
+	}
+
+	heir = {
+		name = "Prokopios"
+		monarch_name = "Prokopios"
+		dynasty = "Zonaras"
+		adm = 5
+		dip = 3
+		mil = 3
+		claim = 50
+		birth_date = 1785.1.1
+		death_date = 1821.1.1
+	}
+}
+

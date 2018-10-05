@@ -1,0 +1,16 @@
+# 4917 - Mak.txt
+
+owner = PNX
+controller = PNX
+add_core = PNX
+is_city = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

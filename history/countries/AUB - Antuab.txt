@@ -1,0 +1,284 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = antillian
+capital = 5589
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Martin"
+		dynasty = "de Téllez-Girón"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1393.1.1
+	}
+
+	heir = {
+		name = "Ignacio"
+		monarch_name = "Ignacio"
+		dynasty = "de Téllez-Girón"
+		adm = 5
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1428.1.1
+		death_date = 1449.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Juan"
+		dynasty = "de Zayas"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1409.1.1
+	}
+
+	heir = {
+		name = "Guillermo"
+		monarch_name = "Guillermo"
+		dynasty = "de Zayas"
+		adm = 5
+		dip = 3
+		mil = 3
+		claim = 25
+		birth_date = 1439.1.1
+		death_date = 1475.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Álvaro"
+		dynasty = "de Álvarez"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1435.1.1
+	}
+
+	queen = {
+		country_of_origin = AUB 
+		name = "Ramiro"
+		dynasty = "de Álvarez"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1440.1.1
+		death_date = 1508.1.1
+	}
+
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry"
+		dynasty = "de Álvarez"
+		adm = 5
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1470.1.1
+		death_date = 1514.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Vela"
+		dynasty = "de Goyeneche"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1443.1.1
+	}
+
+	heir = {
+		name = "Ordono"
+		monarch_name = "Ordono"
+		dynasty = "de Goyeneche"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 25
+		birth_date = 1479.1.1
+		death_date = 1515.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Alphonse"
+		dynasty = "de Rocamora"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1552.1.1
+	}
+
+	heir = {
+		name = "Gómez"
+		monarch_name = "Gómez"
+		dynasty = "de Rocamora"
+		adm = 5
+		dip = 2
+		mil = 3
+		claim = 50
+		birth_date = 1567.1.1
+		death_date = 1599.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "María"
+		dynasty = "de Medinaceli"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1558.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AUB 
+		name = "Bertrán"
+		dynasty = "de Medinaceli"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1542.1.1
+		death_date = 1620.1.1
+	}
+
+	heir = {
+		name = "Pelagius"
+		monarch_name = "Pelagius"
+		dynasty = "de Medinaceli"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 75
+		birth_date = 1587.1.1
+		death_date = 1653.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Sancha"
+		dynasty = "de Castro"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1632.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AUB 
+		name = "Sancho"
+		dynasty = "de Castro"
+		adm = 5
+		dip = 2
+		mil = 2
+		birth_date = 1647.1.1
+		death_date = 1709.1.1
+	}
+
+	heir = {
+		name = "Gonzalo"
+		monarch_name = "Gonzalo"
+		dynasty = "de Castro"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 25
+		birth_date = 1697.1.1
+		death_date = 1769.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Fernando"
+		dynasty = "de Villahermosa"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1686.1.1
+	}
+
+	queen = {
+		country_of_origin = AUB 
+		name = "Mayor"
+		dynasty = "de Villahermosa"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1693.1.1
+		death_date = 1797.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Oveco"
+		monarch_name = "Oveco"
+		dynasty = "de Villahermosa"
+		adm = 5
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1696.1.1
+		death_date = 1739.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Fruela"
+		dynasty = "de Argavieso"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1668.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Louis"
+		dynasty = "de Enríquez"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1756.1.1
+	}
+
+	heir = {
+		name = "Fronilda"
+		monarch_name = "Fronilda"
+		dynasty = "de Enríquez"
+		adm = 3
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1765.1.1
+		death_date = 1825.1.1
+		female = yes
+	}
+}
+

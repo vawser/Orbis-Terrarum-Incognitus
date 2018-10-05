@@ -1,0 +1,22 @@
+# 4746 - La'ana.txt
+
+owner = URI
+controller = URI
+add_core = URI
+is_city = yes
+
+base_tax = 4
+base_production = 6
+base_manpower = 5
+
+culture = savaikian
+religion = arioi
+
+trade_goods = paper
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+

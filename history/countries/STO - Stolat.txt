@@ -1,0 +1,291 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5038
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Peruñcintevar"
+		dynasty = "Alupa"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1365.1.1
+	}
+
+	heir = {
+		name = "Chamundaraja"
+		monarch_name = "Chamundaraja"
+		dynasty = "Alupa"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 100
+		birth_date = 1441.1.1
+		death_date = 1453.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Cevakattevan"
+		dynasty = "Cedi"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1383.1.1
+	}
+
+	heir = {
+		name = "Marasimha"
+		monarch_name = "Marasimha"
+		dynasty = "Cedi"
+		adm = 4
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1449.1.1
+		death_date = 1509.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Kutameratiruvatikal"
+		dynasty = "Rathore"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1415.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Joseph"
+		monarch_name = "Joseph"
+		dynasty = "Rathore"
+		adm = 5
+		dip = 3
+		mil = 3
+		claim = 50
+		birth_date = 1488.1.1
+		death_date = 1532.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Siyaka"
+		dynasty = "Dhariwal"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1443.1.1
+	}
+
+	queen = {
+		country_of_origin = STO 
+		name = "Shantaladevi"
+		dynasty = "Dhariwal"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1440.1.1
+		death_date = 1512.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Mâtevipattan"
+		dynasty = "Chola"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1528.1.1
+	}
+
+	queen = {
+		country_of_origin = STO 
+		name = "Chandaladevi"
+		dynasty = "Chola"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1519.1.1
+		death_date = 1588.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Dharasena"
+		monarch_name = "Dharasena"
+		dynasty = "Chola"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 100
+		birth_date = 1578.1.1
+		death_date = 1666.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Rajasingan"
+		dynasty = "Awadhi"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1596.1.1
+	}
+
+	queen = {
+		country_of_origin = STO 
+		name = "Akkâranankayâr"
+		dynasty = "Awadhi"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1605.1.1
+		death_date = 1665.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Prithivipala"
+		dynasty = "Sankara"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1631.1.1
+	}
+
+	queen = {
+		country_of_origin = STO 
+		name = "Tihunaka"
+		dynasty = "Sankara"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1650.1.1
+		death_date = 1723.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tunaiyiruntâlcâni"
+		monarch_name = "Tunaiyiruntâlcâni"
+		dynasty = "Sankara"
+		adm = 4
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1673.1.1
+		death_date = 1785.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Jayasimha"
+		dynasty = "Dasaratha"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1648.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Padmaladevi"
+		monarch_name = "Padmaladevi"
+		dynasty = "Dasaratha"
+		adm = 3
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1709.1.1
+		death_date = 1743.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Valhana"
+		dynasty = "Miri"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1736.1.1
+	}
+
+	queen = {
+		country_of_origin = STO 
+		name = "Aiyyârratikal"
+		dynasty = "Miri"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1729.1.1
+		death_date = 1785.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Gopendraraja"
+		monarch_name = "Gopendraraja"
+		dynasty = "Miri"
+		adm = 1
+		dip = 3
+		mil = 3
+		claim = 25
+		birth_date = 1744.1.1
+		death_date = 1802.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Kirtivarman"
+		dynasty = "Sendraka"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1692.1.1
+	}
+
+	queen = {
+		country_of_origin = STO 
+		name = "Vaccavaiyâr"
+		dynasty = "Sendraka"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1690.1.1
+		death_date = 1796.1.1
+		female = yes
+	}
+
+}
+

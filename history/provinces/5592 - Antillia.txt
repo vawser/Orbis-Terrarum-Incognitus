@@ -1,0 +1,17 @@
+
+owner = CNX
+controller = CNX
+add_core = CNX
+is_city = yes
+
+base_tax = 7
+base_production = 6
+base_manpower = 6
+
+culture = antillian
+religion = catholic
+
+trade_goods = grain
+hre = no
+
+

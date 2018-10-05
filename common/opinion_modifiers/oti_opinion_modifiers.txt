@@ -1,0 +1,5 @@
+pariah_state = {
+	opinion = -25
+	yearly_decay = 0
+}
+

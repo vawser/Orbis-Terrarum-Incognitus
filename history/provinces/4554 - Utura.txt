@@ -1,0 +1,23 @@
+# 4554 - Utura.txt
+
+owner = UTU
+controller = UTU
+add_core = UTU
+is_city = yes
+
+base_tax = 7
+base_production = 8
+base_manpower = 8
+
+culture = lemurian
+religion = buddhism
+
+trade_goods = fish
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+

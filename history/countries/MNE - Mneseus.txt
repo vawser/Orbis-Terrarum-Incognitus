@@ -1,0 +1,289 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4700
+religious_school = pyrrhon_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Daniel"
+		dynasty = "Gabrielopoulos"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1370.1.1
+	}
+
+	heir = {
+		name = "Antiochos"
+		monarch_name = "Antiochos"
+		dynasty = "Gabrielopoulos"
+		adm = 5
+		dip = 3
+		mil = 4
+		claim = 75
+		birth_date = 1437.1.1
+		death_date = 1507.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Bessarion"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1402.1.1
+	}
+
+	queen = {
+		country_of_origin = MNE 
+		name = "Euphemia"
+		dynasty = "Bessarion"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 1405.1.1
+		death_date = 1464.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Damianos"
+		monarch_name = "Damianos"
+		dynasty = "Bessarion"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 25
+		birth_date = 1435.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Demetrios"
+		dynasty = "Rangabes"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1437.1.1
+	}
+
+	queen = {
+		country_of_origin = MNE 
+		name = "Elaiodora"
+		dynasty = "Rangabes"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1457.1.1
+		death_date = 1551.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Prokopios"
+		monarch_name = "Prokopios"
+		dynasty = "Rangabes"
+		adm = 4
+		dip = 2
+		mil = 5
+		claim = 25
+		birth_date = 1486.1.1
+		death_date = 1553.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Bartholomaios"
+		dynasty = "Kekaleimenos"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1470.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Konstantinos"
+		dynasty = "Mesarites"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1508.1.1
+	}
+
+	heir = {
+		name = "Agnes"
+		monarch_name = "Agnes"
+		dynasty = "Mesarites"
+		adm = 3
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1566.1.1
+		death_date = 1593.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Eirenaios"
+		dynasty = "Boïlas"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1582.1.1
+	}
+
+	heir = {
+		name = "Alexandra"
+		monarch_name = "Alexandra"
+		dynasty = "Boïlas"
+		adm = 1
+		dip = 5
+		mil = 2
+		claim = 25
+		birth_date = 1588.1.1
+		death_date = 1638.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Trichinopodes"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 1665.1.1
+	}
+
+	queen = {
+		country_of_origin = MNE 
+		name = "Helene"
+		dynasty = "Trichinopodes"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1646.1.1
+		death_date = 1739.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Orestes"
+		dynasty = "Paleologo"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1641.1.1
+	}
+
+	heir = {
+		name = "David"
+		monarch_name = "David"
+		dynasty = "Paleologo"
+		adm = 5
+		dip = 3
+		mil = 5
+		claim = 50
+		birth_date = 1709.1.1
+		death_date = 1725.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Basileios"
+		dynasty = "Drosos"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1701.1.1
+	}
+
+	queen = {
+		country_of_origin = MNE 
+		name = "Eirene"
+		dynasty = "Drosos"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1705.1.1
+		death_date = 1786.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos"
+		dynasty = "Drosos"
+		adm = 3
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1745.1.1
+		death_date = 1798.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Andronicus"
+		dynasty = "Souanites"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1739.1.1
+	}
+
+	queen = {
+		country_of_origin = MNE 
+		name = "Konstantia"
+		dynasty = "Souanites"
+		adm = 4
+		dip = 2
+		mil = 2
+		birth_date = 1730.1.1
+		death_date = 1833.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Elaiodora"
+		monarch_name = "Elaiodora"
+		dynasty = "Souanites"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1773.1.1
+		death_date = 1825.1.1
+		female = yes
+	}
+}
+

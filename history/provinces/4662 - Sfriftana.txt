@@ -1,0 +1,23 @@
+# 4662 - Sfriftana.txt
+
+owner = TUO
+controller = TUO
+add_core = TUO
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 5
+
+culture = lemurian
+religion = asakti
+
+trade_goods = naval_supplies
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+

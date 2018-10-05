@@ -1,0 +1,17 @@
+# 4573 - Attupil.txt
+
+owner = AGA
+controller = AGA
+add_core = AGA
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+culture = lemurian
+religion = asakti
+
+trade_goods = livestock
+hre = no
+

@@ -1,0 +1,243 @@
+government = tribal_democracy
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = hawaiian
+capital = 4891
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Ma'ayat"
+		dynasty = "Pahang"
+		adm = 5
+		dip = 2
+		mil = 2
+		birth_date = 1353.1.1
+	}
+
+	queen = {
+		country_of_origin = MUI 
+		name = "Konane"
+		dynasty = "Pahang"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1351.1.1
+		death_date = 1452.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bong"
+		monarch_name = "Bong"
+		dynasty = "Pahang"
+		adm = 4
+		dip = 2
+		mil = 1
+		claim = 50
+		birth_date = 1427.1.1
+		death_date = 1472.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Polola"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1420.1.1
+	}
+
+	heir = {
+		name = "Malana"
+		monarch_name = "Malana"
+		dynasty = "Polola"
+		adm = 1
+		dip = 2
+		mil = 4
+		claim = 75
+		birth_date = 1447.1.1
+		death_date = 1524.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Rajasawardhana"
+		dynasty = "Uluwehi"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1409.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Riayat"
+		dynasty = "Ha'aheo"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1476.1.1
+	}
+
+	queen = {
+		country_of_origin = MUI 
+		name = "Lahela"
+		dynasty = "Ha'aheo"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1478.1.1
+		death_date = 1514.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Poerava"
+		dynasty = "Momilani"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1521.1.1
+		female = yes
+		regent = yes
+	}
+
+	heir = {
+		name = "Raden"
+		monarch_name = "Raden"
+		dynasty = "Momilani"
+		adm = 4
+		dip = 4
+		mil = 5
+		claim = 50
+		birth_date = 1574.1.1
+		death_date = 1628.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Kedah"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1562.1.1
+	}
+
+	heir = {
+		name = "Girindrawardhana"
+		monarch_name = "Girindrawardhana"
+		dynasty = "Kedah"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 75
+		birth_date = 1582.1.1
+		death_date = 1668.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Hayam"
+		dynasty = "Kehaulani"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1673.1.1
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Moho"
+		dynasty = "Heleakala"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1653.1.1
+	}
+
+	queen = {
+		country_of_origin = MUI 
+		name = "Vaianu"
+		dynasty = "Heleakala"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1640.1.1
+		death_date = 1735.1.1
+		female = yes
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Sotor"
+		dynasty = "Sanoe"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1729.1.1
+	}
+
+	heir = {
+		name = "Cheng"
+		monarch_name = "Cheng"
+		dynasty = "Sanoe"
+		adm = 4
+		dip = 5
+		mil = 4
+		claim = 25
+		birth_date = 1717.1.1
+		death_date = 1817.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Iskander"
+		dynasty = "Panduranga"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1767.1.1
+	}
+
+	heir = {
+		name = "Inoke"
+		monarch_name = "Inoke"
+		dynasty = "Panduranga"
+		adm = 3
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1767.1.1
+		death_date = 1799.1.1
+	}
+}
+

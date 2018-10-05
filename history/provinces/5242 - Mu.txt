@@ -1,0 +1,17 @@
+
+owner = VAS
+controller = VAS
+add_core = VAS
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+culture = gulamur
+religion = dragon_gods
+
+trade_goods = unknown
+hre = no
+
+

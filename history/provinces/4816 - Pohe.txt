@@ -1,0 +1,17 @@
+# 4816 - Pohe.txt
+
+owner = YTK
+controller = YTK
+add_core = YTK
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = grain
+hre = no
+

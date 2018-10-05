@@ -1,0 +1,19 @@
+bookmark =
+{
+	name = "ATLANTIS_REBORN"
+	desc = "ATLANTIS_REBORN_DESC"
+	date = 1444.11.11
+
+	center = 4549
+
+	country = ANT
+	country = ATE
+	country = ATZ
+	country = BNP
+	country = ICH
+	country = IND
+	country = MEL
+	country = OIN
+	country = SOR
+	country = TCH
+}

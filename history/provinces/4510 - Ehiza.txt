@@ -1,0 +1,16 @@
+# 4510 - Ehiza.txt
+owner = ELA
+controller = ELA
+add_core = ELA
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 4
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = gems
+hre = no
+

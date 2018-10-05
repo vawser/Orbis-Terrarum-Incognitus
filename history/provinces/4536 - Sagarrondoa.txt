@@ -1,0 +1,16 @@
+
+owner = APF
+controller = APF
+add_core = APF
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 4
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = livestock
+hre = no
+

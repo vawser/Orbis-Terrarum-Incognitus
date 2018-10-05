@@ -1,0 +1,17 @@
+# 4578 - Nimbu.txt
+
+owner = EFI
+controller = EFI
+add_core = EFI
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 2
+
+culture = lemurian
+religion = asakti
+
+trade_goods = fish
+hre = no
+

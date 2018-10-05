@@ -1,0 +1,17 @@
+
+owner = IKA
+controller = IKA
+add_core = IKA
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+culture = savaikian
+religion = arioi
+
+trade_goods = tobacco
+hre = no
+
+

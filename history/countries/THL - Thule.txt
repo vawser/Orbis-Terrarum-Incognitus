@@ -1,0 +1,296 @@
+government = merchant_republic
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 4501
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Cináed"
+		dynasty = "O'Faoláin"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1411.1.1
+	}
+
+	heir = {
+		name = "Niall"
+		monarch_name = "Niall"
+		dynasty = "O'Faoláin"
+		adm = 2
+		dip = 4
+		mil = 4
+		claim = 75
+		birth_date = 1407.1.1
+		death_date = 1527.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Cairell"
+		dynasty = "Kelly"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1395.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Donald"
+		dynasty = "Fitz Patrick"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1408.1.1
+	}
+
+	heir = {
+		name = "Echuid"
+		monarch_name = "Echuid"
+		dynasty = "Fitz Patrick"
+		adm = 1
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1468.1.1
+		death_date = 1525.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Bhátair"
+		dynasty = "O'Clery"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1471.1.1
+	}
+
+	heir = {
+		name = "Cillíne"
+		monarch_name = "Cillíne"
+		dynasty = "O'Clery"
+		adm = 4
+		dip = 2
+		mil = 2
+		claim = 25
+		birth_date = 1470.1.1
+		death_date = 1539.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Pilib"
+		dynasty = "Mac"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1547.1.1
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Sláíne"
+		dynasty = "Mac"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1535.1.1
+		death_date = 1638.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Oisséne"
+		monarch_name = "Oisséne"
+		dynasty = "Mac"
+		adm = 5
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1577.1.1
+		death_date = 1635.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Fedelma"
+		dynasty = "Corcu"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1559.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Fothud"
+		dynasty = "Corcu"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 1548.1.1
+		death_date = 1631.1.1
+	}
+
+	heir = {
+		name = "Kentigern"
+		monarch_name = "Kentigern"
+		dynasty = "Corcu"
+		adm = 3
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1594.1.1
+		death_date = 1678.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Niallán"
+		dynasty = "O'More"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1671.1.1
+	}
+
+	heir = {
+		name = "Tadhg"
+		monarch_name = "Tadhg"
+		dynasty = "O'More"
+		adm = 5
+		dip = 5
+		mil = 3
+		claim = 75
+		birth_date = 1671.1.1
+		death_date = 1772.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Ros"
+		dynasty = "Shannon"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1633.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Abner"
+		dynasty = "Shannon"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1651.1.1
+		death_date = 1745.1.1
+	}
+
+	heir = {
+		name = "Cellachán"
+		monarch_name = "Cellachán"
+		dynasty = "Shannon"
+		adm = 4
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1688.1.1
+		death_date = 1746.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Ainftech"
+		dynasty = "Shannon"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1725.1.1
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Cathán"
+		dynasty = "Shannon"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1735.1.1
+		death_date = 1840.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Duncan"
+		monarch_name = "Duncan"
+		dynasty = "Shannon"
+		adm = 2
+		dip = 2
+		mil = 3
+		claim = 25
+		birth_date = 1732.1.1
+		death_date = 1831.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Naomhán"
+		dynasty = "Shannon"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1739.1.1
+	}
+
+	queen = {
+		country_of_origin = ALI 
+		name = "Aíbinn"
+		dynasty = "Shannon"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1720.1.1
+		death_date = 1809.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Eoghan"
+		monarch_name = "Eoghan"
+		dynasty = "Shannon"
+		adm = 1
+		dip = 3
+		mil = 5
+		claim = 50
+		birth_date = 1752.1.1
+		death_date = 1852.1.1
+	}
+}
+

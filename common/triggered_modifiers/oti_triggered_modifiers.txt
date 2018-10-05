@@ -1,0 +1,76 @@
+# Dragon Empire mechanic
+blessing_of_the_dragons = {
+    potential = {
+        government = dragon_empire
+    }
+    trigger = {
+        legitimacy = 100
+    }
+    
+    all_power_cost = -0.1
+}
+
+absence_of_the_dragons = {
+    potential = {
+        government = dragon_empire
+    }
+    trigger = {
+        NOT = { legitimacy = 50 }
+    }
+    
+    all_power_cost = 0.25
+}
+
+# Benefit for non-Atlantean countries for conquering Atlantis
+secrets_of_atlantis = {
+    potential = {
+        NOT = { technology_group = atlantean }
+        atlantis_region = {
+            knows_country = ROOT
+        }
+    }
+    trigger = {
+        atlantis_region = {
+            owned_by = ROOT
+            is_core = ROOT
+        }
+    }
+    
+    technology_cost = -0.1
+    idea_cost = -0.1
+}
+
+# Occult
+revulsion_of_the_occult = {
+    potential = {
+        technology_group = occult
+    }
+    trigger = {
+        technology_group = occult
+    }
+    ae_impact = 0.1
+    diplomatic_reputation = -1
+}
+
+occult_proselytization = {
+    potential = {
+        technology_group = occult
+    }
+    trigger = {
+        technology_group = occult
+    }
+    colonists = 1
+    missionaries = 1
+    range = 1.0
+}
+
+occult_empowerment = {
+    potential = {
+        technology_group = occult
+    }
+    trigger = {
+        technology_group = occult
+        total_development = 100
+    }
+    global_tax_income = 60
+}

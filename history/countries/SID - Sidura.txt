@@ -1,0 +1,267 @@
+government = theocratic_government
+mercantilism = 0.1
+technology_group = lemurian
+religion = nasrani
+primary_culture = sinhala
+capital = 5103
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Vakapati"
+		dynasty = "Parmari"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1387.1.1
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Immadai"
+		dynasty = "Chanda"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1374.1.1
+	}
+
+	queen = {
+		country_of_origin = SID 
+		name = "Thirumalambike"
+		dynasty = "Chanda"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1366.1.1
+		death_date = 1460.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Amarji"
+		dynasty = "Chindaka-Naga"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1456.1.1
+	}
+
+	heir = {
+		name = "Malaiyamân"
+		monarch_name = "Malaiyamân"
+		dynasty = "Chindaka-Naga"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1485.1.1
+		death_date = 1575.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Vendakadri"
+		dynasty = "Ay"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1425.1.1
+	}
+
+	queen = {
+		country_of_origin = SID 
+		name = "Râcakêcari"
+		dynasty = "Ay"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1442.1.1
+		death_date = 1541.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Nripakama"
+		dynasty = "Kalachuri"
+		adm = 1
+		dip = 5
+		mil = 3
+		birth_date = 1496.1.1
+	}
+
+	queen = {
+		country_of_origin = SID 
+		name = "Elizabeth"
+		dynasty = "Kalachuri"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1480.1.1
+		death_date = 1591.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bijjabbe"
+		monarch_name = "Bijjabbe"
+		dynasty = "Kalachuri"
+		adm = 1
+		dip = 3
+		mil = 4
+		claim = 50
+		birth_date = 1542.1.1
+		death_date = 1593.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Irattapadikonda"
+		dynasty = "Wodeyar"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1565.1.1
+	}
+
+	queen = {
+		country_of_origin = SID 
+		name = "Naltêviyâr"
+		dynasty = "Wodeyar"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1564.1.1
+		death_date = 1632.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Permanadi"
+		monarch_name = "Permanadi"
+		dynasty = "Wodeyar"
+		adm = 1
+		dip = 4
+		mil = 2
+		claim = 100
+		birth_date = 1607.1.1
+		death_date = 1693.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Raghunatha"
+		dynasty = "Yadava"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1619.1.1
+	}
+
+	heir = {
+		name = "Pillai"
+		monarch_name = "Pillai"
+		dynasty = "Yadava"
+		adm = 1
+		dip = 5
+		mil = 5
+		claim = 75
+		birth_date = 1681.1.1
+		death_date = 1765.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Krishnappa"
+		dynasty = "Ganga"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1629.1.1
+	}
+
+	heir = {
+		name = "Hamirji"
+		monarch_name = "Hamirji"
+		dynasty = "Ganga"
+		adm = 2
+		dip = 1
+		mil = 1
+		claim = 50
+		birth_date = 1696.1.1
+		death_date = 1741.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Lakhanapala"
+		dynasty = "Nanduri"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1665.1.1
+	}
+
+	queen = {
+		country_of_origin = SID 
+		name = "Câmuntappai"
+		dynasty = "Nanduri"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1657.1.1
+		death_date = 1772.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "MariMâtêvatikal"
+		dynasty = "Raghuvansi"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1716.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ramachandra"
+		monarch_name = "Ramachandra"
+		dynasty = "Raghuvansi"
+		adm = 2
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1786.1.1
+		death_date = 1826.1.1
+	}
+}
+

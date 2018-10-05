@@ -1,0 +1,122 @@
+namespace = oti_dragon_schools
+
+country_event = {
+	id = oti_dragon_schools.1
+	title = oti_dragon_schools.1.title
+	desc = oti_dragon_schools.1.desc
+	picture = HARBOUR_eventPicture
+	
+	trigger = {
+		has_dlc = "Cradle of Civilization"
+		religion_group = muror
+		has_religious_school = no
+	}
+	
+	is_triggered_only = yes
+
+	option = {
+		name = oti_dragon_schools.1.option.ai
+		trigger = {
+			ai = yes
+		}
+        random_list = {
+            20 = {
+                set_religious_school = {
+                    group = muror
+                    school = yellow_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = muror
+                    school = blue_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = muror
+                    school = cyan_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = muror
+                    school = red_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = muror
+                    school = green_school
+                }
+            }
+            20 = {
+                set_religious_school = {
+                    group = muror
+                    school = purple_school
+                }
+            }
+        }
+    }
+    option = {
+		name = oti_dragon_schools.1.option.a
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = muror
+			school = yellow_school
+		}
+	}
+    option = {
+		name = oti_dragon_schools.1.option.b
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = muror
+			school = blue_school
+		}
+	}
+    option = {
+		name = oti_dragon_schools.1.option.c
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = muror
+			school = cyan_school
+		}
+	}
+    option = {
+		name = oti_dragon_schools.1.option.d
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = muror
+			school = green_school
+		}
+	}
+    option = {
+		name = oti_dragon_schools.1.option.e
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = muror
+			school = red_school
+		}
+	}
+    option = {
+		name = oti_dragon_schools.1.option.f
+		trigger = {
+			ai = no
+		}
+		set_religious_school = {
+			group = muror
+			school = purple_school
+		}
+	}
+}
+

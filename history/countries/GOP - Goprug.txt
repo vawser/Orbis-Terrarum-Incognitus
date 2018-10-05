@@ -1,0 +1,265 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muror	
+religion = dragon_gods
+primary_culture = mul
+capital = 5519
+religious_school = blue_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Mahmûd"
+		dynasty = "Hanalei"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1416.1.1
+	}
+
+	queen = {
+		country_of_origin = GOP 
+		name = "Moanna"
+		dynasty = "Hanalei"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1416.1.1
+		death_date = 1453.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Riayat"
+		monarch_name = "Riayat"
+		dynasty = "Hanalei"
+		adm = 3
+		dip = 4
+		mil = 2
+		claim = 75
+		birth_date = 1419.1.1
+		death_date = 1517.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Raden"
+		dynasty = "Banten"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1355.1.1
+	}
+
+	queen = {
+		country_of_origin = GOP 
+		name = "Makelina"
+		dynasty = "Banten"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1354.1.1
+		death_date = 1459.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "'Abd"
+		monarch_name = "'Abd"
+		dynasty = "Banten"
+		adm = 3
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1448.1.1
+		death_date = 1479.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Mengtsekya"
+		dynasty = "Polola"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1466.1.1
+	}
+
+	heir = {
+		name = "Tsalenggathu"
+		monarch_name = "Tsalenggathu"
+		dynasty = "Polola"
+		adm = 2
+		dip = 4
+		mil = 1
+		claim = 75
+		birth_date = 1461.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Makaleka"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1449.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Indravarman"
+		dynasty = "Cirebon"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1558.1.1
+	}
+
+	heir = {
+		name = "Feleti"
+		monarch_name = "Feleti"
+		dynasty = "Cirebon"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 100
+		birth_date = 1565.1.1
+		death_date = 1587.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Ipo"
+		dynasty = "Lono"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1586.1.1
+	}
+
+	heir = {
+		name = "Megat"
+		monarch_name = "Megat"
+		dynasty = "Lono"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 75
+		birth_date = 1614.1.1
+		death_date = 1682.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Orama"
+		dynasty = "Terengganu"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1645.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tehea"
+		monarch_name = "Tehea"
+		dynasty = "Terengganu"
+		adm = 4
+		dip = 3
+		mil = 2
+		claim = 100
+		birth_date = 1668.1.1
+		death_date = 1766.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Wijaya"
+		dynasty = "Lehuanani"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1636.1.1
+	}
+
+	queen = {
+		country_of_origin = GOP 
+		name = "Lanai"
+		dynasty = "Lehuanani"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1655.1.1
+		death_date = 1753.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Wuruk"
+		monarch_name = "Wuruk"
+		dynasty = "Lehuanani"
+		adm = 3
+		dip = 4
+		mil = 5
+		claim = 25
+		birth_date = 1684.1.1
+		death_date = 1755.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Chan"
+		dynasty = "Ainalani"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1690.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Vaianu"
+		dynasty = "Hualani"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1765.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Muzaffar"
+		monarch_name = "Muzaffar"
+		dynasty = "Hualani"
+		adm = 4
+		dip = 1
+		mil = 5
+		claim = 25
+		birth_date = 1766.1.1
+		death_date = 1870.1.1
+	}
+}
+

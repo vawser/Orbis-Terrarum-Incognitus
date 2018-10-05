@@ -1,0 +1,17 @@
+# 4894 - Va'i.txt
+
+owner = PKA
+controller = PKA
+add_core = PKA
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = rapanni
+religion = tangata_manu
+
+trade_goods = gold
+hre = no
+

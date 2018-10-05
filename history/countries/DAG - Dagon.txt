@@ -1,0 +1,16 @@
+government = cult
+mercantilism = 0.1
+primary_culture = dagon
+religion = dagon
+technology_group = occult
+capital = 5310
+
+1444.11.11 = {
+	monarch = {
+		name = "Ythhu'gua"
+		dynasty = "Gllhu"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

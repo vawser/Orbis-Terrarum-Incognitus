@@ -1,0 +1,104 @@
+clear_dragon_scholar_modifiers_effect = {
+	remove_country_modifier = dragon_school_yellow_modifier
+	remove_country_modifier = dragon_school_blue_modifier
+	remove_country_modifier = dragon_school_cyan_modifier
+	remove_country_modifier = dragon_school_green_modifier
+	remove_country_modifier = dragon_school_red_modifier
+	remove_country_modifier = dragon_school_purple_modifier
+}
+
+# Just some random opinions
+initialize_dragon_schools_effect = {
+	if = {
+		limit = { NOT = { has_global_flag = dragon_schools_initiated } }
+		set_global_flag = dragon_schools_initiated
+		random_country = {
+			limit = {
+				religious_school = {
+					group = muror
+					school = yellow_school
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = blue_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = green_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+		}
+        random_country = {
+			limit = {
+				religious_school = {
+					group = muror
+					school = red_school
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = blue_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+			random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = green_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+            random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = yellow_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+            random_country = {
+				limit = {
+					religious_school = {
+						group = muror
+						school = cyan_school
+					}
+				}
+				set_school_opinion = {
+					who = PREV
+					opinion = -1
+				}
+			}
+		}
+    }
+}

@@ -1,0 +1,17 @@
+
+owner = QTI
+controller = QTI
+add_core = QTI
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = tobacco
+hre = no
+
+

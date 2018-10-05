@@ -1,0 +1,286 @@
+government = merchant_republic
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4531
+religious_school = pythagorean_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Pavlos"
+		dynasty = "Mamonas"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1400.1.1
+	}
+
+	heir = {
+		name = "Petros"
+		monarch_name = "Petros"
+		dynasty = "Mamonas"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1429.1.1
+		death_date = 1459.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Hierotheos"
+		dynasty = "Lachanodrakon"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1403.1.1
+	}
+
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios"
+		dynasty = "Lachanodrakon"
+		adm = 1
+		dip = 1
+		mil = 4
+		claim = 75
+		birth_date = 1417.1.1
+		death_date = 1520.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Herakleios"
+		dynasty = "Palaiotes"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1427.1.1
+	}
+
+	queen = {
+		country_of_origin = IND 
+		name = "Kyra"
+		dynasty = "Palaiotes"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1412.1.1
+		death_date = 1496.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos"
+		dynasty = "Palaiotes"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 100
+		birth_date = 1469.1.1
+		death_date = 1571.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Alexandros"
+		dynasty = "Marapas"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1417.1.1
+	}
+
+	heir = {
+		name = "Heracles"
+		monarch_name = "Heracles"
+		dynasty = "Marapas"
+		adm = 2
+		dip = 4
+		mil = 4
+		claim = 100
+		birth_date = 1490.1.1
+		death_date = 1565.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Gabriel"
+		dynasty = "Trichares"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1500.1.1
+	}
+
+	queen = {
+		country_of_origin = IND 
+		name = "Irene"
+		dynasty = "Trichares"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1501.1.1
+		death_date = 1586.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ioanna"
+		monarch_name = "Ioanna"
+		dynasty = "Trichares"
+		adm = 5
+		dip = 2
+		mil = 2
+		claim = 50
+		birth_date = 1540.1.1
+		death_date = 1663.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Bartholomaios"
+		dynasty = "Mountanis"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1559.1.1
+	}
+
+	queen = {
+		country_of_origin = IND 
+		name = "Dorothea"
+		dynasty = "Mountanis"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1547.1.1
+		death_date = 1640.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Hektor"
+		monarch_name = "Hektor"
+		dynasty = "Mountanis"
+		adm = 2
+		dip = 1
+		mil = 2
+		claim = 50
+		birth_date = 1598.1.1
+		death_date = 1700.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Elpidios"
+		dynasty = "Marachas"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1617.1.1
+	}
+
+	queen = {
+		country_of_origin = IND 
+		name = "Euphrosyne"
+		dynasty = "Marachas"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1602.1.1
+		death_date = 1716.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Pelagios"
+		dynasty = "Basilakios"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1656.1.1
+	}
+
+	heir = {
+		name = "Aineias"
+		monarch_name = "Aineias"
+		dynasty = "Basilakios"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1704.1.1
+		death_date = 1772.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Andreas"
+		dynasty = "Akoimitos"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1737.1.1
+	}
+
+	heir = {
+		name = "Philippos"
+		monarch_name = "Philippos"
+		dynasty = "Akoimitos"
+		adm = 4
+		dip = 5
+		mil = 3
+		claim = 25
+		birth_date = 1735.1.1
+		death_date = 1810.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Herakles"
+		dynasty = "Stratiotikos"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1746.1.1
+	}
+
+	heir = {
+		name = "Eustratios"
+		monarch_name = "Eustratios"
+		dynasty = "Stratiotikos"
+		adm = 1
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1768.1.1
+		death_date = 1832.1.1
+	}
+}
+

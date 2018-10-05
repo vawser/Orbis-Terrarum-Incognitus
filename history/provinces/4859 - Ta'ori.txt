@@ -1,0 +1,17 @@
+# 4859 - Ta'ori.txt
+
+owner = MAU
+controller = MAU
+add_core = MAU
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+culture = tongan
+religion = arioi
+
+trade_goods = fish
+hre = no
+

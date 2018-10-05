@@ -1,0 +1,5 @@
+government = cult
+government_rank = 3
+primary_culture = shub_niggurath
+religion = shub_niggurath
+technology_group = occult

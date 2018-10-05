@@ -1,0 +1,17 @@
+
+owner = NYR
+controller = NYR
+add_core = NYR
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = nyarlathotep
+religion = nyarlathotep
+
+trade_goods = livestock
+hre = no
+
+

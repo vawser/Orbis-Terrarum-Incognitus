@@ -1,0 +1,299 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = antillian
+capital = 5590
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Pelagius"
+		dynasty = "de Hoyos"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1384.1.1
+	}
+
+	heir = {
+		name = "Martín"
+		monarch_name = "Martín"
+		dynasty = "de Hoyos"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 25
+		birth_date = 1443.1.1
+		death_date = 1524.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Suero"
+		dynasty = "de Álvarez"
+		adm = 5
+		dip = 1
+		mil = 3
+		birth_date = 1411.1.1
+	}
+
+	heir = {
+		name = "Ramiro"
+		monarch_name = "Ramiro"
+		dynasty = "de Álvarez"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 100
+		birth_date = 1441.1.1
+		death_date = 1530.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Esteban"
+		dynasty = "de Ruspoli"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1433.1.1
+	}
+
+	heir = {
+		name = "Felipe"
+		monarch_name = "Felipe"
+		dynasty = "de Ruspoli"
+		adm = 2
+		dip = 5
+		mil = 5
+		claim = 25
+		birth_date = 1487.1.1
+		death_date = 1555.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Nuño"
+		dynasty = "de Hoyos"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1468.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Urraca"
+		dynasty = "de Álvarez"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1541.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ARI 
+		name = "Froila"
+		dynasty = "de Álvarez"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1537.1.1
+		death_date = 1610.1.1
+	}
+
+	heir = {
+		name = "María"
+		monarch_name = "María"
+		dynasty = "de Álvarez"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 25
+		birth_date = 1546.1.1
+		death_date = 1627.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Lope"
+		dynasty = "de Alba"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1579.1.1
+	}
+
+	queen = {
+		country_of_origin = ARI 
+		name = "Toda"
+		dynasty = "de Alba"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1590.1.1
+		death_date = 1688.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "García"
+		monarch_name = "García"
+		dynasty = "de Alba"
+		adm = 3
+		dip = 2
+		mil = 3
+		claim = 25
+		birth_date = 1579.1.1
+		death_date = 1666.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Urraca"
+		dynasty = "de Castilla"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1673.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ARI 
+		name = "Gomez"
+		dynasty = "de Castilla"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1670.1.1
+		death_date = 1736.1.1
+	}
+
+	heir = {
+		name = "Marina"
+		monarch_name = "Marina"
+		dynasty = "de Castilla"
+		adm = 3
+		dip = 1
+		mil = 5
+		claim = 100
+		birth_date = 1681.1.1
+		death_date = 1785.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Oliver"
+		dynasty = "de Mendoza"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1658.1.1
+	}
+
+	queen = {
+		country_of_origin = ARI 
+		name = "Blanche"
+		dynasty = "de Mendoza"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1661.1.1
+		death_date = 1755.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "García"
+		monarch_name = "García"
+		dynasty = "de Mendoza"
+		adm = 4
+		dip = 3
+		mil = 5
+		claim = 75
+		birth_date = 1715.1.1
+		death_date = 1731.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Sancho"
+		dynasty = "de Menezes"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 1715.1.1
+	}
+
+	queen = {
+		country_of_origin = ARI 
+		name = "Sancha"
+		dynasty = "de Menezes"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1727.1.1
+		death_date = 1811.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Henry"
+		dynasty = "de Menezes"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1755.1.1
+	}
+
+	queen = {
+		country_of_origin = ARI 
+		name = "Ximena"
+		dynasty = "de Menezes"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1771.1.1
+		death_date = 1859.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Martin"
+		monarch_name = "Martin"
+		dynasty = "de Menezes"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1770.1.1
+		death_date = 1877.1.1
+	}
+}
+

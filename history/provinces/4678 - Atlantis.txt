@@ -1,0 +1,20 @@
+owner = EVA
+controller = EVA
+add_core = EVA
+is_city = yes
+
+base_tax = 5
+base_production = 5
+base_manpower = 6
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = cloth
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+

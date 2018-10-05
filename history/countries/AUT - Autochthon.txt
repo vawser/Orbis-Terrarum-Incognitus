@@ -1,0 +1,288 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4711
+religious_school = stoic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Pelagios"
+		dynasty = "Italikos"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1357.1.1
+	}
+
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios"
+		dynasty = "Italikos"
+		adm = 1
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1418.1.1
+		death_date = 1503.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Diogenes"
+		dynasty = "Heraclides"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1365.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Garyphallia"
+		monarch_name = "Garyphallia"
+		dynasty = "Heraclides"
+		adm = 1
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1446.1.1
+		death_date = 1491.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Adrian"
+		dynasty = "Dokeianos"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1471.1.1
+	}
+
+	heir = {
+		name = "Anastasios"
+		monarch_name = "Anastasios"
+		dynasty = "Dokeianos"
+		adm = 2
+		dip = 2
+		mil = 3
+		claim = 100
+		birth_date = 1492.1.1
+		death_date = 1562.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Dorothea"
+		dynasty = "Manganiotis"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1489.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AUT 
+		name = "Bosporios"
+		dynasty = "Manganiotis"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1484.1.1
+		death_date = 1576.1.1
+	}
+
+	heir = {
+		name = "Ambrosios"
+		monarch_name = "Ambrosios"
+		dynasty = "Manganiotis"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1485.1.1
+		death_date = 1591.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Konstantinos"
+		dynasty = "Lithokastrites"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1497.1.1
+	}
+
+	heir = {
+		name = "Damianos"
+		monarch_name = "Damianos"
+		dynasty = "Lithokastrites"
+		adm = 4
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1565.1.1
+		death_date = 1657.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Theodoros"
+		dynasty = "Kallierges"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 1569.1.1
+	}
+
+	heir = {
+		name = "Chrysogonos"
+		monarch_name = "Chrysogonos"
+		dynasty = "Kallierges"
+		adm = 4
+		dip = 1
+		mil = 1
+		claim = 25
+		birth_date = 1616.1.1
+		death_date = 1699.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Euphrosyne"
+		dynasty = "Melissenos"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1643.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AUT 
+		name = "Bardas"
+		dynasty = "Melissenos"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1646.1.1
+		death_date = 1720.1.1
+	}
+
+	heir = {
+		name = "Eirenaios"
+		monarch_name = "Eirenaios"
+		dynasty = "Melissenos"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 100
+		birth_date = 1695.1.1
+		death_date = 1789.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Anatolios"
+		dynasty = "Karphitzes"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1692.1.1
+	}
+
+	heir = {
+		name = "Gregoria"
+		monarch_name = "Gregoria"
+		dynasty = "Karphitzes"
+		adm = 1
+		dip = 4
+		mil = 4
+		claim = 75
+		birth_date = 1686.1.1
+		death_date = 1799.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Konstantine"
+		dynasty = "Antipapas"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1679.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AUT 
+		name = "Belisarius"
+		dynasty = "Antipapas"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1668.1.1
+		death_date = 1765.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Bartolomeus"
+		dynasty = "Alyattes"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1749.1.1
+	}
+
+	queen = {
+		country_of_origin = AUT 
+		name = "Alexeia"
+		dynasty = "Alyattes"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1735.1.1
+		death_date = 1821.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Gregorios"
+		monarch_name = "Gregorios"
+		dynasty = "Alyattes"
+		adm = 4
+		dip = 1
+		mil = 5
+		claim = 75
+		birth_date = 1789.1.1
+		death_date = 1866.1.1
+	}
+}
+

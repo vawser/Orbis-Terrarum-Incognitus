@@ -1,0 +1,299 @@
+government = theocratic_government
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5110
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Piramaccâni"
+		dynasty = "Chindaka"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1402.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = JEN 
+		name = "Adikavi"
+		dynasty = "Chindaka"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1400.1.1
+		death_date = 1488.1.1
+	}
+
+	heir = {
+		name = "Venkayarya"
+		monarch_name = "Venkayarya"
+		dynasty = "Chindaka"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 100
+		birth_date = 1430.1.1
+		death_date = 1522.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Samyukta"
+		dynasty = "Silavamsi"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1404.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Virappa"
+		dynasty = "Chanda"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1417.1.1
+	}
+
+	queen = {
+		country_of_origin = JEN 
+		name = "Nâcci"
+		dynasty = "Chanda"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1413.1.1
+		death_date = 1514.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad"
+		dynasty = "Chanda"
+		adm = 1
+		dip = 5
+		mil = 1
+		claim = 25
+		birth_date = 1491.1.1
+		death_date = 1578.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Aditya"
+		dynasty = "Daula"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1485.1.1
+	}
+
+	heir = {
+		name = "Hammir-Singh"
+		monarch_name = "Hammir-Singh"
+		dynasty = "Daula"
+		adm = 3
+		dip = 3
+		mil = 4
+		claim = 50
+		birth_date = 1470.1.1
+		death_date = 1528.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Sankama"
+		dynasty = "Aravidu"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1533.1.1
+	}
+
+	heir = {
+		name = "Jayasimha"
+		monarch_name = "Jayasimha"
+		dynasty = "Aravidu"
+		adm = 3
+		dip = 4
+		mil = 2
+		claim = 100
+		birth_date = 1573.1.1
+		death_date = 1585.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Civakkoluntân"
+		dynasty = "Sangama"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1587.1.1
+	}
+
+	queen = {
+		country_of_origin = JEN 
+		name = "Mâtêvatikalâr"
+		dynasty = "Sangama"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1572.1.1
+		death_date = 1669.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Celiyancentan"
+		monarch_name = "Celiyancentan"
+		dynasty = "Sangama"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 100
+		birth_date = 1579.1.1
+		death_date = 1706.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Câmuntappai"
+		dynasty = "Sonhat"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1635.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = JEN 
+		name = "Sripurusha"
+		dynasty = "Sonhat"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1650.1.1
+		death_date = 1735.1.1
+	}
+
+	heir = {
+		name = "Amarji"
+		monarch_name = "Amarji"
+		dynasty = "Sonhat"
+		adm = 1
+		dip = 2
+		mil = 2
+		claim = 75
+		birth_date = 1689.1.1
+		death_date = 1749.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Câttanân"
+		dynasty = "Kuru"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1625.1.1
+	}
+
+	queen = {
+		country_of_origin = JEN 
+		name = "Amarabhujanga"
+		dynasty = "Kuru"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1639.1.1
+		death_date = 1726.1.1
+	}
+
+	heir = {
+		name = "Chavundaraya"
+		monarch_name = "Chavundaraya"
+		dynasty = "Kuru"
+		adm = 2
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1686.1.1
+		death_date = 1734.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Jesus"
+		dynasty = "Haihaya"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1679.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Tirumûlattânam"
+		dynasty = "Khichar"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1702.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = JEN 
+		name = "Rajendra"
+		dynasty = "Khichar"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1708.1.1
+		death_date = 1791.1.1
+	}
+
+	heir = {
+		name = "Pennaraciyâr"
+		monarch_name = "Pennaraciyâr"
+		dynasty = "Khichar"
+		adm = 4
+		dip = 2
+		mil = 3
+		claim = 25
+		birth_date = 1772.1.1
+		death_date = 1801.1.1
+		female = yes
+	}
+}
+

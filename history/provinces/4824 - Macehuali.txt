@@ -1,0 +1,17 @@
+# 4824 - Macehuali.txt
+
+owner = GAN
+controller = GAN
+add_core = GAN
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = mul
+religion = dragon_gods
+
+trade_goods = grain
+hre = no
+

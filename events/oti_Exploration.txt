@@ -1,0 +1,110 @@
+namespace = oti_exploration
+
+# Atlantis
+country_event = {
+	id = oti_exploration.1
+	title = oti_exploration.1.title
+	desc = oti_exploration.1.desc
+	picture = NAVAL_MILITARY_eventPicture
+	
+    major = yes
+    fire_only_once = yes
+    
+    trigger = {
+        NOT = { technology_group = atlantean }
+        NOT = { has_global_flag = first_discovery_of_atlantis }
+        
+        atlantis_region = {
+            knows_country = ROOT
+        }
+    }
+    
+    mean_time_to_happen = {
+		months = 1
+	}
+    
+    immediate = {
+        hidden_effect = {
+            set_global_flag = first_discovery_of_atlantis
+        }
+    }
+    
+	option = {
+		name = oti_exploration.1.option.a
+        
+        add_prestige = 50
+	}
+}
+
+# Lemuria
+country_event = {
+	id = oti_exploration.2
+	title = oti_exploration.2.title
+	desc = oti_exploration.2.desc
+	picture = NAVAL_MILITARY_eventPicture
+	
+    major = yes
+    fire_only_once = yes
+    
+    trigger = {
+        NOT = { technology_group = lemurian }
+        NOT = { technology_group = indian }
+        NOT = { has_global_flag = first_discovery_of_lemuria }
+        
+        lemuria_superregion = {
+            knows_country = ROOT
+        }
+    }
+    
+    mean_time_to_happen = {
+		months = 1
+	}
+    
+    immediate = {
+        hidden_effect = {
+            set_global_flag = first_discovery_of_lemuria
+        }
+    }
+    
+	option = {
+		name = oti_exploration.2.option.a
+        
+        add_prestige = 50
+	}
+}
+
+# Mu
+country_event = {
+	id = oti_exploration.3
+	title = oti_exploration.3.title
+	desc = oti_exploration.3.desc
+	picture = NAVAL_MILITARY_eventPicture
+	
+    major = yes
+    fire_only_once = yes
+    
+    trigger = {
+        NOT = { technology_group = muror }
+        NOT = { has_global_flag = first_discovery_of_mu }
+        
+        mu_superregion = {
+            knows_country = ROOT
+        }
+    }
+    
+    mean_time_to_happen = {
+		months = 1
+	}
+    
+    immediate = {
+        hidden_effect = {
+            set_global_flag = first_discovery_of_mu
+        }
+    }
+    
+	option = {
+		name = oti_exploration.3.option.a
+        
+        add_prestige = 50
+	}
+}

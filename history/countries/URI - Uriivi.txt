@@ -1,0 +1,289 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = savaikian
+capital = 4746
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Jaya"
+		dynasty = "Samprangan"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1351.1.1
+	}
+
+	queen = {
+		country_of_origin = URI 
+		name = "Puaiti"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1353.1.1
+		death_date = 1461.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Paramesvara"
+		monarch_name = "Paramesvara"
+		dynasty = "Samprangan"
+		adm = 5
+		dip = 1
+		mil = 5
+		claim = 100
+		birth_date = 1444.1.1
+		death_date = 1488.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Moke"
+		dynasty = "Kameha'o"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1360.1.1
+	}
+
+	queen = {
+		country_of_origin = URI 
+		name = "Ulani"
+		dynasty = "Kameha'o"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1380.1.1
+		death_date = 1459.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Tithuntirai"
+		dynasty = "Aluala"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 1440.1.1
+	}
+
+	queen = {
+		country_of_origin = URI 
+		name = "Kawena"
+		dynasty = "Aluala"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1433.1.1
+		death_date = 1507.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Palani"
+		monarch_name = "Palani"
+		dynasty = "Aluala"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 100
+		birth_date = 1453.1.1
+		death_date = 1574.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Hayam"
+		dynasty = "Keonoana"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1431.1.1
+	}
+
+	heir = {
+		name = "Chei"
+		monarch_name = "Chei"
+		dynasty = "Keonoana"
+		adm = 5
+		dip = 2
+		mil = 5
+		claim = 25
+		birth_date = 1477.1.1
+		death_date = 1527.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Hualani"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1515.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Suraprabhawa"
+		dynasty = "Vijaya"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1568.1.1
+	}
+
+	queen = {
+		country_of_origin = URI 
+		name = "Mohea"
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1549.1.1
+		death_date = 1641.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Vijaya"
+		adm = 2
+		dip = 3
+		mil = 2
+		claim = 75
+		birth_date = 1590.1.1
+		death_date = 1649.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Ri'âyat"
+		dynasty = "Indrapura"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1614.1.1
+	}
+
+	heir = {
+		name = "Akamu"
+		monarch_name = "Akamu"
+		dynasty = "Indrapura"
+		adm = 3
+		dip = 4
+		mil = 5
+		claim = 50
+		birth_date = 1664.1.1
+		death_date = 1753.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Ipo"
+		dynasty = "Hanalei"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1695.1.1
+	}
+
+	queen = {
+		country_of_origin = URI 
+		name = "Poenui"
+		dynasty = "Hanalei"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1702.1.1
+		death_date = 1767.1.1
+		female = yes
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Tsalenggathu"
+		dynasty = "Ka'aukai"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1705.1.1
+	}
+
+	queen = {
+		country_of_origin = URI 
+		name = "Nu’utea"
+		dynasty = "Ka'aukai"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1699.1.1
+		death_date = 1780.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mahina"
+		monarch_name = "Mahina"
+		dynasty = "Ka'aukai"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 75
+		birth_date = 1718.1.1
+		death_date = 1842.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Moerani"
+		dynasty = "Alealani"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1755.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kaipo"
+		monarch_name = "Kaipo"
+		dynasty = "Alealani"
+		adm = 3
+		dip = 4
+		mil = 3
+		claim = 100
+		birth_date = 1778.1.1
+		death_date = 1821.1.1
+	}
+}
+

@@ -1,0 +1,17 @@
+# 4589 - Fangaraka.txt
+
+owner = HAO
+controller = HAO
+add_core = HAO
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = laxian
+religion = animism
+
+trade_goods = naval_supplies
+hre = no
+

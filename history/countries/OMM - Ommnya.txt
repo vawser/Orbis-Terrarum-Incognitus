@@ -1,0 +1,301 @@
+government = cenobiarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = omnian
+primary_culture = discworlder
+capital = 4968
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Hawise"
+		dynasty = "Waldron"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1397.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Isabella"
+		dynasty = "Barnum"
+		adm = 1
+		dip = 3
+		mil = 4
+		birth_date = 1423.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = OMM 
+		name = "Hugh"
+		dynasty = "Barnum"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1405.1.1
+		death_date = 1459.1.1
+	}
+
+	heir = {
+		name = "Jeremy"
+		monarch_name = "Jeremy"
+		dynasty = "Barnum"
+		adm = 4
+		dip = 2
+		mil = 2
+		claim = 25
+		birth_date = 1442.1.1
+		death_date = 1467.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Adam"
+		dynasty = "Randolph"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1457.1.1
+	}
+
+	heir = {
+		name = "Adam"
+		monarch_name = "Adam"
+		dynasty = "Randolph"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 25
+		birth_date = 1491.1.1
+		death_date = 1569.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Henry"
+		dynasty = "Parton"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1469.1.1
+	}
+
+	queen = {
+		country_of_origin = OMM 
+		name = "Hawise"
+		dynasty = "Parton"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1458.1.1
+		death_date = 1593.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Martin"
+		monarch_name = "Martin"
+		dynasty = "Parton"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 25
+		birth_date = 1494.1.1
+		death_date = 1577.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Jocelyn"
+		dynasty = "Booth"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1558.1.1
+	}
+
+	queen = {
+		country_of_origin = OMM 
+		name = "Maud"
+		dynasty = "Booth"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1549.1.1
+		death_date = 1637.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Philip"
+		monarch_name = "Philip"
+		dynasty = "Booth"
+		adm = 4
+		dip = 4
+		mil = 3
+		claim = 100
+		birth_date = 1549.1.1
+		death_date = 1585.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Laurence"
+		dynasty = "Twigden"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1567.1.1
+	}
+
+	heir = {
+		name = "Alfred"
+		monarch_name = "Alfred"
+		dynasty = "Twigden"
+		adm = 4
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1597.1.1
+		death_date = 1707.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Cecilia"
+		dynasty = "Cass"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1616.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Constance"
+		monarch_name = "Constance"
+		dynasty = "Cass"
+		adm = 4
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1694.1.1
+		death_date = 1740.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Eustace"
+		dynasty = "Hannegan"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1629.1.1
+	}
+
+	queen = {
+		country_of_origin = OMM 
+		name = "Margaret"
+		dynasty = "Hannegan"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1622.1.1
+		death_date = 1719.1.1
+		female = yes
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Francis"
+		dynasty = "Hancock"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1681.1.1
+	}
+
+	queen = {
+		country_of_origin = OMM 
+		name = "Hawise"
+		dynasty = "Hancock"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1701.1.1
+		death_date = 1797.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Joseph"
+		monarch_name = "Joseph"
+		dynasty = "Hancock"
+		adm = 4
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1736.1.1
+		death_date = 1791.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Fulk"
+		dynasty = "O'Hara"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1710.1.1
+	}
+
+	queen = {
+		country_of_origin = OMM 
+		name = "Amice"
+		dynasty = "O'Hara"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1721.1.1
+		death_date = 1821.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Daniel"
+		monarch_name = "Daniel"
+		dynasty = "O'Hara"
+		adm = 2
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1751.1.1
+		death_date = 1811.1.1
+	}
+}
+

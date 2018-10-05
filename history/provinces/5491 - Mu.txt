@@ -1,0 +1,17 @@
+
+owner = URI
+controller = URI
+add_core = URI
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 1
+
+culture = savaikian
+religion = arioi
+
+trade_goods = tobacco
+hre = no
+
+

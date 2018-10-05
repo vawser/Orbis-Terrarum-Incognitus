@@ -1,0 +1,450 @@
+namespace = oti_discovery
+
+country_event = {
+	id = oti_discovery.1
+	title = oti_discovery.1.title
+	desc = oti_discovery.1.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	hidden = yes
+    is_triggered_only = yes
+    
+	trigger = {
+        NOT = { has_country_flag = finished_discovery }
+	}
+    
+    immediate = {
+        set_country_flag = finished_discovery
+    }
+    
+	option = {
+		name = oti_discovery.1.option.a
+    
+        # Handle new continent discovery
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = atlantis
+                }
+            }
+            atlantis = {
+                discover_country = ROOT
+            }
+            atlantis_sea_area = {
+                discover_country = ROOT
+            }
+            4686 = {
+                discover_country = ROOT
+            }
+            4685 = {
+                discover_country = ROOT
+            }
+            4687 = {
+                discover_country = ROOT
+            }
+            4688 = {
+                discover_country = ROOT
+            }
+            4689 = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = lemuria
+                }
+            }
+            lemuria_superregion = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            india_superregion = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            malaya_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            indonesia_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            burma_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            5032 = {
+                discover_country = ROOT
+            }
+            4553 = {
+                discover_country = ROOT
+            }
+            1349 = {
+                discover_country = ROOT
+            }
+            5002 = {
+                discover_country = ROOT
+            }
+            1346 = {
+                discover_country = ROOT
+            }
+            1612 = {
+                discover_country = ROOT
+            }
+            1611 = {
+                discover_country = ROOT
+            }
+            1452 = {
+                discover_country = ROOT
+            }
+            1615 = {
+                discover_country = ROOT
+            }
+            1616 = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = mu
+                }
+            }
+            mu_superregion = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            4909 = {
+                discover_country = ROOT
+            }
+            4907 = {
+                discover_country = ROOT
+            }
+            4908 = {
+                discover_country = ROOT
+            }
+            4906 = {
+                discover_country = ROOT
+            }
+            1642 = {
+                discover_country = ROOT
+            }
+            1644 = {
+                discover_country = ROOT
+            } 
+        }
+        
+        if = {
+            limit = {
+                tag = CTH
+            }
+            1642 = {
+                discover_country = ROOT
+            }
+            1644 = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                tag = YOG
+            }
+            north_america = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            american_east_coast_region = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                tag = NYR
+            }
+            egypt_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            mashriq_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            persia_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            anatolia_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            arabia_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            horn_of_africa_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            arabia_region = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            1795 = {
+                discover_country = ROOT
+            }
+            1779 = {
+                discover_country = ROOT
+            }
+            4276 = {
+                discover_country = ROOT
+            }
+            2334 = {
+                discover_country = ROOT
+            }
+            4179 = {
+                discover_country = ROOT
+            }
+            4172 = {
+                discover_country = ROOT
+            }
+            4170 = {
+                discover_country = ROOT
+            }
+            4178 = {
+                discover_country = ROOT
+            }
+            1891 = {
+                discover_country = ROOT
+            }
+            163 = {
+                discover_country = ROOT
+            }
+            151 = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                tag = DAG
+            }
+            mu = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            north_east_pacific_region = {
+                discover_country = ROOT
+            }
+            south_east_pacific_region = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                tag = SHB
+            }
+            asia = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            1349 = {
+                discover_country = ROOT
+            }
+            5002 = {
+                discover_country = ROOT
+            }
+            1346 = {
+                discover_country = ROOT
+            }
+            1611 = {
+                discover_country = ROOT
+            }
+            1612 = {
+                discover_country = ROOT
+            }
+            4357 = {
+                discover_country = ROOT
+            }
+            1367 = {
+                discover_country = ROOT
+            }
+            1394 = {
+                discover_country = ROOT
+            }
+            1396 = {
+                discover_country = ROOT
+            }
+            1655 = {
+                discover_country = ROOT
+            }
+            1897 = {
+                discover_country = ROOT
+            }
+            1895 = {
+                discover_country = ROOT
+            }
+            1896 = {
+                discover_country = ROOT
+            }
+            2000 = {
+                discover_country = ROOT
+            }
+            2001 = {
+                discover_country = ROOT
+            }
+            1654 = {
+                discover_country = ROOT
+            }
+            4137 = {
+                discover_country = ROOT
+            }
+            4138 = {
+                discover_country = ROOT
+            }
+            1653 = {
+                discover_country = ROOT
+            }
+            1327 = {
+                discover_country = ROOT
+            }
+            1326 = {
+                discover_country = ROOT
+            }
+            
+        }
+        
+        if = {
+            limit = {
+                tag = HSR
+            }
+            south_america = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                tag = TSA
+            }
+            north_america = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            american_east_coast_region = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                technology_group = occult
+            }
+            every_owned_province = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                capital_scope = {
+                    continent = antillia
+                }
+            }
+            antillia = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            west_african_coast_sea_area = {
+                discover_country = ROOT
+            }
+        }
+        
+        if = {
+            limit = {
+                technology_group = indian
+            }
+            lemuria_superregion = {
+                discover_country = ROOT
+                sea_zone = {
+                    discover_country = ROOT
+                }
+            }
+            5032 = {
+                discover_country = ROOT
+            }
+            4553 = {
+                discover_country = ROOT
+            }
+            5002 = {
+                discover_country = ROOT
+            }
+            4978 = {
+                discover_country = ROOT
+            }
+            5013 = {
+                discover_country = ROOT
+            } 
+            1450 = {
+                discover_country = ROOT
+            }
+            1100 = {
+                discover_country = ROOT
+            }
+            1101 = {
+                discover_country = ROOT
+            }
+            4975 = {
+                discover_country = ROOT
+            }
+        }
+	}
+}

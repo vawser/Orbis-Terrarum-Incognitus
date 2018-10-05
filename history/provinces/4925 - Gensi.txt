@@ -1,0 +1,17 @@
+# 4925 - Gensi.txt
+
+owner = LNS
+controller = LNS
+add_core = LNS
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

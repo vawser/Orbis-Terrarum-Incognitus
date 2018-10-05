@@ -1,0 +1,16 @@
+government = cult
+mercantilism = 0.1
+primary_culture = hastur
+religion = hastur
+technology_group = occult
+capital = 2934
+
+1444.11.11 = {
+	monarch = {
+		name = "Bal-Gursh"
+		dynasty = "Yortha"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

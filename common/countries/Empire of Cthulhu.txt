@@ -1,0 +1,68 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+
+color = { 30 30 30 }
+
+monarch_names = {
+	"Sotnoghgua #0" = 80
+	"Shagha #1" = 60
+	"Yug-Ythth #5" = 40
+	"Mlgog #0" = 20
+	"M'Kaglhu #0" = 20
+	"M'Ithgn #0" = 15
+	"Bugg-Yorrot #0" = 15
+	"Zvhogoth #0" = -15
+	"Xoxmu'thu #0" = -10
+	"Xoxsh #11" = 10
+	"Xchotha #4" = 10
+	"Gol-Ctgn #2" = 10
+	"Obgoth #1" = -10
+	"Shthog #0" = 10
+	"Gtthogua #0" = 10
+	"Klgog #0" = 10
+	"Sho-Ythhu'g #" = 10
+	"Yog-Sotogthu #0" = 10
+	"Nsmn'sh #4" = 5
+	"Yog-Gorrazu #2" = 5
+	"Yorlah #2" = 5
+	"Aygn #1" = 5
+	"Obash'thog #1" = 5
+	"Klrot #0" = 0
+	"Ythhu'gua #0" = 0
+	"Sotsh #0" = 0
+	"Rhgog #0" = 0
+	"Ysgha #0" = 0
+	"Iththa'g #0" = 0
+	"Nsrot #0" = 0
+	"Gol-Vthnoghlah #0" = 0
+	"Ysthu #0" = 0
+	"Zvhu'goth #0" = 0
+	"Bugg-Gtirdba #0" = 0
+	"Gurri'gua #0" = 0
+	"Rhan-Sottha #0" = 0
+	"Glird'th #0" = 0
+	"Shulag #0" = 0
+	"Sthio'ba #0" = 0
+	"Ysororot #0" = 0
+	"Mllurgoth #0" = 0
+	"Gol-Thatlhu #0" = 0
+	"M'Zhgho'lah #0" = 0
+	"Gllhu #0" = 0
+	"Ythliqua #0" = 0
+}
+	
+leader_names = {
+	"Klthu" "Klba" "Vthsh" "Zhgua" "Ythlhu" "Aphtha" "Yorgn" "Yorokrush" "Sthcolah" "Nigxugoth" "Xalba" "Xcla'gn" "Aphba" "Mlghoggn" "Zvgua" "Aphlhu" "Zhyaqua" "Vthxu'lah" "Zth" "Yslhu" "Xcqua" "Ctaathu" "Khmugha" "Yslah" "Yorqua" "Glba" "Sththu" "Xcsh" "Gorgog" "Azai'qua" "Yorxa'thog" "Zvhug" "Gtgoth" "Apphalah" "Mlokrulhu" "Ysi'qua" "Zio'thog" "Yorth" "Xalba" "Shuthu" "Zhogtha" "Ctgo'ba" "Sthgoth" "Abagaqua" "Zlotha" "Kla'thog" "Ysashsh" "Sotthog" "Yortha" "Thxa'qua" "Tulat'lhu" "Yegrigoth" "Zhba" "Xalashlhu" "Glgog" "Yorhugua" "Abgog" "Xalqua" "Vthushugua" "Zhthu" "Vthrot" "Mlliba" "Shaco'gog" "Zhsha'tha" "Yhaa'tha" "Tulho'rot" "Gzxtho'goth" "Shhogog" "Zhshathu" "Zlolhu" "Ammthathog" "Gorlah" "Obg" "Ammpha'thu" "Gtyag" "Yththog" "Shaio'thu" "Vhba" "Tulisguth" "Sotrigoth" "Yorba" "Aphtha" "Klgoth" "Apqua" "Gzxtgn" "Yso'thu" "Gtg" "Gurorolah" "Khgha" "Vthiotha" "Gurirrgog" "Glcothu" "Gzxtat'lhu" "Vththu" "Kagaru'qua" "Nigba" "Aphth" "Thsha'gha" "Yhg" "Yeglhu" "Bal-Shabbogoth"
+}
+
+ship_names = {
+    "Xco'lhu" "Bal-Gursh" "Yorlhu" "Shutha" "Ysai'th" "Rhan-Sotthog" "Glsh" "Xalthothu" "Sho-Ththu" "M'Sthli'lah" "Vhhuqua" "Kagshagua" "Zoth-Khyarot" "Sthlur'gn" "Shalah" "Shutha" "Azba" "Sotagaqua" "Shub-Ayushu'th" "Bal-Ammg" "Aphthu" "Zoth-Ctghog'gog" "Tulg" "Sotlah" "Yug-Xalgog" "Rhan-Gtlotha" "Gzxtg" "Obagagoth" "Ithhotha" "Shub-Xoxgha" "Vthxarot" "Aphisguba" "Xalthog" "Gol-Tulth" "Gzxtai'thog" "Sotlah" "Gzxte'gog" "Vthaa'ba" "Yog-Oththolah" "Bal-Rhho'g" "Ctgog" "M'Gtirr'g" "Vhoro'qua" "Xoxg" "Sthqua" "Gzxtqua" "Ammshalah" "Xoxlorot" "Rhan-Kaglah" "Yorxatha" "Vthirrth" "Kagunulhu" "Xalgha" "Abba" "Shari'th" "Xoxxa'sh" "Shaiolah" "Yhba" "Mlthog" "Xcba" "Yorash'thu" "Shatha'qua" "Aphunu'gog" "Gorg" "Xalgoth" "Sotsha'goth" "Glba" "Klgua" "Khtholah" "Shaai'thog" "Vhisgu'tha" "Apo'rot" "Thth" "Xalashrot" "Nigi'sh" "Zhthu" "Ammisguqua" "Obokrulah" "Ysthu" "Ctthash" "Klgoth" "Zhthog" "Gltha" "Nsunuqua" "Mlg" "Ammth" "Gzxtghoglah" "Obyarot" "Ythirdrot" "Gzxtgog" "Khorog" "Tulhu'sh" "Khhu'gn" "Vthgog" "Gorthog" "Sthsha'tha" "Gzxtgog" "Zvsh" "Shalhu" "Nssh" "Xoxisgu'rot" "Khtha'goth" "Shaiogog" "Zhoththog" "Nigth" "Gorghogha" "Sottho'lah" "Klrot" "Shaog'lhu" "Shlah" "Gltha" "Klunu'g" "Zhirrthog" "Yssh" "Gurg" "Xcird'th" "Obgog" "Azlurrot" "Obba" "Othg" "Zhthu" "Zhthorot" "Xcthu" "Vthgoth" "Zsha'thu" "Obthath" "Ammqua" "Gurgn" "Zhho'th" "Aphqua" "Shgn" "Cta'gn" "Vhthoba" "Xali'gog" "Niggog" "Nignoghgoth" "Ithrot" "Abtha" "Klrot" "Rhhogha" "Xcphathu" "Sotli'gn" "Mlgog" "Gorxa'rot" "Xcsh" "Ythgog" "Ammmu'tha" "Klushug" "Yhtha" "Ysth" "Gurqua" "Aphatgn" "Zhsha'gog" "'Xcphagog" "Rhan-Sthgha" "Yog-Khqua" "Abthagha" "'Nslhu" "Aphgn" "Aygn" "Shth" "Yeggua" "Khoththu" "Rhan-Klgog" "Bal-Xchosh" "'Gzxtthu" "Bal-Gtgn" "Gol-Nigqua" "Ythaa'gn" "Yibb-Obgog" "Bal-Gurird'g" "Shklu'tha" "Sotg" "Gol-Azriqua" "Nsisguqua" "Sthlur'gua" "Gog-Apgha" "Ctgha" "Obokrulhu" "'Thgha" "Gol-Aztha" "Xcgog" "Yibb-Shutha'g" "Niggua" "Yibb-Ammg" "Obaagua" "Shxu'gog" "Zklu'gua" "Glsh" "Yegaarot" "Klthog" "Klirdgoth" "Ysog'gn" "Yug-Zvcothog" "Ctqua" "Thpha'sh" "Thirdthu" "Yslo'thu" "Yog-Tulsha'gua" "Apth" "Rhan-Sotthu" "'Aphirdth" "Yug-Xalpha'lah" "Aymnrot" "M'Othgn" "Gol-Apgua" "Shmugha" "Xalirr'qua" "Shub-Gorba" "Obio'goth" "Khgua" "Ammghoba" "Othrot" "Yog-Shula'th" "Bal-Khsh" "Azlah" "Abqua" "Yog-Shag" "Yog-Glthu" "Sththog" "Ayarugua" "Kaglah" "Gorororot" "Xalho'lhu" "Zthog" "Nigtha" "Sththoqua" "Gol-Apgha" "Yoroggua" "Shuisgutha" "Ithoro'ba" "Shaba" "Aztho'lhu" "Rhba" "Shub-Sharot" "Rhan-Vththog" "Tulsh" "Yhushu'gog" "'Zba" "Sthgoth" "Tulgo'ba" "Rhan-Ammthag" "Shsh" "Shug" "Gttha" "Ammgua" "Yhcosh" "Bugg-Yhth" "Mlba" "Thoththa"
+}
+
+army_names = {
+	"Deep One" "Terror of $PROVINCE$"
+}
+
+fleet_names = {
+	"His Minion" "Terror of $PROVINCE$"
+}

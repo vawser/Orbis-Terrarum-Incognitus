@@ -1,0 +1,17 @@
+# 4751 - 'Ae.txt
+
+owner = AWA
+controller = AWA
+add_core = AWA
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = samoan
+religion = arioi
+
+trade_goods = livestock
+hre = no
+

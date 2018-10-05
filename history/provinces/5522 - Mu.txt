@@ -1,0 +1,17 @@
+
+owner = ALJ
+controller = ALJ
+add_core = ALJ
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+culture = gulamur
+religion = dragon_gods
+
+trade_goods = tobacco
+hre = no
+
+

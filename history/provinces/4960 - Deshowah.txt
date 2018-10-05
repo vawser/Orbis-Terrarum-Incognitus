@@ -1,0 +1,16 @@
+# 4960 - Deshowah.txt
+
+native_size = 15
+native_ferocity = 9
+native_hostileness = 1
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = lemurian
+religion = asakti
+
+trade_goods = unknown
+hre = no
+

@@ -1,0 +1,17 @@
+# 4916 - Grao.txt
+
+owner = HUO
+controller = HUO
+add_core = HUO
+is_city = yes
+
+base_tax = 4
+base_production = 2
+base_manpower = 3
+
+culture = hairen
+religion = mazu
+
+trade_goods = gems
+hre = no
+

@@ -1,0 +1,16 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+is_city = yes
+
+base_tax = 5
+base_production = 5
+base_manpower = 4
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = livestock
+hre = no
+
+

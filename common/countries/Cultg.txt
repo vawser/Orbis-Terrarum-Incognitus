@@ -1,0 +1,51 @@
+graphical_culture = westerngfx
+
+color = { 65  85  60 }
+
+
+monarch_names = {
+	"Mapi #0" = 10
+	"Quando #0" = 10
+	"Illa #0" = 10
+	"Rimac #0" = 10
+	"Tiso #0" = 10
+	"Cusi #0" = 10
+	"Mayta #0" = 10
+	"Roca #0" = 10
+	"Zope #0" = 10
+	"Curiatao #0" = 10
+	"Guacra #0" = 10
+	"Maila #0" = 10
+	"Tanqui #0" = 10
+	"Taipi #0" = 10
+	"Sanga #0" = -1
+}
+	
+leader_names = {
+	Albemarle Amherst Anson
+	Braddock Byron Burgoyne Beresford Brock Benbow Blake Bedford Boscawen Baffin
+	"de Clifford" Cromwell Cumberland Cornwallis Clive Cabot Carleton Cavendish
+	Dampier Davis Drake
+	Essex
+	Fairfax Frobisher
+	Howe Howard Herbert Hawke Hood
+	Procter
+	Rooke Rodney Raleigh
+	Suffolk Saunders
+	Talbot Tarleton
+	Uxbridge
+	Warwick Wessex Wolfe
+	York
+}
+
+ship_names = {
+	"Remnant of Mu"
+}
+
+army_names = {
+	"Cultist Regiment"
+}
+
+fleet_names = {
+	"Remnant of Mu" 
+}

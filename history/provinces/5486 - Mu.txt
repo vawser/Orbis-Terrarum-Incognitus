@@ -1,0 +1,17 @@
+
+owner = NGI
+controller = NGI
+add_core = NGI
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 3
+
+culture = tongan
+religion = arioi
+
+trade_goods = livestock
+hre = no
+
+

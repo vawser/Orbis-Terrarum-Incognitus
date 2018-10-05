@@ -1,0 +1,17 @@
+# 4745 - Jigigmiz.txt
+
+owner = KEA
+controller = KEA
+add_core = KEA
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = hawaiian
+religion = tiki
+
+trade_goods = fish
+hre = no
+

@@ -1,0 +1,17 @@
+# 4752 - Aratu.txt
+
+owner = AWA
+controller = AWA
+add_core = AWA
+is_city = yes
+
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+culture = samoan
+religion = arioi
+
+trade_goods = tropical_wood
+hre = no
+

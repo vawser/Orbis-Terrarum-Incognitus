@@ -1,0 +1,264 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4680
+religious_school = stoic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Alexios"
+		dynasty = "Loules"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1359.1.1
+	}
+
+	heir = {
+		name = "Christophoros"
+		monarch_name = "Christophoros"
+		dynasty = "Loules"
+		adm = 5
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1416.1.1
+		death_date = 1497.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Antonios"
+		dynasty = "Ergodotes"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1419.1.1
+	}
+
+	queen = {
+		country_of_origin = MEL 
+		name = "Anastasia"
+		dynasty = "Ergodotes"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1410.1.1
+		death_date = 1529.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Euphemios"
+		monarch_name = "Euphemios"
+		dynasty = "Ergodotes"
+		adm = 2
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1424.1.1
+		death_date = 1534.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Alexandros"
+		dynasty = "Krasas"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1401.1.1
+	}
+
+	queen = {
+		country_of_origin = MEL 
+		name = "Antonia"
+		dynasty = "Krasas"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 1393.1.1
+		death_date = 1508.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Gregory"
+		monarch_name = "Gregory"
+		dynasty = "Krasas"
+		adm = 3
+		dip = 5
+		mil = 4
+		claim = 25
+		birth_date = 1463.1.1
+		death_date = 1501.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Kale"
+		dynasty = "Kentenares"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1438.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios"
+		dynasty = "Kentenares"
+		adm = 5
+		dip = 5
+		mil = 3
+		claim = 25
+		birth_date = 1477.1.1
+		death_date = 1560.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Eudokia"
+		dynasty = "Mesarites"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1518.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Alexandros"
+		monarch_name = "Alexandros"
+		dynasty = "Mesarites"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 75
+		birth_date = 1549.1.1
+		death_date = 1592.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Philemon"
+		dynasty = "Marianites"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1566.1.1
+	}
+
+	heir = {
+		name = "Artemios"
+		monarch_name = "Artemios"
+		dynasty = "Marianites"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 75
+		birth_date = 1599.1.1
+		death_date = 1624.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Konstantinos"
+		dynasty = "Agallon"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1604.1.1
+	}
+
+	heir = {
+		name = "Hierotheos"
+		monarch_name = "Hierotheos"
+		dynasty = "Agallon"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1671.1.1
+		death_date = 1784.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = ""
+		dynasty = "Xiphilinos"
+		adm = 5
+		dip = 1
+		mil = 4
+		birth_date = 1690.1.1
+	}
+
+	heir = {
+		name = "Ioulia"
+		monarch_name = "Ioulia"
+		dynasty = "Xiphilinos"
+		adm = 4
+		dip = 4
+		mil = 2
+		claim = 25
+		birth_date = 1705.1.1
+		death_date = 1765.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Gerasimos"
+		dynasty = "Mourtzouphlos"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1666.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = ""
+		dynasty = "Lascaris"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1724.1.1
+	}
+
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander"
+		dynasty = "Lascaris"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1767.1.1
+		death_date = 1870.1.1
+	}
+}
+

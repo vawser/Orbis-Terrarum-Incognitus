@@ -1,0 +1,17 @@
+
+owner = GOP
+controller = GOP
+add_core = GOP
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 3
+
+culture = mul
+religion = dragon_gods
+
+trade_goods = tropical_wood
+hre = no
+
+

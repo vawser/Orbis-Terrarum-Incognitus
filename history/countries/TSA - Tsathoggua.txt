@@ -1,0 +1,16 @@
+government = cult
+mercantilism = 0.1
+primary_culture = tsathoggua
+religion = tsathoggua
+technology_group = occult
+capital = 979
+
+1444.11.11 = {
+	monarch = {
+		name = "Ithhotha"
+		dynasty = "Vththu"
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}

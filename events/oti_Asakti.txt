@@ -1,0 +1,24 @@
+namespace = asakti_events
+
+country_event = {
+	id = asakti_events.1
+	title = asakti_events.1.title
+	desc = asakti_events.1.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+        religion = asakti
+    }
+    
+    is_triggered_only = yes
+    
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = asakti_events.1.option.a
+        
+	}
+}
+

@@ -1,0 +1,16 @@
+government = cult
+mercantilism = 0.1
+primary_culture = yog_sothoth
+religion = yog_sothoth
+technology_group = occult
+capital = 968
+
+1444.11.11 = {
+	monarch = {
+		name = "Sotnoghgua"
+		dynasty = "Xchotha"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}

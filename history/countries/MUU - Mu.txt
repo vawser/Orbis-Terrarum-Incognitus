@@ -1,0 +1,267 @@
+government = dragon_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = muror
+capital = 4838
+religious_school = yellow_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Nalanie"
+		dynasty = "Ikepela"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1383.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Ikepela"
+		adm = 2
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1426.1.1
+		death_date = 1460.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Panduranga"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1405.1.1
+	}
+
+	queen = {
+		country_of_origin = MUU 
+		name = "Poehina"
+		dynasty = "Panduranga"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1386.1.1
+		death_date = 1457.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Rajah"
+		dynasty = "Polola"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1448.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Kai"
+		dynasty = "Surabaya"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1411.1.1
+	}
+
+	queen = {
+		country_of_origin = MUU 
+		name = "Orama"
+		dynasty = "Surabaya"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1417.1.1
+		death_date = 1517.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Maha"
+		dynasty = "Vijaya"
+		adm = 4
+		dip = 4
+		mil = 1
+		birth_date = 1516.1.1
+	}
+
+	queen = {
+		country_of_origin = MUU 
+		name = "Tevai"
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1504.1.1
+		death_date = 1586.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ma'ayat"
+		monarch_name = "Ma'ayat"
+		dynasty = "Vijaya"
+		adm = 5
+		dip = 2
+		mil = 4
+		claim = 25
+		birth_date = 1558.1.1
+		death_date = 1610.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Moke"
+		dynasty = "Kelantan"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1592.1.1
+	}
+
+	heir = {
+		name = "Cheng"
+		monarch_name = "Cheng"
+		dynasty = "Kelantan"
+		adm = 5
+		dip = 2
+		mil = 4
+		claim = 25
+		birth_date = 1607.1.1
+		death_date = 1697.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Tithun"
+		dynasty = "Po'okela"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1628.1.1
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Kertawijaya"
+		dynasty = "Pattani"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1691.1.1
+	}
+
+	queen = {
+		country_of_origin = MUU 
+		name = "Maleah"
+		dynasty = "Pattani"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 1701.1.1
+		death_date = 1751.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kamaile"
+		monarch_name = "Kamaile"
+		dynasty = "Pattani"
+		adm = 4
+		dip = 5
+		mil = 3
+		claim = 50
+		birth_date = 1707.1.1
+		death_date = 1741.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Lulani"
+		dynasty = "Aceh"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1676.1.1
+	}
+
+	queen = {
+		country_of_origin = MUU 
+		name = "Moeata"
+		dynasty = "Aceh"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1662.1.1
+		death_date = 1762.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Yu"
+		monarch_name = "Yu"
+		dynasty = "Aceh"
+		adm = 4
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1729.1.1
+		death_date = 1821.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Makaio"
+		dynasty = "Ikepela"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1713.1.1
+	}
+
+	heir = {
+		name = "Ko"
+		monarch_name = "Ko"
+		dynasty = "Ikepela"
+		adm = 2
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1786.1.1
+		death_date = 1827.1.1
+	}
+}
+

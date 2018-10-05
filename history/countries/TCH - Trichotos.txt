@@ -1,0 +1,299 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4520
+religious_school = sophist_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Eustathios"
+		dynasty = "Gavras"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1361.1.1
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Anna"
+		dynasty = "Gavras"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1361.1.1
+		death_date = 1465.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bardas"
+		monarch_name = "Bardas"
+		dynasty = "Gavras"
+		adm = 1
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1438.1.1
+		death_date = 1503.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Gregory"
+		dynasty = "Angoures"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1399.1.1
+	}
+
+	heir = {
+		name = "Daniel"
+		monarch_name = "Daniel"
+		dynasty = "Angoures"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1445.1.1
+		death_date = 1467.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Palaemon"
+		dynasty = "Mosele"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1474.1.1
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Aikaterine"
+		dynasty = "Mosele"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1480.1.1
+		death_date = 1547.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bartholomaios"
+		monarch_name = "Bartholomaios"
+		dynasty = "Mosele"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1456.1.1
+		death_date = 1508.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Georgios"
+		dynasty = "Gavalas"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1482.1.1
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Constantia"
+		dynasty = "Gavalas"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1465.1.1
+		death_date = 1546.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Anastasios"
+		monarch_name = "Anastasios"
+		dynasty = "Gavalas"
+		adm = 3
+		dip = 1
+		mil = 2
+		claim = 75
+		birth_date = 1472.1.1
+		death_date = 1587.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Kyra"
+		dynasty = "Kamytzes"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1486.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Christophoros"
+		dynasty = "Kamytzes"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1480.1.1
+		death_date = 1597.1.1
+	}
+
+	heir = {
+		name = "Andronicus"
+		monarch_name = "Andronicus"
+		dynasty = "Kamytzes"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1566.1.1
+		death_date = 1593.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Epiphania"
+		dynasty = "Dalassenos"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 1569.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Athanasius"
+		dynasty = "Dalassenos"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1571.1.1
+		death_date = 1657.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Eustace"
+		dynasty = "Margunios"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1603.1.1
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Barbara"
+		dynasty = "Margunios"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1603.1.1
+		death_date = 1722.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Philemon"
+		dynasty = "Konstantinakes"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1687.1.1
+	}
+
+	queen = {
+		country_of_origin = TCH 
+		name = "Dorothy"
+		dynasty = "Konstantinakes"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1691.1.1
+		death_date = 1724.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Boethios"
+		monarch_name = "Boethios"
+		dynasty = "Konstantinakes"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1706.1.1
+		death_date = 1776.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Damianos"
+		dynasty = "Sortes"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1694.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Eustratios"
+		dynasty = "Hexakionites"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1711.1.1
+	}
+
+	heir = {
+		name = "Andreas"
+		monarch_name = "Andreas"
+		dynasty = "Hexakionites"
+		adm = 2
+		dip = 3
+		mil = 5
+		claim = 75
+		birth_date = 1761.1.1
+		death_date = 1812.1.1
+	}
+}
+

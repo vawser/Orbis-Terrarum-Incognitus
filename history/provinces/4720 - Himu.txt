@@ -1,0 +1,17 @@
+# 4720 - Himu.txt
+
+owner = DAO
+controller = DAO
+add_core = DAO
+is_city = yes
+
+base_tax = 4
+base_production = 2
+base_manpower = 5
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

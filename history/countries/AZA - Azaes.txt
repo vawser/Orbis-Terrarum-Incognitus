@@ -1,0 +1,249 @@
+government = merchant_republic
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4513
+religious_school = cynic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Herakleios"
+		dynasty = "Maniakis"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1373.1.1
+	}
+
+	heir = {
+		name = "Palaemon"
+		monarch_name = "Palaemon"
+		dynasty = "Maniakis"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 25
+		birth_date = 1421.1.1
+		death_date = 1520.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Gennadios"
+		dynasty = "Kentenares"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1413.1.1
+	}
+
+	heir = {
+		name = "Artemios"
+		monarch_name = "Artemios"
+		dynasty = "Kentenares"
+		adm = 4
+		dip = 2
+		mil = 4
+		claim = 25
+		birth_date = 1449.1.1
+		death_date = 1496.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Demetrios"
+		dynasty = "Kampanarios"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1412.1.1
+	}
+
+	heir = {
+		name = "Pelagios"
+		monarch_name = "Pelagios"
+		dynasty = "Kampanarios"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 50
+		birth_date = 1465.1.1
+		death_date = 1558.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Herakleios"
+		dynasty = "Manganes"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1439.1.1
+	}
+
+	heir = {
+		name = "Gennadios"
+		monarch_name = "Gennadios"
+		dynasty = "Manganes"
+		adm = 5
+		dip = 3
+		mil = 4
+		claim = 25
+		birth_date = 1497.1.1
+		death_date = 1578.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Dorotheos"
+		dynasty = "Matzoukes"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1548.1.1
+	}
+
+	heir = {
+		name = "Gregorios"
+		monarch_name = "Gregorios"
+		dynasty = "Matzoukes"
+		adm = 3
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1548.1.1
+		death_date = 1625.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Gabriel"
+		dynasty = "Kalognomos"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1528.1.1
+	}
+
+	heir = {
+		name = "Artemios"
+		monarch_name = "Artemios"
+		dynasty = "Kalognomos"
+		adm = 3
+		dip = 5
+		mil = 4
+		claim = 50
+		birth_date = 1588.1.1
+		death_date = 1680.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Damianos"
+		dynasty = "Oinaiotes"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1602.1.1
+	}
+
+	heir = {
+		name = "Pavlos"
+		monarch_name = "Pavlos"
+		dynasty = "Oinaiotes"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 75
+		birth_date = 1701.1.1
+		death_date = 1789.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Matthaios"
+		dynasty = "Drosinos"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1676.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Helias"
+		dynasty = "Liparites"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1699.1.1
+	}
+
+	queen = {
+		country_of_origin = AZA 
+		name = "Agnes"
+		dynasty = "Liparites"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1684.1.1
+		death_date = 1784.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "George"
+		monarch_name = "George"
+		dynasty = "Liparites"
+		adm = 1
+		dip = 3
+		mil = 1
+		claim = 50
+		birth_date = 1742.1.1
+		death_date = 1837.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Basileios"
+		dynasty = "Kalamanos"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1769.1.1
+	}
+
+	heir = {
+		name = "Gregoras"
+		monarch_name = "Gregoras"
+		dynasty = "Kalamanos"
+		adm = 2
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1775.1.1
+		death_date = 1841.1.1
+	}
+}
+

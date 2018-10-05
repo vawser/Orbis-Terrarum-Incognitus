@@ -1,0 +1,229 @@
+government = theocratic_government
+mercantilism = 0.1
+technology_group = lemurian
+religion = hurufi
+primary_culture = kakushivilar
+capital = 1
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Vasudeva"
+		dynasty = "Bhanja"
+		adm = 4
+		dip = 2
+		mil = 2
+		birth_date = 1370.1.1
+	}
+
+	heir = {
+		name = "Parâkkirama"
+		monarch_name = "Parâkkirama"
+		dynasty = "Bhanja"
+		adm = 5
+		dip = 5
+		mil = 5
+		claim = 75
+		birth_date = 1435.1.1
+		death_date = 1521.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Mulraja"
+		dynasty = "Mansukhani"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1402.1.1
+	}
+
+	heir = {
+		name = "Avraaham"
+		monarch_name = "Avraaham"
+		dynasty = "Mansukhani"
+		adm = 4
+		dip = 2
+		mil = 4
+		claim = 25
+		birth_date = 1442.1.1
+		death_date = 1507.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Sikandar"
+		dynasty = "Kalachuri"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1425.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Prasadhanadevi"
+		dynasty = "Hoysala"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1439.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = AKA 
+		name = "Vira"
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1436.1.1
+		death_date = 1529.1.1
+	}
+
+	heir = {
+		name = "Venkatadri"
+		monarch_name = "Venkatadri"
+		dynasty = "Hoysala"
+		adm = 1
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1507.1.1
+		death_date = 1573.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Nankaiyâr"
+		dynasty = "Sangama"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1493.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Vigrharaja"
+		monarch_name = "Vigrharaja"
+		dynasty = "Sangama"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 100
+		birth_date = 1551.1.1
+		death_date = 1607.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Prithviraja"
+		dynasty = "Dahiya"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1550.1.1
+	}
+
+	queen = {
+		country_of_origin = AKA 
+		name = "Kañciakkan"
+		dynasty = "Dahiya"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1563.1.1
+		death_date = 1628.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Sripadaraya"
+		dynasty = "Sailavamsa"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1621.1.1
+	}
+
+	heir = {
+		name = "Gangaraja"
+		monarch_name = "Gangaraja"
+		dynasty = "Sailavamsa"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1688.1.1
+		death_date = 1749.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Yachamanedu"
+		dynasty = "Dasaratha"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1666.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Jesus"
+		dynasty = "Anwarudid"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1672.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Raghunatha"
+		dynasty = "Chera"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 1749.1.1
+	}
+
+	heir = {
+		name = "Venkatapathi"
+		monarch_name = "Venkatapathi"
+		dynasty = "Chera"
+		adm = 3
+		dip = 5
+		mil = 4
+		claim = 50
+		birth_date = 1757.1.1
+		death_date = 1859.1.1
+	}
+}
+

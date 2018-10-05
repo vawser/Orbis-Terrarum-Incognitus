@@ -1,0 +1,23 @@
+namespace = oti_dragon_canal
+
+province_event = {
+	id = oti_dragon_canal.1
+	title = oti_dragon_canal.1.title
+	desc = oti_dragon_canal.1.desc
+	picture = HARBOUR_eventPicture
+	
+	fire_only_once = yes
+
+	trigger = {
+		has_great_project = dragon_canal
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = oti_dragon_canal.1.option.a
+		owner = { add_prestige = 30 }
+	}
+}

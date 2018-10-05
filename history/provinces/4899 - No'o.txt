@@ -1,0 +1,17 @@
+# 4899 - No'o.txt
+
+owner = TOL
+controller = TOL
+add_core = TOL
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = copper
+hre = no
+

@@ -1,0 +1,251 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5094
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Karan-Singh"
+		dynasty = "Baghela"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1382.1.1
+	}
+
+	heir = {
+		name = "Desaladevi"
+		monarch_name = "Desaladevi"
+		dynasty = "Baghela"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 100
+		birth_date = 1419.1.1
+		death_date = 1528.1.1
+		female = yes
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Abhayapala"
+		dynasty = "Singha"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1373.1.1
+	}
+
+	heir = {
+		name = "Rahap"
+		monarch_name = "Rahap"
+		dynasty = "Singha"
+		adm = 4
+		dip = 5
+		mil = 4
+		claim = 50
+		birth_date = 1448.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Ratnapala"
+		dynasty = "Pallava"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 1473.1.1
+	}
+
+	queen = {
+		country_of_origin = DEZ 
+		name = "Yograj"
+		dynasty = "Pallava"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1454.1.1
+		death_date = 1571.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Murthy"
+		dynasty = "Parmari"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1470.1.1
+	}
+
+	queen = {
+		country_of_origin = DEZ 
+		name = "Vicciyakkan"
+		dynasty = "Parmari"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1469.1.1
+		death_date = 1573.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Vikramaditya"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1505.1.1
+	}
+
+	heir = {
+		name = "Chaacko"
+		monarch_name = "Chaacko"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1548.1.1
+		death_date = 1650.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Harihara"
+		dynasty = "Shah"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1539.1.1
+	}
+
+	heir = {
+		name = "Kirâmarâcapattan"
+		monarch_name = "Kirâmarâcapattan"
+		dynasty = "Shah"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1590.1.1
+		death_date = 1694.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Impânâyarpattan"
+		dynasty = "Chera"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1622.1.1
+	}
+
+	heir = {
+		name = "Vindhyavarman"
+		monarch_name = "Vindhyavarman"
+		dynasty = "Chera"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1695.1.1
+		death_date = 1783.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Gangambika"
+		dynasty = "Bhullara"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1663.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = DEZ 
+		name = "Bijjama"
+		dynasty = "Bhullara"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1668.1.1
+		death_date = 1776.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Udayasimha"
+		dynasty = "Kadamba"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1669.1.1
+	}
+
+	heir = {
+		name = "Ceyavîra"
+		monarch_name = "Ceyavîra"
+		dynasty = "Kadamba"
+		adm = 4
+		dip = 4
+		mil = 4
+		claim = 100
+		birth_date = 1742.1.1
+		death_date = 1829.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Virâcakecaripanmar"
+		dynasty = "Saadatullahid"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1693.1.1
+	}
+
+	heir = {
+		name = "Bhoo-Chand"
+		monarch_name = "Bhoo-Chand"
+		dynasty = "Saadatullahid"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 75
+		birth_date = 1789.1.1
+		death_date = 1844.1.1
+	}
+}
+

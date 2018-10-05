@@ -1,0 +1,16 @@
+
+owner = LNK
+controller = LNK
+add_core = LNK
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+culture = lankan
+religion = asakti
+
+trade_goods = spices
+hre = no
+

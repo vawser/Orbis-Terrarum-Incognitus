@@ -1,0 +1,17 @@
+
+owner = GAN
+controller = GAN
+add_core = GAN
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 1
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = unknown
+hre = no
+
+

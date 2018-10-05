@@ -1,0 +1,17 @@
+
+owner = MUI
+controller = MUI
+add_core = MUI
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 2
+
+culture = hawaiian
+religion = tiki
+
+trade_goods = gems
+hre = no
+
+

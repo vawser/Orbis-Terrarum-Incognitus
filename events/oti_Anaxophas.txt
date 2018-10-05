@@ -1,0 +1,329 @@
+namespace = anaxophas_events
+
+#First Event
+country_event = {
+	id = anaxophas_events.1
+	title = anaxophas_events.1.title
+	desc = anaxophas_events.1.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		any_owned_province = { is_core = ANX }
+		NOT = { has_global_flag = ANX_rebellion }
+		NOT = { exists = ANX }
+	}
+
+	mean_time_to_happen = {
+		months = 2000
+		
+		modifier = {
+			factor = 0.25
+			num_of_owned_provinces_with = {
+				value = 3
+				is_core = ANX
+			}
+		}
+		
+		modifier = {
+			factor = 0.75
+			num_of_owned_provinces_with = {
+				value = 2
+				is_core = ANX
+			}
+		}
+	}
+	
+	immediate = {
+		set_global_flag = ANX_rebellion
+	}
+	
+	option = {
+		name = anaxophas_events.1.option.a
+        
+		add_stability = 1
+		custom_tooltip = anx_rebel_crush
+		set_country_flag = anx_rebel_cru
+		hidden_effect = {
+			random_list = {
+				80 = {
+					country_event = { id = anaxophas_events.2 days = 30 } # Rebels gain more organisation
+				}
+				20 = {
+					country_event = { id = anaxophas_events.6 days = 30 } # Rebels crushed
+				}
+			}
+		}	
+	}
+	
+	option = {
+		name = anaxophas_events.1.option.b
+        
+		add_stability = -2
+		custom_tooltip = anx_rebel_negoiate
+		set_country_flag = anx_rebel_neg
+		hidden_effect = {
+			random_list = {
+				70 = {
+					country_event = { id = anaxophas_events.2 days = 30 } # Rebels gain more organisation
+				}
+				30 = {
+					country_event = { id = anaxophas_events.7 days = 30 } # Negotiations Successful
+				}
+			}
+		}	
+	}
+}
+
+
+#Rebels gain more organisation
+country_event = {
+	id = anaxophas_events.2
+	title = anaxophas_events.2.title
+	desc = anaxophas_events.2.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = anaxophas_events.2.option.a
+        
+		every_owned_province = {
+			limit = { is_core = ANX }
+			add_unrest = 10
+		}
+		add_stability = 1
+		country_event = { id = anaxophas_events.3 days = 20 } # Rebels declare independence
+	}
+}
+
+#Rebels declare independence
+country_event = {
+	id = anaxophas_events.3
+	title = anaxophas_events.3.title
+	desc = anaxophas_events.3.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+            # Spawn rebels in the area that we own	
+            every_owned_province = {
+                limit = {
+                    is_core = ANX
+                    is_capital = no
+                }
+                discover_country = ANX
+                add_core = ANX
+            }
+            release = ANX
+            # Some set-up stuff for the rebels
+            ANX = {
+                every_owned_province = {
+                    change_culture = islander_atlantean # Flips back to the main culture in-case the player tried anything :P
+                    add_local_autonomy = -100
+                }
+                country_event = { id = anaxophas_events.5 days = 10 } 
+            }
+            # Any country with land the rebels cores gets their land occupied
+            every_country = {
+                limit = {
+                    NOT = { tag = ROOT }
+                    NOT = { tag = ANX }
+                    any_owned_province = {
+                        is_core = ANX
+                    }
+                }
+                country_event = { id = anaxophas_events.4 }
+            }
+		}
+		# If the player chooses to do negotiations, the rebels get less troops
+		if = {
+            limit = { has_country_flag = anx_rebel_neg }
+            ANX = { set_country_flag = less_troops }
+		}
+		# If the player chooses to crush them, they get more troops
+		if = {
+            limit = { has_country_flag = anx_rebel_cru }
+            ANX = { set_country_flag = more_troops }
+		}
+	}
+	
+	# Will declare war on the rebels after gathering any other countries that have land their (or lack of)
+	option = {
+		name = anaxophas_events.3.option.a
+        
+		country_event = { id = anaxophas_events.8 days = 10 } 
+		ANX = { set_country_flag = main_war }
+	}
+	
+	# Will declare war on the rebels after gathering any other countries that have land their (or lack of), Player switches to rebels
+	option = {
+		name = anaxophas_events.3.option.b
+		trigger = {
+			ai = no
+		}
+		country_event = { id = anaxophas_events.8 days = 10 } 
+		switch_tag = ANX
+	}
+}
+
+country_event = {
+	id = anaxophas_events.4
+	title = anaxophas_events.4.title
+	desc = anaxophas_events.4.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					is_core = ANX
+					is_capital = no
+				}
+				discover_country = ANX
+				change_culture = islander_atlantean
+				cede_province = ANX
+			}
+		}
+	}
+	
+	option = {
+		name = anaxophas_events.4.option.a
+		form_coalition_against = ANX
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = anaxophas_events.4.option.b
+		ai_chance = { factor = 20 }
+		add_stability = -1
+	}
+	
+}
+
+country_event = {
+	id = anaxophas_events.5
+	title = anaxophas_events.5.title
+	desc = anaxophas_events.5.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = anaxophas_events.5.option.a
+			trigger = {
+				has_country_flag = more_troops
+			}
+			capital_scope = {
+				build_to_forcelimit = {
+					infantry = 1.5
+					heavy_ship = 0.9
+					transport = 0.5
+				}
+			}
+			ai_chance = { factor = 100 }
+	}
+
+	option = {
+		name = anaxophas_events.5.option.b
+			trigger = {
+				has_country_flag = less_troops
+			}
+			capital_scope = {
+				build_to_forcelimit = {
+					infantry = 1
+					heavy_ship = 0.6
+					transport = 0.4
+				}
+			}
+			ai_chance = { factor = 100 }
+	}
+	
+}
+
+country_event = {
+	id = anaxophas_events.6
+	title = anaxophas_events.6.title
+	desc = anaxophas_events.6.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	
+	option = {
+		name = anaxophas_events.6.option.a
+        
+		every_owned_province = {
+			limit = { is_core = ANX }
+			add_unrest = -10
+			change_culture = ROOT
+		}
+		
+		every_province = {
+			limit = { is_core = ANX }
+			remove_core = ANX
+		}
+
+	}
+	
+}
+
+country_event = {
+	id = anaxophas_events.7
+	title = anaxophas_events.7.title
+	desc = anaxophas_events.7.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = anaxophas_events.7.option.a
+        
+		every_owned_province = {
+			limit = { is_core = ANX }
+			add_local_autonomy = 10
+			add_unrest = -5
+			remove_core = ANX
+		}
+		
+		every_province = {
+			limit = { is_core = ANX }
+			remove_core = ANX
+		}		
+	}
+	
+}
+
+country_event = {
+	id = anaxophas_events.8
+	title = anaxophas_events.8.title
+	desc = anaxophas_events.8.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+	
+	
+	option = {
+		name = anaxophas_events.8.option.a
+        
+		form_coalition_against = ANX
+		ANX = { 
+			declare_war_with_cb = {
+				who = ROOT
+				casus_belli = cb_independence_war
+			}
+		}
+	}
+}
+
+
+
+
+
+
+

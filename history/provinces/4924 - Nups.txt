@@ -1,0 +1,17 @@
+# 4924 - Nups.txt
+
+owner = ZHE
+controller = ZHE
+add_core = ZHE
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

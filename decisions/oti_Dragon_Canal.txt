@@ -1,0 +1,61 @@
+country_decisions = {
+    
+    construct_dragon_canal = {
+        major = yes
+        potential = {
+            is_random_new_world = no
+            OR = {
+                ai = no
+                AND = {
+                    treasury = 60000
+                    owns_or_vassal_of = 4838
+                }
+            }
+            has_discovered = 4838
+            4838 = {
+                range = ROOT
+                NOT = { has_great_project = dragon_canal }
+                NOT = { has_construction = canal }
+            }
+        }
+        allow = {
+            owns_or_vassal_of = 4838
+            is_subject = no
+            treasury = 30000
+        }
+        effect = {
+            add_treasury = -30000
+            4838 = {
+                add_great_project = dragon_canal
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    
+    cancel_dragon_canal = {
+        major = yes
+        potential = {
+            ai = no
+            owns_or_vassal_of = 4838
+            is_subject = no
+            4838 = {
+                has_construction = canal
+            }
+        }
+        allow = {
+            4838 = {
+                has_construction = canal
+            }
+        }
+        effect = {
+            4838 = {
+                cancel_construction = yes
+            }
+        }
+        ai_will_do = {
+            factor = 0
+        }
+    }
+}

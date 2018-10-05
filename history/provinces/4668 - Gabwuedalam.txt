@@ -1,0 +1,16 @@
+# 4668 - Gabwuedalam.txt
+
+native_size = 15
+native_ferocity = 9
+native_hostileness = 9
+
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+culture = lemurian
+religion = asakti
+
+trade_goods = grain
+hre = no
+

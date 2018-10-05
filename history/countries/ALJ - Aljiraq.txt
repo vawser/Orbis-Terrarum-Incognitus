@@ -1,0 +1,241 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = gulamur
+capital = 5523
+religious_school = green_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Ganvuh"
+		dynasty = "Demak"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1375.1.1
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Konala"
+		dynasty = "Kaikea"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1428.1.1
+	}
+
+	heir = {
+		name = "Kalani"
+		monarch_name = "Kalani"
+		dynasty = "Kaikea"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 25
+		birth_date = 1414.1.1
+		death_date = 1524.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Alohilani"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1428.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Feleti"
+		dynasty = "Ainalani"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1450.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Raden"
+		dynasty = "Alohilani"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 1521.1.1
+	}
+
+	heir = {
+		name = "Poerava"
+		monarch_name = "Poerava"
+		dynasty = "Alohilani"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 25
+		birth_date = 1544.1.1
+		death_date = 1635.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Hanohano"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1569.1.1
+	}
+
+	queen = {
+		country_of_origin = ALJ 
+		name = "Kiele"
+		dynasty = "Hanohano"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1576.1.1
+		death_date = 1631.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Riayat"
+		monarch_name = "Riayat"
+		dynasty = "Hanohano"
+		adm = 1
+		dip = 2
+		mil = 1
+		claim = 75
+		birth_date = 1603.1.1
+		death_date = 1644.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Tautiare"
+		dynasty = "Ahulani"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 1679.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ALJ 
+		name = "Nga"
+		dynasty = "Ahulani"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1686.1.1
+		death_date = 1776.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Ahulani"
+		adm = 2
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1691.1.1
+		death_date = 1789.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Maleah"
+		dynasty = "Samprangan"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1621.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ALJ 
+		name = "Feleti"
+		dynasty = "Samprangan"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1633.1.1
+		death_date = 1736.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Tathun"
+		dynasty = "Kawaiola"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1684.1.1
+	}
+
+	heir = {
+		name = "Kelii"
+		monarch_name = "Kelii"
+		dynasty = "Kawaiola"
+		adm = 3
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1735.1.1
+		death_date = 1838.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Raden"
+		dynasty = "Kaikea"
+		adm = 4
+		dip = 3
+		mil = 1
+		birth_date = 1706.1.1
+	}
+
+	heir = {
+		name = "Tsau-Lha"
+		monarch_name = "Tsau-Lha"
+		dynasty = "Kaikea"
+		adm = 5
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1785.1.1
+		death_date = 1798.1.1
+	}
+}
+

@@ -1,0 +1,17 @@
+# 4660 - Ciriya.txt
+
+owner = CRU
+controller = CRU
+add_core = CRU
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = lemurian
+religion = asakti
+
+trade_goods = grain
+hre = no
+

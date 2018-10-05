@@ -1,0 +1,17 @@
+
+owner = PKA
+controller = PKA
+add_core = PKA
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 1
+
+culture = rapanni
+religion = tangata_manu
+
+trade_goods = livestock
+hre = no
+
+

@@ -1,0 +1,50 @@
+cb_atlantean_wars = {
+	valid_for_subject = no
+
+	prerequisites = {
+		technology_group = atlantean
+		is_free_or_tributary_trigger = yes
+		FROM = {
+			NOT = { is_subject_of = ROOT }
+            technology_group = atlantean
+		}
+		is_neighbor_of = FROM
+	}
+
+	war_goal = superiority_atlantean_unification
+}
+
+cb_claim_dragon_empire_throne = {
+	valid_for_subject = no
+
+	prerequisites = {
+        religion = dragon_gods
+        NOT = { government = dragon_empire }
+        legitimacy = FROM
+        
+		FROM = {
+			NOT = { is_subject_of = ROOT }
+            government = dragon_empire
+            religion = dragon_gods
+		}
+	}
+
+	war_goal = take_capital_dragon_empire
+}
+
+cb_occult_aggression = {
+	valid_for_subject = no
+
+	prerequisites = {
+		technology_group = occult
+		is_free_or_tributary_trigger = yes
+		FROM = {
+			NOT = { is_subject_of = ROOT }
+            NOT = { technology_group = occult }
+		}
+		knows_country = FROM
+	}
+
+	war_goal = superiority_occult
+}
+

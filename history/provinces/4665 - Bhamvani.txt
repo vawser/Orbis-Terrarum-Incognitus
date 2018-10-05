@@ -1,0 +1,17 @@
+# 4665 - Bhamvani.txt
+
+owner = UTU
+controller = UTU
+add_core = UTU
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+culture = lemurian
+religion = buddhism
+
+trade_goods = livestock
+hre = no
+

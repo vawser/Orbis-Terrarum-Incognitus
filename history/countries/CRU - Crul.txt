@@ -1,0 +1,285 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4660
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Ceyavîra"
+		dynasty = "Pallava"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1406.1.1
+	}
+
+	heir = {
+		name = "Jagadeva"
+		monarch_name = "Jagadeva"
+		dynasty = "Pallava"
+		adm = 1
+		dip = 5
+		mil = 3
+		claim = 50
+		birth_date = 1411.1.1
+		death_date = 1515.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Jayantavarman"
+		dynasty = "Dasaratha"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1376.1.1
+	}
+
+	heir = {
+		name = "Varakunavarman"
+		monarch_name = "Varakunavarman"
+		dynasty = "Dasaratha"
+		adm = 3
+		dip = 1
+		mil = 1
+		claim = 50
+		birth_date = 1417.1.1
+		death_date = 1464.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Lakhanapala"
+		dynasty = "Wodeyar"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1439.1.1
+	}
+
+	queen = {
+		country_of_origin = CRU 
+		name = "Eccumantai"
+		dynasty = "Wodeyar"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1428.1.1
+		death_date = 1496.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Dashavarman"
+		monarch_name = "Dashavarman"
+		dynasty = "Wodeyar"
+		adm = 1
+		dip = 3
+		mil = 3
+		claim = 50
+		birth_date = 1458.1.1
+		death_date = 1570.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Bhenji"
+		dynasty = "Dahiya"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1483.1.1
+	}
+
+	heir = {
+		name = "Kotukulapattan"
+		monarch_name = "Kotukulapattan"
+		dynasty = "Dahiya"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1508.1.1
+		death_date = 1595.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Veyyapa"
+		dynasty = "Hoysala"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1537.1.1
+	}
+
+	queen = {
+		country_of_origin = CRU 
+		name = "Ariñcikaippirâttiyâr"
+		dynasty = "Hoysala"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1539.1.1
+		death_date = 1614.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tribhuvanapala"
+		monarch_name = "Tribhuvanapala"
+		dynasty = "Hoysala"
+		adm = 3
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1551.1.1
+		death_date = 1665.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Durgasimha"
+		dynasty = "Chera"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1574.1.1
+	}
+
+	queen = {
+		country_of_origin = CRU 
+		name = "Avutaiyâlccâni"
+		dynasty = "Chera"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1572.1.1
+		death_date = 1658.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Gajankusha"
+		monarch_name = "Gajankusha"
+		dynasty = "Chera"
+		adm = 2
+		dip = 2
+		mil = 5
+		claim = 25
+		birth_date = 1607.1.1
+		death_date = 1697.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Jayavarman"
+		dynasty = "Chaulukya"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1646.1.1
+	}
+
+	queen = {
+		country_of_origin = CRU 
+		name = "Thresiamma"
+		dynasty = "Chaulukya"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1662.1.1
+		death_date = 1762.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Sindhuraja"
+		dynasty = "Sailodbhava"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1677.1.1
+	}
+
+	heir = {
+		name = "Veyyapa"
+		monarch_name = "Veyyapa"
+		dynasty = "Sailodbhava"
+		adm = 3
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1718.1.1
+		death_date = 1729.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Butuga"
+		dynasty = "Chindaka-Naga"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1711.1.1
+	}
+
+	heir = {
+		name = "Paramêsvaravarman"
+		monarch_name = "Paramêsvaravarman"
+		dynasty = "Chindaka-Naga"
+		adm = 1
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1738.1.1
+		death_date = 1829.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Vîracêkara"
+		dynasty = "Thanjavur"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1701.1.1
+	}
+
+	heir = {
+		name = "Kopperunchinga"
+		monarch_name = "Kopperunchinga"
+		dynasty = "Thanjavur"
+		adm = 1
+		dip = 3
+		mil = 3
+		claim = 50
+		birth_date = 1788.1.1
+		death_date = 1857.1.1
+	}
+}
+

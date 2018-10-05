@@ -1,0 +1,17 @@
+
+owner = NJI
+controller = NJI
+add_core = NJI
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = grain
+hre = no
+
+

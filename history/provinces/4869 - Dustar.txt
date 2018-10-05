@@ -1,0 +1,16 @@
+# 4869 - Dustar.txt
+
+native_size = 2
+native_ferocity = 11
+native_hostileness = 11
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = gulamur
+religion = dragon_gods
+
+trade_goods = fur
+hre = no
+

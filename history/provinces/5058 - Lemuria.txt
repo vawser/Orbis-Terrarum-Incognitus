@@ -1,0 +1,17 @@
+
+owner = ZLO
+controller = ZLO
+add_core = ZLO
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+culture = lemurian
+religion = asakti
+
+trade_goods = cloth
+hre = no
+
+

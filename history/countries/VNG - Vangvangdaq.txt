@@ -1,0 +1,243 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5050
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Samar-Singh"
+		dynasty = "Phulkian"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1348.1.1
+	}
+
+	heir = {
+		name = "Eccavarâkan"
+		monarch_name = "Eccavarâkan"
+		dynasty = "Phulkian"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 75
+		birth_date = 1410.1.1
+		death_date = 1522.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Manavâlapperumâl"
+		dynasty = "Parmari"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1415.1.1
+	}
+
+	queen = {
+		country_of_origin = VNG 
+		name = "Annamma"
+		dynasty = "Parmari"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1402.1.1
+		death_date = 1488.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Vagbhata"
+		dynasty = "Mirrani"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1435.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Dharmapala"
+		dynasty = "Gopala"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1467.1.1
+	}
+
+	heir = {
+		name = "Aramutaiyâl"
+		monarch_name = "Aramutaiyâl"
+		dynasty = "Gopala"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1478.1.1
+		death_date = 1521.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tirupuvanavîratevar"
+		dynasty = "Kohkkar"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1484.1.1
+	}
+
+	queen = {
+		country_of_origin = VNG 
+		name = "Netuntukkai"
+		dynasty = "Kohkkar"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1480.1.1
+		death_date = 1585.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mârapanmar"
+		monarch_name = "Mârapanmar"
+		dynasty = "Kohkkar"
+		adm = 3
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1559.1.1
+		death_date = 1640.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Vakpati"
+		dynasty = "Bhoi"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1524.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Chokkanatha"
+		dynasty = "Saluva"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1626.1.1
+	}
+
+	heir = {
+		name = "Jay-Singh"
+		monarch_name = "Jay-Singh"
+		dynasty = "Saluva"
+		adm = 5
+		dip = 3
+		mil = 5
+		claim = 25
+		birth_date = 1673.1.1
+		death_date = 1725.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Maladeva"
+		dynasty = "Keshari"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1673.1.1
+	}
+
+	queen = {
+		country_of_origin = VNG 
+		name = "Aramutaiyâl"
+		dynasty = "Keshari"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1685.1.1
+		death_date = 1805.1.1
+		female = yes
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Mahendra"
+		dynasty = "Saluva"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1667.1.1
+	}
+
+	heir = {
+		name = "Kirtivarman"
+		monarch_name = "Kirtivarman"
+		dynasty = "Saluva"
+		adm = 4
+		dip = 4
+		mil = 4
+		claim = 100
+		birth_date = 1753.1.1
+		death_date = 1809.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Annaladevi"
+		dynasty = "Sankara"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1748.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Delhanadevi"
+		monarch_name = "Delhanadevi"
+		dynasty = "Sankara"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 25
+		birth_date = 1784.1.1
+		death_date = 1859.1.1
+		female = yes
+	}
+}
+

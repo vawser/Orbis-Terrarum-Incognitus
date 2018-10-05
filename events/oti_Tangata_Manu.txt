@@ -1,0 +1,24 @@
+namespace = tangata_manu_events
+
+country_event = {
+	id = tangata_manu_events.1
+	title = tangata_manu_events.1.title
+	desc = tangata_manu_events.1.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+        religion = tangata_manu
+    }
+    
+    is_triggered_only = yes
+    
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = tangata_manu_events.1.option.a
+        
+	}
+}
+

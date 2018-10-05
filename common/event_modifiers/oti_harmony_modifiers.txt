@@ -1,0 +1,25 @@
+# Religion Groups
+harmonized_occult_group = {
+	land_morale = 0.1
+	religion = yes
+}
+
+harmonized_muror_group = {
+	development_cost = -0.1
+	religion = yes
+}
+
+harmonized_lemurian_group = {
+    build_cost = -0.15
+    religion = yes
+}
+
+harmonized_atlantean_group = {
+    idea_cost = -0.1
+    religion = yes
+}
+
+harmonized_mazu = {
+    ship_durability = 0.1
+    religion = yes
+}

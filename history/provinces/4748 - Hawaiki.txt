@@ -1,0 +1,17 @@
+# 4748 - Hawaiki.txt
+
+owner = PAK
+controller = PAK
+add_core = PAK
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+culture = samoan
+religion = arioi
+
+trade_goods = fish
+hre = no
+

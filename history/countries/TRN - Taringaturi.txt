@@ -1,0 +1,253 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = tongan
+capital = 4874
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Kalagamet"
+		dynasty = "Alani"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1390.1.1
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Mahmûd"
+		dynasty = "Ha'aheo"
+		adm = 2
+		dip = 3
+		mil = 5
+		birth_date = 1411.1.1
+	}
+
+	queen = {
+		country_of_origin = TRN 
+		name = "Miri"
+		dynasty = "Ha'aheo"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1421.1.1
+		death_date = 1512.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tsau-Lha"
+		monarch_name = "Tsau-Lha"
+		dynasty = "Ha'aheo"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 75
+		birth_date = 1418.1.1
+		death_date = 1489.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Raden"
+		dynasty = "Selangor"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1407.1.1
+	}
+
+	queen = {
+		country_of_origin = TRN 
+		name = "Leilani"
+		dynasty = "Selangor"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1425.1.1
+		death_date = 1513.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Selangor"
+		adm = 5
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1479.1.1
+		death_date = 1499.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Keahi"
+		dynasty = "Selangor"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1461.1.1
+	}
+
+	heir = {
+		name = "Keani"
+		monarch_name = "Keani"
+		dynasty = "Selangor"
+		adm = 1
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1486.1.1
+		death_date = 1590.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Badr"
+		dynasty = "Heleakala"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1486.1.1
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Heleakala"
+		adm = 2
+		dip = 4
+		mil = 5
+		claim = 50
+		birth_date = 1570.1.1
+		death_date = 1637.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "'Alî"
+		dynasty = "Perak"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1562.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Keola"
+		dynasty = "Alohilani"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 1674.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = TRN 
+		name = "Shâh"
+		dynasty = "Alohilani"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1674.1.1
+		death_date = 1712.1.1
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Lathun"
+		dynasty = "Pagarruyung"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1645.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Menradza"
+		dynasty = "Kameha'o"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1725.1.1
+	}
+
+	heir = {
+		name = "Aolani"
+		monarch_name = "Aolani"
+		dynasty = "Kameha'o"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1734.1.1
+		death_date = 1795.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Poerava"
+		dynasty = "Keonoana"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1705.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = TRN 
+		name = "Makani"
+		dynasty = "Keonoana"
+		adm = 5
+		dip = 5
+		mil = 1
+		birth_date = 1711.1.1
+		death_date = 1802.1.1
+	}
+
+	heir = {
+		name = "Poe"
+		monarch_name = "Poe"
+		dynasty = "Keonoana"
+		adm = 2
+		dip = 5
+		mil = 5
+		claim = 25
+		birth_date = 1776.1.1
+		death_date = 1873.1.1
+		female = yes
+	}
+}
+

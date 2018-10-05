@@ -1,0 +1,279 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4510
+religious_school = cyrenaic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Diogenes"
+		dynasty = "Eulogios"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1377.1.1
+	}
+
+	queen = {
+		country_of_origin = ELA 
+		name = "Damiane"
+		dynasty = "Eulogios"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1379.1.1
+		death_date = 1451.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Iason"
+		dynasty = "Gourzoubathenos"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1369.1.1
+	}
+
+	heir = {
+		name = "Bosporios"
+		monarch_name = "Bosporios"
+		dynasty = "Gourzoubathenos"
+		adm = 2
+		dip = 3
+		mil = 4
+		claim = 50
+		birth_date = 1430.1.1
+		death_date = 1522.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Diogenes"
+		dynasty = "Moschos"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1422.1.1
+	}
+
+	queen = {
+		country_of_origin = ELA 
+		name = "Konstantia"
+		dynasty = "Moschos"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1420.1.1
+		death_date = 1528.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Petros"
+		monarch_name = "Petros"
+		dynasty = "Moschos"
+		adm = 4
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1458.1.1
+		death_date = 1508.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Arsenios"
+		dynasty = "Axinites"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1469.1.1
+	}
+
+	queen = {
+		country_of_origin = ELA 
+		name = "Basillike"
+		dynasty = "Axinites"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1470.1.1
+		death_date = 1554.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Elaiodora"
+		dynasty = "Tornikes"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1561.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Germanus"
+		monarch_name = "Germanus"
+		dynasty = "Tornikes"
+		adm = 5
+		dip = 2
+		mil = 1
+		claim = 75
+		birth_date = 1563.1.1
+		death_date = 1603.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Theodoros"
+		dynasty = "Kanakaris"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1598.1.1
+	}
+
+	heir = {
+		name = "Euphemia"
+		monarch_name = "Euphemia"
+		dynasty = "Kanakaris"
+		adm = 2
+		dip = 3
+		mil = 5
+		claim = 75
+		birth_date = 1616.1.1
+		death_date = 1703.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Georgios"
+		dynasty = "Maurozoumis"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1606.1.1
+	}
+
+	queen = {
+		country_of_origin = ELA 
+		name = "Eirene"
+		dynasty = "Maurozoumis"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1615.1.1
+		death_date = 1715.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bartholomaios"
+		monarch_name = "Bartholomaios"
+		dynasty = "Maurozoumis"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 25
+		birth_date = 1680.1.1
+		death_date = 1741.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Andreas"
+		dynasty = "Moustakes"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1664.1.1
+	}
+
+	queen = {
+		country_of_origin = ELA 
+		name = "Konstantine"
+		dynasty = "Moustakes"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1649.1.1
+		death_date = 1760.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Epiphania"
+		monarch_name = "Epiphania"
+		dynasty = "Moustakes"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1703.1.1
+		death_date = 1747.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Alexeios"
+		dynasty = "Apokaukos"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1724.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Matthaios"
+		dynasty = "Libadares"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1769.1.1
+	}
+
+	queen = {
+		country_of_origin = ELA 
+		name = "Julia"
+		dynasty = "Libadares"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1777.1.1
+		death_date = 1861.1.1
+		female = yes
+	}
+
+}
+

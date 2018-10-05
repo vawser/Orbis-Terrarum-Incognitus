@@ -1,0 +1,244 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = tongan
+capital = 5329
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Sumirat"
+		dynasty = "Kelupaina"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1386.1.1
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Keanu"
+		dynasty = "Kedah"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1434.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Keani"
+		dynasty = "Waipuna"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1429.1.1
+	}
+
+	heir = {
+		name = "Megat"
+		monarch_name = "Megat"
+		dynasty = "Waipuna"
+		adm = 3
+		dip = 3
+		mil = 2
+		claim = 100
+		birth_date = 1466.1.1
+		death_date = 1499.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Hayam"
+		dynasty = "Aceh"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1490.1.1
+	}
+
+	heir = {
+		name = "ar-Rahmân"
+		monarch_name = "ar-Rahmân"
+		dynasty = "Aceh"
+		adm = 2
+		dip = 3
+		mil = 5
+		claim = 25
+		birth_date = 1505.1.1
+		death_date = 1587.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Wijaya"
+		dynasty = "Ainalani"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 1480.1.1
+	}
+
+	queen = {
+		country_of_origin = NGI 
+		name = "Palila"
+		dynasty = "Ainalani"
+		adm = 1
+		dip = 4
+		mil = 4
+		birth_date = 1480.1.1
+		death_date = 1582.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Raden"
+		monarch_name = "Raden"
+		dynasty = "Ainalani"
+		adm = 1
+		dip = 4
+		mil = 2
+		claim = 50
+		birth_date = 1558.1.1
+		death_date = 1604.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Abu"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1549.1.1
+	}
+
+	heir = {
+		name = "Moerani"
+		monarch_name = "Moerani"
+		dynasty = "Samprangan"
+		adm = 5
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1585.1.1
+		death_date = 1682.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Onaona"
+		dynasty = "Vijaya"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1668.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = NGI 
+		name = "Paramesvara"
+		dynasty = "Vijaya"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1669.1.1
+		death_date = 1746.1.1
+	}
+
+	heir = {
+		name = "Alaula"
+		monarch_name = "Alaula"
+		dynasty = "Vijaya"
+		adm = 2
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1683.1.1
+		death_date = 1760.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Elikapeka"
+		dynasty = "Demak"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1622.1.1
+		female = yes
+		regent = yes
+	}
+
+	heir = {
+		name = "Mauli"
+		monarch_name = "Mauli"
+		dynasty = "Demak"
+		adm = 3
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1711.1.1
+		death_date = 1764.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Qasim"
+		dynasty = "Kedah"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1710.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "al-Jalîl"
+		dynasty = "Polola"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1723.1.1
+	}
+
+	queen = {
+		country_of_origin = NGI 
+		name = "Kamaile"
+		dynasty = "Polola"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1726.1.1
+		death_date = 1824.1.1
+		female = yes
+	}
+
+}
+

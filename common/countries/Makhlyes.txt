@@ -1,0 +1,56 @@
+#Country Name: Please see filename.
+
+graphical_culture = africangfx
+
+color = { 100  13  200 }
+
+
+monarch_names = { 
+	"Majila #1" = 50
+	"Islaman #1" = 50
+	"Tambatan #1" = 50
+	"In #1" = 50
+	"Abareybon #1" = 50	
+	"Abdalla #1" = 50	
+	"Baly #1" = 50	
+	"Kiddu #1" = 50	
+	"Hasso #1" = 50
+	"Belkhud #1" = 50
+	"Elkhaj #0" = 50
+	"Sidi #0" = 50
+	"Amna #0" = 20
+	"Anaba #0" = 20
+	"Kanan #0" = 50
+	}
+
+leader_names = {
+	Mekhmud
+	Ghotman
+    Khamed
+	Ahmad
+	Tayaden
+	"Ag Hossad"
+	"Ag Akotey"
+	"Ag Umbadugu"
+	"Ag Budal"
+	"Ag Amastan"
+	"Ag Amellal"
+	Taitoq
+	Ghabdessalam
+}
+
+ship_names = {
+	Mekhmud
+	Ghotman
+    Khamed
+	Ahmad
+	Tayaden
+	"Ag Hossad"
+	"Ag Akotey"
+	"Ag Umbadugu"
+	"Ag Budal"
+	"Ag Amastan"
+	"Ag Amellal"
+	Taitoq
+	Ghabdessalam
+}

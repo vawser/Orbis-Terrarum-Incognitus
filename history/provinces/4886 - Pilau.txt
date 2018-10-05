@@ -1,0 +1,17 @@
+# 4886 - Pilau.txt
+
+owner = TAH
+controller = TAH
+add_core = TAH
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = tahitian
+religion = arioi
+
+trade_goods = tobacco
+hre = no
+

@@ -1,0 +1,17 @@
+# 4721 - U'i.txt
+
+owner = CHN
+controller = CHN
+add_core = CHN
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 2
+
+culture = hairen
+religion = mazu
+
+trade_goods = salt
+hre = no
+

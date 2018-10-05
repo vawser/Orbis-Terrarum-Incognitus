@@ -1,0 +1,323 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4649
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Jayasimha"
+		dynasty = "Kahlon"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1365.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Chinnambike"
+		dynasty = "Kahlon"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1347.1.1
+		death_date = 1446.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shurapala"
+		monarch_name = "Shurapala"
+		dynasty = "Kahlon"
+		adm = 2
+		dip = 2
+		mil = 3
+		claim = 50
+		birth_date = 1427.1.1
+		death_date = 1463.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Butuga"
+		dynasty = "Jadon"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1366.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Bhuyikadevi"
+		dynasty = "Jadon"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1382.1.1
+		death_date = 1474.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ajayapala"
+		monarch_name = "Ajayapala"
+		dynasty = "Jadon"
+		adm = 4
+		dip = 5
+		mil = 2
+		claim = 50
+		birth_date = 1447.1.1
+		death_date = 1469.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Nârpattennâyirapattan"
+		dynasty = "Talpura"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1439.1.1
+	}
+
+	heir = {
+		name = "Ratan-Singh"
+		monarch_name = "Ratan-Singh"
+		dynasty = "Talpura"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 100
+		birth_date = 1474.1.1
+		death_date = 1571.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Amoghavarsha"
+		dynasty = "Sonhat"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1438.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Kômalavalli"
+		dynasty = "Sonhat"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1439.1.1
+		death_date = 1542.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Vigraharaja"
+		dynasty = "Gahirawar"
+		adm = 2
+		dip = 1
+		mil = 4
+		birth_date = 1492.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Atavallâl"
+		dynasty = "Gahirawar"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1511.1.1
+		death_date = 1583.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Susan"
+		monarch_name = "Susan"
+		dynasty = "Gahirawar"
+		adm = 4
+		dip = 3
+		mil = 5
+		claim = 75
+		birth_date = 1559.1.1
+		death_date = 1613.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Nârâyani"
+		dynasty = "Chand"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1553.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tennavan"
+		monarch_name = "Tennavan"
+		dynasty = "Chand"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1602.1.1
+		death_date = 1652.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Konganivarman"
+		dynasty = "Tuluva"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1669.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Prasadhanadevi"
+		dynasty = "Tuluva"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1689.1.1
+		death_date = 1742.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Vijada-Dasasyandana"
+		monarch_name = "Vijada-Dasasyandana"
+		dynasty = "Tuluva"
+		adm = 3
+		dip = 2
+		mil = 4
+		claim = 25
+		birth_date = 1664.1.1
+		death_date = 1766.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Nârâyani"
+		dynasty = "Chalukya"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1683.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Kulasekharan"
+		dynasty = "Chalukya"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1702.1.1
+		death_date = 1769.1.1
+	}
+
+	heir = {
+		name = "Lakshmana"
+		monarch_name = "Lakshmana"
+		dynasty = "Chalukya"
+		adm = 4
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1681.1.1
+		death_date = 1763.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Daniyel"
+		dynasty = "Baland"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1690.1.1
+	}
+
+	heir = {
+		name = "Mathan-Singh"
+		monarch_name = "Mathan-Singh"
+		dynasty = "Baland"
+		adm = 2
+		dip = 4
+		mil = 2
+		claim = 100
+		birth_date = 1729.1.1
+		death_date = 1810.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Tejasimha"
+		dynasty = "Somavamsi"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1694.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Eccumantai"
+		dynasty = "Somavamsi"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1699.1.1
+		death_date = 1802.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Samanta"
+		monarch_name = "Samanta"
+		dynasty = "Somavamsi"
+		adm = 1
+		dip = 3
+		mil = 4
+		claim = 25
+		birth_date = 1780.1.1
+		death_date = 1795.1.1
+	}
+}
+

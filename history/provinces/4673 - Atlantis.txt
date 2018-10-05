@@ -1,0 +1,17 @@
+
+owner = ANX
+controller = ANX
+add_core = ANX
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 1
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = wine
+hre = no
+
+

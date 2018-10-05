@@ -1,0 +1,27 @@
+# 4838 - Koe.txt
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 12
+base_production = 14
+base_manpower = 12
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = paper
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+add_permanent_province_modifier = {
+	name = religious_center
+	duration = -1
+}
+

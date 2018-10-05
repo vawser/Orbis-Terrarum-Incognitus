@@ -1,0 +1,301 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5229
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Shungrasoobyer"
+		dynasty = "Surasena"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1377.1.1
+	}
+
+	heir = {
+		name = "Amittiravalli"
+		monarch_name = "Amittiravalli"
+		dynasty = "Surasena"
+		adm = 4
+		dip = 3
+		mil = 5
+		claim = 100
+		birth_date = 1428.1.1
+		death_date = 1483.1.1
+		female = yes
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Karka"
+		dynasty = "Thanjavur"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1421.1.1
+	}
+
+	queen = {
+		country_of_origin = QLA 
+		name = "Vicciyakkan"
+		dynasty = "Thanjavur"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1423.1.1
+		death_date = 1469.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Ahavamalla"
+		dynasty = "Pemmasani"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1411.1.1
+	}
+
+	queen = {
+		country_of_origin = QLA 
+		name = "Samuel"
+		dynasty = "Pemmasani"
+		adm = 4
+		dip = 3
+		mil = 1
+		birth_date = 1428.1.1
+		death_date = 1518.1.1
+	}
+
+	heir = {
+		name = "Vatavâyil"
+		monarch_name = "Vatavâyil"
+		dynasty = "Pemmasani"
+		adm = 1
+		dip = 5
+		mil = 3
+		claim = 50
+		birth_date = 1459.1.1
+		death_date = 1539.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Samant-Singh"
+		dynasty = "Tomara"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1434.1.1
+	}
+
+	queen = {
+		country_of_origin = QLA 
+		name = "Pavitram"
+		dynasty = "Tomara"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1439.1.1
+		death_date = 1551.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Krishnappa"
+		monarch_name = "Krishnappa"
+		dynasty = "Tomara"
+		adm = 2
+		dip = 2
+		mil = 3
+		claim = 100
+		birth_date = 1478.1.1
+		death_date = 1519.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Asvapala"
+		dynasty = "Langa"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1506.1.1
+	}
+
+	queen = {
+		country_of_origin = QLA 
+		name = "Pommavâyi"
+		dynasty = "Langa"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1520.1.1
+		death_date = 1599.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Irâcâcekara"
+		monarch_name = "Irâcâcekara"
+		dynasty = "Langa"
+		adm = 1
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1578.1.1
+		death_date = 1596.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Arulmolitêvar"
+		dynasty = "Keshari"
+		adm = 5
+		dip = 3
+		mil = 1
+		birth_date = 1600.1.1
+	}
+
+	heir = {
+		name = "Corappaiyâr"
+		monarch_name = "Corappaiyâr"
+		dynasty = "Keshari"
+		adm = 3
+		dip = 4
+		mil = 3
+		claim = 100
+		birth_date = 1593.1.1
+		death_date = 1666.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Karan-Singh"
+		dynasty = "Tupakula"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1671.1.1
+	}
+
+	heir = {
+		name = "Dawud"
+		monarch_name = "Dawud"
+		dynasty = "Tupakula"
+		adm = 3
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1687.1.1
+		death_date = 1729.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Hammira"
+		dynasty = "Sohota"
+		adm = 3
+		dip = 3
+		mil = 1
+		birth_date = 1619.1.1
+	}
+
+	heir = {
+		name = "Narasimha"
+		monarch_name = "Narasimha"
+		dynasty = "Sohota"
+		adm = 4
+		dip = 3
+		mil = 4
+		claim = 75
+		birth_date = 1718.1.1
+		death_date = 1794.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Maraikkâtu"
+		dynasty = "Malhi"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1697.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Xemraja"
+		monarch_name = "Xemraja"
+		dynasty = "Malhi"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1733.1.1
+		death_date = 1818.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Vijayaditya"
+		dynasty = "Tomara"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1726.1.1
+	}
+
+	queen = {
+		country_of_origin = QLA 
+		name = "Tûnkânai"
+		dynasty = "Tomara"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1730.1.1
+		death_date = 1813.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "MariMâtêvatikal"
+		monarch_name = "MariMâtêvatikal"
+		dynasty = "Tomara"
+		adm = 2
+		dip = 3
+		mil = 3
+		claim = 100
+		birth_date = 1751.1.1
+		death_date = 1827.1.1
+		female = yes
+	}
+}
+

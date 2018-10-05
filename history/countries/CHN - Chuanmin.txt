@@ -1,0 +1,285 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = chinese
+religion = mazu
+primary_culture = hairen
+capital = 4721
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Changxun"
+		dynasty = "Ma"
+		adm = 3
+		dip = 1
+		mil = 3
+		birth_date = 1415.1.1
+	}
+
+	queen = {
+		country_of_origin = CHN 
+		name = "Yuantong"
+		dynasty = "Ma"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1413.1.1
+		death_date = 1491.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Du"
+		dynasty = "Qiu"
+		adm = 5
+		dip = 5
+		mil = 1
+		birth_date = 1429.1.1
+	}
+
+	heir = {
+		name = "Changzhi"
+		monarch_name = "Changzhi"
+		dynasty = "Qiu"
+		adm = 1
+		dip = 2
+		mil = 4
+		claim = 75
+		birth_date = 1433.1.1
+		death_date = 1502.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Shuang"
+		dynasty = "Ye"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1460.1.1
+	}
+
+	queen = {
+		country_of_origin = CHN 
+		name = "Chunmei"
+		dynasty = "Ye"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1455.1.1
+		death_date = 1537.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Xunquan"
+		monarch_name = "Xunquan"
+		dynasty = "Ye"
+		adm = 3
+		dip = 3
+		mil = 5
+		claim = 75
+		birth_date = 1469.1.1
+		death_date = 1520.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Chengzhang"
+		dynasty = "Feng"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1459.1.1
+	}
+
+	queen = {
+		country_of_origin = CHN 
+		name = "Tianhui"
+		dynasty = "Feng"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1451.1.1
+		death_date = 1533.1.1
+		female = yes
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Yousi"
+		dynasty = "Ma"
+		adm = 5
+		dip = 2
+		mil = 3
+		birth_date = 1526.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Zailun"
+		dynasty = "Wu"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1570.1.1
+	}
+
+	queen = {
+		country_of_origin = CHN 
+		name = "Yuying"
+		dynasty = "Wu"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1578.1.1
+		death_date = 1691.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Jianti"
+		monarch_name = "Jianti"
+		dynasty = "Wu"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1582.1.1
+		death_date = 1654.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Huanchun"
+		dynasty = "Tang"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 1656.1.1
+	}
+
+	queen = {
+		country_of_origin = CHN 
+		name = "Yanxiang"
+		dynasty = "Tang"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1671.1.1
+		death_date = 1716.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Gongtang"
+		monarch_name = "Gongtang"
+		dynasty = "Tang"
+		adm = 2
+		dip = 2
+		mil = 5
+		claim = 75
+		birth_date = 1668.1.1
+		death_date = 1764.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Jianze"
+		dynasty = "Tang"
+		adm = 1
+		dip = 5
+		mil = 5
+		birth_date = 1699.1.1
+	}
+
+	heir = {
+		name = "Yourong"
+		monarch_name = "Yourong"
+		dynasty = "Tang"
+		adm = 5
+		dip = 5
+		mil = 4
+		claim = 50
+		birth_date = 1711.1.1
+		death_date = 1737.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Jianzhi"
+		dynasty = "Tan"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1708.1.1
+	}
+
+	queen = {
+		country_of_origin = CHN 
+		name = "Chunmei"
+		dynasty = "Tan"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1694.1.1
+		death_date = 1791.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Youshan"
+		monarch_name = "Youshan"
+		dynasty = "Tan"
+		adm = 4
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1732.1.1
+		death_date = 1836.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Wuchang"
+		dynasty = "Yue"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1716.1.1
+	}
+
+	heir = {
+		name = "Ciran"
+		monarch_name = "Ciran"
+		dynasty = "Yue"
+		adm = 5
+		dip = 4
+		mil = 2
+		claim = 75
+		birth_date = 1761.1.1
+		death_date = 1794.1.1
+	}
+}
+

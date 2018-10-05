@@ -1,0 +1,263 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4549
+religious_school = sophist_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Gennadios"
+		dynasty = "Agallon"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1346.1.1
+	}
+
+	heir = {
+		name = "Bartolomeus"
+		monarch_name = "Bartolomeus"
+		dynasty = "Agallon"
+		adm = 4
+		dip = 1
+		mil = 2
+		claim = 75
+		birth_date = 1437.1.1
+		death_date = 1515.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Andrew"
+		dynasty = "Angelos"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1389.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Bosporios"
+		dynasty = "Xanthos"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1450.1.1
+	}
+
+	heir = {
+		name = "Chrysanthos"
+		monarch_name = "Chrysanthos"
+		dynasty = "Xanthos"
+		adm = 4
+		dip = 1
+		mil = 2
+		claim = 50
+		birth_date = 1484.1.1
+		death_date = 1513.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Sikelos"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1461.1.1
+	}
+
+	heir = {
+		name = "Antiochos"
+		monarch_name = "Antiochos"
+		dynasty = "Sikelos"
+		adm = 5
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1489.1.1
+		death_date = 1564.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = ""
+		dynasty = "Rentakenos"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1559.1.1
+	}
+
+	queen = {
+		country_of_origin = ICH 
+		name = "Eirene"
+		dynasty = "Rentakenos"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1567.1.1
+		death_date = 1640.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Theodoros"
+		monarch_name = "Theodoros"
+		dynasty = "Rentakenos"
+		adm = 2
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1572.1.1
+		death_date = 1644.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Dionysios"
+		dynasty = "Machetarios"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1557.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Philippos"
+		dynasty = "Bringas"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1653.1.1
+	}
+
+	queen = {
+		country_of_origin = ICH 
+		name = "Elaiodora"
+		dynasty = "Bringas"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1643.1.1
+		death_date = 1709.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Basileios"
+		dynasty = "Kourkouas"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1694.1.1
+	}
+
+	queen = {
+		country_of_origin = ICH 
+		name = "Dorothy"
+		dynasty = "Kourkouas"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1678.1.1
+		death_date = 1729.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Demetrios"
+		monarch_name = "Demetrios"
+		dynasty = "Kourkouas"
+		adm = 4
+		dip = 2
+		mil = 3
+		claim = 75
+		birth_date = 1715.1.1
+		death_date = 1741.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Nikolaos"
+		dynasty = "Hephaistos"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1712.1.1
+	}
+
+	queen = {
+		country_of_origin = ICH 
+		name = "Athanasia"
+		dynasty = "Hephaistos"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1724.1.1
+		death_date = 1840.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Christopher"
+		monarch_name = "Christopher"
+		dynasty = "Hephaistos"
+		adm = 1
+		dip = 3
+		mil = 5
+		claim = 25
+		birth_date = 1748.1.1
+		death_date = 1809.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Thomas"
+		dynasty = "Lardotyros"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1703.1.1
+	}
+
+	heir = {
+		name = "Dionysus"
+		monarch_name = "Dionysus"
+		dynasty = "Lardotyros"
+		adm = 1
+		dip = 3
+		mil = 5
+		claim = 100
+		birth_date = 1773.1.1
+		death_date = 1855.1.1
+	}
+}
+

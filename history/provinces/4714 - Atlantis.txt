@@ -1,0 +1,17 @@
+
+owner = MES
+controller = MES
+add_core = MES
+is_city = yes
+
+base_tax = 7
+base_production = 7
+base_manpower = 8
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = paper
+hre = no
+
+

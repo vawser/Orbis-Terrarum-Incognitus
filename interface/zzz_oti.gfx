@@ -1,0 +1,96 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_tech_group_strip"
+		texturefile = "gfx/interface/tech_group_strip.dds"
+		transparencecheck = yes	
+		noOfFrames = 20
+	}	
+    
+    spriteType = {
+		name = "GFX_icon_religion"
+		texturefile = "gfx//interface//icon_religion.dds"
+		noOfFrames = 71
+	}
+	
+	spriteType = {
+		name = "GFX_country_icon_religion"
+		texturefile = "gfx//interface//country_icon_religion.dds"
+		noOfFrames = 71
+	}
+	
+	spriteType = {
+		name = "GFX_icon_religion_small"
+		texturefile = "gfx//interface//icon_religion_small.dds"
+		noOfFrames = 71
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_religion_icon_strip"
+		texturefile = "gfx//interface//icon_religion_small.dds"
+		transparencecheck = yes
+		noOfFrames = 71
+	}
+	
+	spriteType = {
+		name = "GFX_province_view_religion"
+		texturefile = "gfx//interface//province_view_religion.tga"
+		noOfFrames = 71
+	}
+    
+    # Dragon Schools
+    spriteType = {
+		name = "GFX_icon_dragon_school_yellow"
+		texturefile = "gfx/interface/dragon_school_yellow.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_dragon_school_blue"
+		texturefile = "gfx/interface/dragon_school_blue.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_dragon_school_cyan"
+		texturefile = "gfx/interface/dragon_school_cyan.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_dragon_school_green"
+		texturefile = "gfx/interface/dragon_school_green.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_dragon_school_red"
+		texturefile = "gfx/interface/dragon_school_red.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_dragon_school_purple"
+		texturefile = "gfx/interface/dragon_school_purple.dds"
+	}
+    
+    # Atlantean Schools
+    spriteType = {
+		name = "GFX_icon_atlantis_school_yellow"
+		texturefile = "gfx/interface/atlantis_school_yellow.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_atlantis_school_blue"
+		texturefile = "gfx/interface/atlantis_school_blue.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_atlantis_school_cyan"
+		texturefile = "gfx/interface/atlantis_school_cyan.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_atlantis_school_green"
+		texturefile = "gfx/interface/atlantis_school_green.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_atlantis_school_red"
+		texturefile = "gfx/interface/atlantis_school_red.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_atlantis_school_orange"
+		texturefile = "gfx/interface/atlantis_school_orange.dds"
+	}
+    spriteType = {
+		name = "GFX_icon_atlantis_school_purple"
+		texturefile = "gfx/interface/atlantis_school_purple.dds"
+	}
+}

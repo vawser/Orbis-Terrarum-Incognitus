@@ -1,0 +1,17 @@
+# 4661 - Jandhragara.txt
+
+owner = UTU
+controller = UTU
+add_core = UTU
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 5
+
+culture = lemurian
+religion = buddhism
+
+trade_goods = livestock
+hre = no
+

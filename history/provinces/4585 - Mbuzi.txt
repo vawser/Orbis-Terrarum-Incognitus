@@ -1,0 +1,17 @@
+# 4585 - Mbuzi.txt
+
+owner = UTU
+controller = UTU
+add_core = UTU
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 4
+
+culture = lemurian
+religion = buddhism
+
+trade_goods = wool
+hre = no
+

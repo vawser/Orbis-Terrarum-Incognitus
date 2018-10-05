@@ -1,0 +1,53 @@
+po_take_dragon_empire_throne = {
+    category = 6
+    ae_base = 0.0
+    prestige_base = 0.5
+    warscore_cap = 100
+    is_make_subject = no
+    requires_is_allowed = yes
+    warscore_cost = {
+        # Which of the giver's provinces' war score costs are included and by how much. All entries default to 0. Any combination of entries can be used. Try negative values at your own risk.
+		all_provinces = 0.0 # All the giver's provinces
+		no_provinces = 100.0 # This is just a constant. Equivalent to a single province with with war score cost 1
+		owner_keeps = 0.0 # The provinces that are not of any of the types below
+		conquered = 1.0 # Provinces that are selected by a Demand Province treaty
+		returned_core = 0.0 # Provinces that are selected by a Return Core treaty
+		released_nation = 0.0 # Provinces that will become a part of a selected released-to-be nation
+		cancelled_subject = 0.0 # This one should not be relevant here since Giver can't be a cancelled subject. Including anyway for completeness
+		concede_colonial_region = 0.0 # Ditto
+    }
+
+	is_visible = {
+		religion = dragon_gods
+        NOT = { government = dragon_empire }
+        FROM = { 
+            government = dragon_empire
+            religion = dragon_gods 
+        }
+	}
+	is_allowed = {
+		religion = dragon_gods
+        NOT = { government = dragon_empire }
+        FROM = { 
+            government = dragon_empire
+            religion = dragon_gods 
+        }
+	}
+	effect = {
+		# Workaround for the multiple executions
+        every_country = {
+            limit = { government = dragon_empire }
+            change_government = feudal_monarchy
+            set_government_rank = 2
+        }
+        ROOT = {
+            change_government = dragon_empire
+        }
+	}
+	ai_weight = {
+		export_to_variable = {
+			variable_name = ai_value
+			value = 1000
+		}
+	}
+}

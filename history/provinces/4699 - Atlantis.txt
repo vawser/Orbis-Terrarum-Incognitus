@@ -1,0 +1,17 @@
+
+owner = BNP
+controller = BNP
+add_core = BNP
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = paper
+hre = no
+
+

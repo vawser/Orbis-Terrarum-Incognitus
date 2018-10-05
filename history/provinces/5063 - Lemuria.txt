@@ -1,0 +1,23 @@
+
+is_city = no
+native_size = 33
+native_ferocity = 6
+native_hostileness = 8
+
+base_tax = 7
+base_production = 7
+base_manpower = 8
+
+culture = lemurian
+religion = asakti
+
+trade_goods = unknown
+hre = no
+
+add_permanent_province_modifier = {
+	name = river_estuary_modifier
+	duration = -1
+}
+
+
+

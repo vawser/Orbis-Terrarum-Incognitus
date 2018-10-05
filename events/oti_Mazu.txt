@@ -1,0 +1,24 @@
+namespace = mazu_events
+
+country_event = {
+	id = mazu_events.1
+	title = mazu_events.1.title
+	desc = mazu_events.1.desc
+	picture = EXPLORERS_eventPicture
+
+	trigger = {
+        religion = mazu
+    }
+    
+    is_triggered_only = yes
+    
+	mean_time_to_happen = {
+		months = 120
+	}
+	
+	option = {
+		name = mazu_events.1.option.a
+        
+	}
+}
+

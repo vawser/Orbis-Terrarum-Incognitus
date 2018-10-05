@@ -1,0 +1,21 @@
+# 4805 - Fenua.txt
+
+owner = JIJ
+controller = JIJ
+add_core = JIJ
+is_city = yes
+
+base_tax = 7
+base_production = 6
+base_manpower = 8
+
+culture = gulamur
+religion = dragon_gods
+
+trade_goods = gems
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}

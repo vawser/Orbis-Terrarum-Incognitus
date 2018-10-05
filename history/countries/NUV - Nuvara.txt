@@ -1,0 +1,289 @@
+government = theocratic_government
+mercantilism = 0.1
+technology_group = lemurian
+religion = nasrani
+primary_culture = sinhala
+capital = 5100
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Vatsaraja"
+		dynasty = "Sailodbhava"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1356.1.1
+	}
+
+	heir = {
+		name = "Arikêcari"
+		monarch_name = "Arikêcari"
+		dynasty = "Sailodbhava"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1430.1.1
+		death_date = 1464.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Job"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1381.1.1
+	}
+
+	queen = {
+		country_of_origin = NUV 
+		name = "Cantirâdêvi"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1395.1.1
+		death_date = 1478.1.1
+		female = yes
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Madhura"
+		dynasty = "Singha"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1471.1.1
+	}
+
+	queen = {
+		country_of_origin = NUV 
+		name = "Manaladevi"
+		dynasty = "Singha"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1457.1.1
+		death_date = 1522.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Sharva"
+		monarch_name = "Sharva"
+		dynasty = "Singha"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1461.1.1
+		death_date = 1543.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Nar-Verma"
+		dynasty = "Ganga"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1450.1.1
+	}
+
+	heir = {
+		name = "Acharya"
+		monarch_name = "Acharya"
+		dynasty = "Ganga"
+		adm = 1
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1486.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Ceyyavâymani"
+		dynasty = "Chandravansha"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1486.1.1
+		female = yes
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Vellantânkinân"
+		dynasty = "Chalukya"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1578.1.1
+	}
+
+	heir = {
+		name = "Mâtevapattan"
+		monarch_name = "Mâtevapattan"
+		dynasty = "Chalukya"
+		adm = 5
+		dip = 3
+		mil = 5
+		claim = 25
+		birth_date = 1591.1.1
+		death_date = 1663.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Gopendraraja"
+		dynasty = "Saluva"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1648.1.1
+	}
+
+	queen = {
+		country_of_origin = NUV 
+		name = "Akkadevi"
+		dynasty = "Saluva"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 1660.1.1
+		death_date = 1745.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Luke"
+		monarch_name = "Luke"
+		dynasty = "Saluva"
+		adm = 2
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1694.1.1
+		death_date = 1738.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Isaac"
+		dynasty = "Kalachuri"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1624.1.1
+	}
+
+	heir = {
+		name = "Nîliyâr"
+		monarch_name = "Nîliyâr"
+		dynasty = "Kalachuri"
+		adm = 3
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1708.1.1
+		death_date = 1770.1.1
+		female = yes
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Konganivarman"
+		dynasty = "Chanda"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1730.1.1
+	}
+
+	queen = {
+		country_of_origin = NUV 
+		name = "Sujaya"
+		dynasty = "Chanda"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1740.1.1
+		death_date = 1768.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Pratha"
+		monarch_name = "Pratha"
+		dynasty = "Chanda"
+		adm = 3
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1744.1.1
+		death_date = 1793.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Narasa"
+		dynasty = "Bhoi"
+		adm = 5
+		dip = 5
+		mil = 1
+		birth_date = 1769.1.1
+	}
+
+	queen = {
+		country_of_origin = NUV 
+		name = "Kômalavalli"
+		dynasty = "Bhoi"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1777.1.1
+		death_date = 1869.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Muttu"
+		monarch_name = "Muttu"
+		dynasty = "Bhoi"
+		adm = 1
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1787.1.1
+		death_date = 1835.1.1
+	}
+}
+

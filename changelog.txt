@@ -1,0 +1,4 @@
+- Adjusted encoding to ANSI for country files, should fix broken names
+- Extended Lemuria vision into India
+- Extended Indian vision into Lemuria
+- Extended Mu vision over seas

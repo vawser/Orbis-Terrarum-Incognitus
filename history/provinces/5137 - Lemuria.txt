@@ -1,0 +1,17 @@
+
+owner = MEK
+controller = MEK
+add_core = MEK
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+culture = kakushivilar
+religion = hurufi
+
+trade_goods = tropical_wood
+hre = no
+
+

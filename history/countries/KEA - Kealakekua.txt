@@ -1,0 +1,274 @@
+government = tribal_democracy
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = hawaiian
+capital = 4745
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Malo"
+		dynasty = "Kauthara"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1413.1.1
+	}
+
+	queen = {
+		country_of_origin = KEA 
+		name = "Paramesvara"
+		dynasty = "Kauthara"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1431.1.1
+		death_date = 1525.1.1
+	}
+
+	heir = {
+		name = "Shah"
+		monarch_name = "Shah"
+		dynasty = "Kauthara"
+		adm = 2
+		dip = 4
+		mil = 5
+		claim = 25
+		birth_date = 1412.1.1
+		death_date = 1458.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "'Alî"
+		dynasty = "Uluwehi"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1425.1.1
+	}
+
+	heir = {
+		name = "Raden"
+		monarch_name = "Raden"
+		dynasty = "Uluwehi"
+		adm = 2
+		dip = 2
+		mil = 2
+		claim = 25
+		birth_date = 1418.1.1
+		death_date = 1530.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Lathun"
+		dynasty = "Makikonu"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1402.1.1
+	}
+
+	queen = {
+		country_of_origin = KEA 
+		name = "Metetini"
+		dynasty = "Makikonu"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1393.1.1
+		death_date = 1507.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Loe"
+		monarch_name = "Loe"
+		dynasty = "Makikonu"
+		adm = 4
+		dip = 3
+		mil = 3
+		claim = 75
+		birth_date = 1457.1.1
+		death_date = 1511.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Tithun"
+		dynasty = "Lehuanani"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1476.1.1
+	}
+
+	heir = {
+		name = "Pear"
+		monarch_name = "Pear"
+		dynasty = "Lehuanani"
+		adm = 2
+		dip = 1
+		mil = 4
+		claim = 75
+		birth_date = 1505.1.1
+		death_date = 1579.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Kouei-Lai"
+		dynasty = "Nohealani"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1543.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Sumirat"
+		dynasty = "Kawaiola"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1537.1.1
+	}
+
+	heir = {
+		name = "Tathun"
+		monarch_name = "Tathun"
+		dynasty = "Kawaiola"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1587.1.1
+		death_date = 1677.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Sam"
+		dynasty = "Ho'okano"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1615.1.1
+	}
+
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî"
+		dynasty = "Ho'okano"
+		adm = 4
+		dip = 3
+		mil = 4
+		claim = 25
+		birth_date = 1687.1.1
+		death_date = 1727.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Anuenue"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1659.1.1
+	}
+
+	heir = {
+		name = "Aulani"
+		monarch_name = "Aulani"
+		dynasty = "Anuenue"
+		adm = 1
+		dip = 4
+		mil = 2
+		claim = 50
+		birth_date = 1709.1.1
+		death_date = 1736.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Kainalu"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1725.1.1
+	}
+
+	queen = {
+		country_of_origin = KEA 
+		name = "Moerani"
+		dynasty = "Kainalu"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1720.1.1
+		death_date = 1814.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Vaimiti"
+		monarch_name = "Vaimiti"
+		dynasty = "Kainalu"
+		adm = 2
+		dip = 4
+		mil = 3
+		claim = 75
+		birth_date = 1743.1.1
+		death_date = 1797.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "P'an-lo-yue"
+		dynasty = "Mauna"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1765.1.1
+	}
+
+	heir = {
+		name = "Cheng"
+		monarch_name = "Cheng"
+		dynasty = "Mauna"
+		adm = 5
+		dip = 4
+		mil = 5
+		claim = 25
+		birth_date = 1789.1.1
+		death_date = 1797.1.1
+	}
+}
+

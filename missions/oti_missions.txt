@@ -1,0 +1,498 @@
+atlantis_conquer_france = {
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        france_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_france_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        france_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            france_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        france_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_france_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_british_isles = {
+    # british_isles_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        british_isles_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_british_isles_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        british_isles_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            british_isles_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        british_isles_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_british_isles_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_scandinavia = {
+    # scandinavia_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        scandinavia_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_scandinavia_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        scandinavia_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            scandinavia_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        scandinavia_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_scandinavia_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_low_countries = {
+    # low_countries_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        low_countries_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_low_countries_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        low_countries_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            low_countries_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 3
+        }
+    }
+    abort_effect = {
+        low_countries_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_low_countries_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_italy = {
+    # italy_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        italy_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_italy_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        italy_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            italy_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        italy_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_italy_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_iberia = {
+    # iberia_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        iberia_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_iberia_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        iberia_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            iberia_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        iberia_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_iberia_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_balkans = {
+    # balkan_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        balkan_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_balkan_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        balkan_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            balkan_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        balkan_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_balkan_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_anatolia = {
+    # anatolia_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        anatolia_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_anatolia_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        anatolia_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            anatolia_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        anatolia_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_anatolia_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_german = {
+    # north_german_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        north_german_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_north_german_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        north_german_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            north_german_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        anatolia_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_north_german_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}
+
+atlantis_conquer_baltic = {
+    # baltic_region
+    type = country
+    category = MIL
+    
+    allow = {
+        technology_group = atlantean
+        baltic_region = {
+            has_discovered = ROOT
+		}
+        NOT = { has_country_flag = atlantis_conquer_baltic_done }
+        NOT = { check_variable = { which = pax_atlantica value = 3 } }
+    }
+    abort = {
+        NOT = { num_of_ports = 1 }
+    }
+    immediate = {
+        baltic_region = {
+            limit = { has_port = yes }
+            add_permanent_claim = ROOT
+        }
+    }
+    success = {
+        calc_true_if = {
+            baltic_region = {
+                owned_by = ROOT
+                has_port = yes
+            }
+            amount = 5
+        }
+    }
+    abort_effect = {
+        baltic_region = {
+            limit = { has_port = yes }
+            remove_claim = ROOT
+        }
+	}
+    chance = {
+		factor = 1000
+	}
+    effect = {
+        hidden_effect = {
+            set_country_flag = atlantis_conquer_baltic_done
+            change_variable = { which = pax_atlantica value = 1 }
+        }
+        add_prestige = 50
+        custom_tooltip = PAX_ATLANTICA_PROGRESS
+    }
+}

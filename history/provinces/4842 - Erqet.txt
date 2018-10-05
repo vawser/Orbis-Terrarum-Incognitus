@@ -1,0 +1,17 @@
+# 4842 - Erqet.txt
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 4
+base_production = 6
+base_manpower = 3
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = unknown
+hre = no
+

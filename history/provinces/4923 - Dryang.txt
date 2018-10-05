@@ -1,0 +1,17 @@
+# 4923 - Dryang.txt
+
+owner = PNT
+controller = PNT
+add_core = PNT
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

@@ -1,0 +1,291 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 5055
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Gopala"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1382.1.1
+	}
+
+	heir = {
+		name = "Jaitrasimha"
+		monarch_name = "Jaitrasimha"
+		dynasty = "Gopala"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 50
+		birth_date = 1419.1.1
+		death_date = 1512.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Nâcciyâlvi"
+		dynasty = "Gajapati"
+		adm = 5
+		dip = 1
+		mil = 5
+		birth_date = 1434.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "MariMâtêvatikal"
+		monarch_name = "MariMâtêvatikal"
+		dynasty = "Gajapati"
+		adm = 4
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1442.1.1
+		death_date = 1497.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Krishna"
+		dynasty = "Gajapati"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1411.1.1
+	}
+
+	heir = {
+		name = "Luke"
+		monarch_name = "Luke"
+		dynasty = "Gajapati"
+		adm = 1
+		dip = 1
+		mil = 5
+		claim = 50
+		birth_date = 1472.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Shurapala"
+		dynasty = "Somavansha"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1454.1.1
+	}
+
+	queen = {
+		country_of_origin = ZLO 
+		name = "Malapâti"
+		dynasty = "Somavansha"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1442.1.1
+		death_date = 1537.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ammankâtêvi"
+		monarch_name = "Ammankâtêvi"
+		dynasty = "Somavansha"
+		adm = 3
+		dip = 2
+		mil = 2
+		claim = 100
+		birth_date = 1485.1.1
+		death_date = 1553.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tihunaka"
+		dynasty = "Salisuka"
+		adm = 1
+		dip = 3
+		mil = 5
+		birth_date = 1495.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = ZLO 
+		name = "Fulad"
+		dynasty = "Salisuka"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1480.1.1
+		death_date = 1601.1.1
+	}
+
+	heir = {
+		name = "Ayanna"
+		monarch_name = "Ayanna"
+		dynasty = "Salisuka"
+		adm = 2
+		dip = 5
+		mil = 3
+		claim = 25
+		birth_date = 1555.1.1
+		death_date = 1617.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Raghunatha"
+		dynasty = "Varman"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1549.1.1
+	}
+
+	queen = {
+		country_of_origin = ZLO 
+		name = "Hariyadevi"
+		dynasty = "Varman"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 1556.1.1
+		death_date = 1631.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Hariraja"
+		monarch_name = "Hariraja"
+		dynasty = "Varman"
+		adm = 5
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1599.1.1
+		death_date = 1654.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Pûvânti"
+		dynasty = "Sailavamsa"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1627.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Lakshmisa"
+		monarch_name = "Lakshmisa"
+		dynasty = "Sailavamsa"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1662.1.1
+		death_date = 1780.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Prithviraja"
+		dynasty = "Gangabasi"
+		adm = 3
+		dip = 1
+		mil = 5
+		birth_date = 1651.1.1
+	}
+
+	queen = {
+		country_of_origin = ZLO 
+		name = "Ammaiyâlvi"
+		dynasty = "Gangabasi"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1665.1.1
+		death_date = 1739.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Jaitugideva"
+		monarch_name = "Jaitugideva"
+		dynasty = "Gangabasi"
+		adm = 3
+		dip = 1
+		mil = 2
+		claim = 50
+		birth_date = 1705.1.1
+		death_date = 1766.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Eccumantai"
+		dynasty = "Abbasi"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1677.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Govindaraja"
+		monarch_name = "Govindaraja"
+		dynasty = "Abbasi"
+		adm = 3
+		dip = 4
+		mil = 1
+		claim = 75
+		birth_date = 1742.1.1
+		death_date = 1829.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Karumânikkam"
+		dynasty = "Kohkkar"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1758.1.1
+		female = yes
+	}
+
+}
+

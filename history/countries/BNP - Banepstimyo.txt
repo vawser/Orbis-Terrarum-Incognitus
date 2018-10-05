@@ -1,0 +1,268 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4706
+religious_school = epicurean_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Georgia"
+		dynasty = "Adralestos"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1402.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Eusebia"
+		monarch_name = "Eusebia"
+		dynasty = "Adralestos"
+		adm = 1
+		dip = 3
+		mil = 4
+		claim = 50
+		birth_date = 1442.1.1
+		death_date = 1496.1.1
+		female = yes
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "George"
+		dynasty = "Drosos"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1413.1.1
+	}
+
+	queen = {
+		country_of_origin = BNP 
+		name = "Georgia"
+		dynasty = "Drosos"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1431.1.1
+		death_date = 1494.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Dionysia"
+		monarch_name = "Dionysia"
+		dynasty = "Drosos"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1448.1.1
+		death_date = 1468.1.1
+		female = yes
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Bartholomaios"
+		dynasty = "Moroiannes"
+		adm = 3
+		dip = 2
+		mil = 5
+		birth_date = 1406.1.1
+	}
+
+	queen = {
+		country_of_origin = BNP 
+		name = "Eirene"
+		dynasty = "Moroiannes"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1423.1.1
+		death_date = 1527.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Himerios"
+		monarch_name = "Himerios"
+		dynasty = "Moroiannes"
+		adm = 5
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1463.1.1
+		death_date = 1522.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Eustathia"
+		dynasty = "Kritopolos"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1448.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Demetrios"
+		monarch_name = "Demetrios"
+		dynasty = "Kritopolos"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1500.1.1
+		death_date = 1573.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Petros"
+		dynasty = "Triphyllios"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1480.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Hypatia"
+		dynasty = "Gidos"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1563.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Anthimos"
+		monarch_name = "Anthimos"
+		dynasty = "Gidos"
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 100
+		birth_date = 1590.1.1
+		death_date = 1663.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Manuel"
+		dynasty = "Kabakes"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1620.1.1
+	}
+
+	heir = {
+		name = "Chrysanthos"
+		monarch_name = "Chrysanthos"
+		dynasty = "Kabakes"
+		adm = 4
+		dip = 3
+		mil = 3
+		claim = 100
+		birth_date = 1696.1.1
+		death_date = 1731.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Julia"
+		dynasty = "Stamopatas"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1695.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Petros"
+		monarch_name = "Petros"
+		dynasty = "Stamopatas"
+		adm = 2
+		dip = 5
+		mil = 4
+		claim = 75
+		birth_date = 1686.1.1
+		death_date = 1729.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Gerasimos"
+		dynasty = "Makrembolites"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1699.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Matthaios"
+		monarch_name = "Matthaios"
+		dynasty = "Makrembolites"
+		adm = 1
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1755.1.1
+		death_date = 1763.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Nestor"
+		dynasty = "Karabitziotes"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1745.1.1
+	}
+
+	heir = {
+		name = "Bartolomeus"
+		monarch_name = "Bartolomeus"
+		dynasty = "Karabitziotes"
+		adm = 2
+		dip = 3
+		mil = 1
+		claim = 100
+		birth_date = 1785.1.1
+		death_date = 1809.1.1
+	}
+}
+

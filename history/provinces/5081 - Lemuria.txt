@@ -1,0 +1,17 @@
+
+owner = MAT
+controller = MAT
+add_core = MAT
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
+culture = kakushivilar
+religion = hurufi
+
+trade_goods = fish
+hre = no
+
+

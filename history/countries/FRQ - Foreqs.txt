@@ -1,0 +1,285 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4598
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Bhert-Patt"
+		dynasty = "Chaulukya"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1386.1.1
+	}
+
+	heir = {
+		name = "Kanhadadeva"
+		monarch_name = "Kanhadadeva"
+		dynasty = "Chaulukya"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1435.1.1
+		death_date = 1490.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Hamirji"
+		dynasty = "Kohkkar"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1419.1.1
+	}
+
+	heir = {
+		name = "Krishna"
+		monarch_name = "Krishna"
+		dynasty = "Kohkkar"
+		adm = 2
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1429.1.1
+		death_date = 1541.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Bhuyikadevi"
+		dynasty = "Langa"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1440.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Nâtittañcâttan"
+		monarch_name = "Nâtittañcâttan"
+		dynasty = "Langa"
+		adm = 3
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1458.1.1
+		death_date = 1543.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Ramachandra"
+		dynasty = "Malhi"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1433.1.1
+	}
+
+	queen = {
+		country_of_origin = FRQ 
+		name = "Rebecca"
+		dynasty = "Malhi"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1451.1.1
+		death_date = 1544.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Vairisimha"
+		monarch_name = "Vairisimha"
+		dynasty = "Malhi"
+		adm = 3
+		dip = 3
+		mil = 1
+		claim = 25
+		birth_date = 1504.1.1
+		death_date = 1595.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Prithvipal"
+		dynasty = "Baland"
+		adm = 2
+		dip = 4
+		mil = 1
+		birth_date = 1542.1.1
+	}
+
+	queen = {
+		country_of_origin = FRQ 
+		name = "Kariyamâtêvi"
+		dynasty = "Baland"
+		adm = 4
+		dip = 5
+		mil = 2
+		birth_date = 1530.1.1
+		death_date = 1614.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Irâcâtirâcatevar"
+		monarch_name = "Irâcâtirâcatevar"
+		dynasty = "Baland"
+		adm = 1
+		dip = 1
+		mil = 2
+		claim = 25
+		birth_date = 1557.1.1
+		death_date = 1588.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Sohiya"
+		dynasty = "Gautam"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1529.1.1
+	}
+
+	heir = {
+		name = "Jacob"
+		monarch_name = "Jacob"
+		dynasty = "Gautam"
+		adm = 5
+		dip = 2
+		mil = 3
+		claim = 25
+		birth_date = 1579.1.1
+		death_date = 1687.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Ayanna"
+		dynasty = "Tomara"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1670.1.1
+	}
+
+	heir = {
+		name = "Tribhuvanapala"
+		monarch_name = "Tribhuvanapala"
+		dynasty = "Tomara"
+		adm = 1
+		dip = 5
+		mil = 5
+		claim = 75
+		birth_date = 1683.1.1
+		death_date = 1757.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Athirajendra"
+		dynasty = "Yayvapala"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1649.1.1
+	}
+
+	heir = {
+		name = "Brahmamârâyar"
+		monarch_name = "Brahmamârâyar"
+		dynasty = "Yayvapala"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1682.1.1
+		death_date = 1765.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Govindaraja"
+		dynasty = "Keladi"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1731.1.1
+	}
+
+	heir = {
+		name = "Lunavarman"
+		monarch_name = "Lunavarman"
+		dynasty = "Keladi"
+		adm = 2
+		dip = 1
+		mil = 1
+		claim = 50
+		birth_date = 1731.1.1
+		death_date = 1803.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Chokkanatha"
+		dynasty = "Ajaka"
+		adm = 5
+		dip = 2
+		mil = 2
+		birth_date = 1735.1.1
+	}
+
+	queen = {
+		country_of_origin = FRQ 
+		name = "Mailaladevi"
+		dynasty = "Ajaka"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1736.1.1
+		death_date = 1808.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Chaud-Singh"
+		monarch_name = "Chaud-Singh"
+		dynasty = "Ajaka"
+		adm = 5
+		dip = 3
+		mil = 4
+		claim = 100
+		birth_date = 1753.1.1
+		death_date = 1819.1.1
+	}
+}
+

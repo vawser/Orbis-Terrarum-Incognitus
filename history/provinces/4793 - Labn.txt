@@ -1,0 +1,21 @@
+# 4793 - Labn.txt
+
+is_city = no
+native_size = 10
+native_ferocity = 5
+native_hostileness = 5
+
+base_tax = 5
+base_production = 5
+base_manpower = 6
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = unknown
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}

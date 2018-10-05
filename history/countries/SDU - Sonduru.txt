@@ -1,0 +1,242 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = hurufi
+primary_culture = sinhala
+capital = 5090
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Jay-Singh"
+		dynasty = "Rajgond"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1355.1.1
+	}
+
+	queen = {
+		country_of_origin = SDU 
+		name = "Ceyyacôlam"
+		dynasty = "Rajgond"
+		adm = 5
+		dip = 4
+		mil = 1
+		birth_date = 1361.1.1
+		death_date = 1452.1.1
+		female = yes
+	}
+
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Sidhraj"
+		dynasty = "Somavansha"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 1370.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Madanapala"
+		dynasty = "Chindaka"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1471.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Mahendravarman"
+		dynasty = "Bhullara"
+		adm = 3
+		dip = 5
+		mil = 2
+		birth_date = 1427.1.1
+	}
+
+	heir = {
+		name = "Singhana"
+		monarch_name = "Singhana"
+		dynasty = "Bhullara"
+		adm = 1
+		dip = 5
+		mil = 5
+		claim = 25
+		birth_date = 1501.1.1
+		death_date = 1523.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Ranaditya"
+		dynasty = "Saluva"
+		adm = 1
+		dip = 3
+		mil = 4
+		birth_date = 1520.1.1
+	}
+
+	queen = {
+		country_of_origin = SDU 
+		name = "Tûnkânai"
+		dynasty = "Saluva"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1531.1.1
+		death_date = 1584.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mahap"
+		monarch_name = "Mahap"
+		dynasty = "Saluva"
+		adm = 5
+		dip = 3
+		mil = 3
+		claim = 100
+		birth_date = 1576.1.1
+		death_date = 1609.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Maladeva"
+		dynasty = "Ladakhi"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1583.1.1
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Zacharria"
+		dynasty = "Chauhan"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1673.1.1
+	}
+
+	heir = {
+		name = "Mariamma"
+		monarch_name = "Mariamma"
+		dynasty = "Chauhan"
+		adm = 5
+		dip = 1
+		mil = 3
+		claim = 25
+		birth_date = 1662.1.1
+		death_date = 1741.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Valhanadeva"
+		dynasty = "Keshari"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1700.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Rudrani"
+		dynasty = "Thanjavuri"
+		adm = 3
+		dip = 5
+		mil = 1
+		birth_date = 1657.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = SDU 
+		name = "Avaniyâlappirantâr"
+		dynasty = "Thanjavuri"
+		adm = 5
+		dip = 1
+		mil = 3
+		birth_date = 1657.1.1
+		death_date = 1762.1.1
+	}
+
+	heir = {
+		name = "Sikandar"
+		monarch_name = "Sikandar"
+		dynasty = "Thanjavuri"
+		adm = 2
+		dip = 2
+		mil = 1
+		claim = 50
+		birth_date = 1750.1.1
+		death_date = 1829.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Vigraharaja"
+		dynasty = "Parmar"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1762.1.1
+	}
+
+	queen = {
+		country_of_origin = SDU 
+		name = "Thirumalambike"
+		dynasty = "Parmar"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1746.1.1
+		death_date = 1801.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mâtevipattan"
+		monarch_name = "Mâtevipattan"
+		dynasty = "Parmar"
+		adm = 4
+		dip = 1
+		mil = 2
+		claim = 25
+		birth_date = 1774.1.1
+		death_date = 1815.1.1
+	}
+}
+

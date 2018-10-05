@@ -1,0 +1,17 @@
+
+owner = NUV
+controller = NUV
+add_core = NUV
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 3
+
+culture = sinhala
+religion = nasrani
+
+trade_goods = livestock
+hre = no
+
+

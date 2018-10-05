@@ -1,0 +1,311 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = hurufi
+primary_culture = kakushivilar
+capital = 5088
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Amarabhujanga"
+		dynasty = "Yayvapala"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1411.1.1
+	}
+
+	queen = {
+		country_of_origin = MAC 
+		name = "Pavitram"
+		dynasty = "Yayvapala"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1395.1.1
+		death_date = 1490.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Rajasekhara"
+		monarch_name = "Rajasekhara"
+		dynasty = "Yayvapala"
+		adm = 3
+		dip = 2
+		mil = 3
+		claim = 100
+		birth_date = 1442.1.1
+		death_date = 1508.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Vigraharaja"
+		dynasty = "Vaidumba"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1370.1.1
+	}
+
+	heir = {
+		name = "Varakunan"
+		monarch_name = "Varakunan"
+		dynasty = "Vaidumba"
+		adm = 5
+		dip = 5
+		mil = 1
+		claim = 100
+		birth_date = 1416.1.1
+		death_date = 1504.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Kirtivarman"
+		dynasty = "Sama"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1464.1.1
+	}
+
+	queen = {
+		country_of_origin = MAC 
+		name = "Ankâti"
+		dynasty = "Sama"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 1454.1.1
+		death_date = 1556.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kantarâtitta"
+		monarch_name = "Kantarâtitta"
+		dynasty = "Sama"
+		adm = 3
+		dip = 4
+		mil = 5
+		claim = 50
+		birth_date = 1465.1.1
+		death_date = 1553.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Amritapala"
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1449.1.1
+	}
+
+	queen = {
+		country_of_origin = MAC 
+		name = "Irâcinkam"
+		dynasty = "Hoysala"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1460.1.1
+		death_date = 1539.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mumtaz"
+		monarch_name = "Mumtaz"
+		dynasty = "Hoysala"
+		adm = 5
+		dip = 2
+		mil = 5
+		claim = 75
+		birth_date = 1497.1.1
+		death_date = 1544.1.1
+		female = yes
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Câramutaiyân"
+		dynasty = "Sayyidi"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1519.1.1
+	}
+
+	heir = {
+		name = "Cimmavisnu"
+		monarch_name = "Cimmavisnu"
+		dynasty = "Sayyidi"
+		adm = 1
+		dip = 3
+		mil = 4
+		claim = 50
+		birth_date = 1568.1.1
+		death_date = 1616.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Parameswaravarman"
+		dynasty = "Malhi"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1546.1.1
+	}
+
+	queen = {
+		country_of_origin = MAC 
+		name = "Ariñcikaippirâttiyâr"
+		dynasty = "Malhi"
+		adm = 5
+		dip = 1
+		mil = 4
+		birth_date = 1541.1.1
+		death_date = 1635.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Sripadaraya"
+		dynasty = "Chand"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1623.1.1
+	}
+
+	queen = {
+		country_of_origin = MAC 
+		name = "Mañcavi"
+		dynasty = "Chand"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 1605.1.1
+		death_date = 1704.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Harivarman"
+		monarch_name = "Harivarman"
+		dynasty = "Chand"
+		adm = 5
+		dip = 4
+		mil = 5
+		claim = 25
+		birth_date = 1691.1.1
+		death_date = 1769.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Naltêviyâr"
+		dynasty = "Kuru"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1619.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Mâtevapattan"
+		monarch_name = "Mâtevapattan"
+		dynasty = "Kuru"
+		adm = 1
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1699.1.1
+		death_date = 1803.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Devapala"
+		dynasty = "Silavamsi"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1731.1.1
+	}
+
+	queen = {
+		country_of_origin = MAC 
+		name = "Kâraikkâl"
+		dynasty = "Silavamsi"
+		adm = 4
+		dip = 1
+		mil = 2
+		birth_date = 1744.1.1
+		death_date = 1769.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bhuvan-Singh"
+		monarch_name = "Bhuvan-Singh"
+		dynasty = "Silavamsi"
+		adm = 5
+		dip = 5
+		mil = 3
+		claim = 50
+		birth_date = 1749.1.1
+		death_date = 1803.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Jayavarman"
+		dynasty = "Baland"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1758.1.1
+	}
+
+	heir = {
+		name = "Krishnappa"
+		monarch_name = "Krishnappa"
+		dynasty = "Baland"
+		adm = 4
+		dip = 2
+		mil = 2
+		claim = 50
+		birth_date = 1777.1.1
+		death_date = 1877.1.1
+	}
+}
+

@@ -1,0 +1,16 @@
+
+owner = SOR
+controller = SOR
+add_core = SOR
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = paper
+hre = no
+

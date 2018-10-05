@@ -1,0 +1,16 @@
+# 4509 - Arcadesis.txt
+owner = ELA
+controller = ELA
+add_core = ELA
+is_city = yes
+
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = paper
+hre = no
+

@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4584
+religious_school = cynic_school
+
+1444.11.10 = {
+	monarch = {
+		name = "Misra"
+		dynasty = "Maggus"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

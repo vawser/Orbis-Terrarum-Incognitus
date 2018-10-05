@@ -1,0 +1,17 @@
+# 4915 - Na'ine.txt
+
+owner = PNX
+controller = PNX
+add_core = PNX
+
+is_city = yes
+base_tax = 5
+base_production = 2
+base_manpower = 5
+
+culture = hairen
+religion = mazu
+
+trade_goods = fish
+hre = no
+

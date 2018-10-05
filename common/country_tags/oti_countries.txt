@@ -1,0 +1,147 @@
+# Formables
+ATL = "countries/Atlantis.txt"
+LER = "countries/Lemuria.txt"
+PYS = "countries/Polynesia.txt"
+MZZ = "countries/Mazu.txt"
+EOC = "countries/Empire of Cthulhu.txt"
+ILI = "countries/Antillia.txt"
+
+# Atlantis
+ANX = "countries/Anaxophas.txt"     # hellenic, atlantean, despotic_monarchy
+APF = "countries/Anthropofagoi.txt" # hellenic, atlantean, despotic_monarchy
+ATE = "countries/Aterpea.txt"       # hellenic, atlantean, merchant_republic
+ATZ = "countries/Artzainoi.txt"     # hellenic, atlantean, merchant_republic
+BNP	= "countries/Banepstimyo.txt"   # hellenic, atlantean, despotic_monarchy
+ICH	= "countries/Ichthyofagoi.txt"  # hellenic, atlantean, despotic_monarchy
+IND = "countries/Indarra.txt"       # hellenic, atlantean, merchant_republic
+KNV = "countries/Kanivalon.txt"     # hellenic, atlantean, despotic_monarchy
+MEL = "countries/Melachrinoi.txt"   # hellenic, atlantean, despotic_monarchy
+OIN = "countries/Oinordekoek.txt"   # hellenic, atlantean, despotic_monarchy
+SOR	= "countries/Sorginak.txt"      # hellenic, atlantean, despotic_monarchy
+TCH = "countries/Trichotos.txt"     # hellenic, atlantean, despotic_monarchy
+AMP = "countries/Ampheres.txt"      # hellenic, atlantean, despotic_monarchy
+EVA = "countries/Evaemon.txt"       # hellenic, atlantean, merchant_republic
+MNE = "countries/Mneseus.txt"       # hellenic, atlantean, despotic_monarchy
+AUT = "countries/Autochthon.txt"    # hellenic, atlantean, despotic_monarchy
+ELA = "countries/Elasippus.txt"     # hellenic, atlantean, despotic_monarchy
+MES = "countries/Mestor.txt"        # hellenic, atlantean, despotic_monarchy
+AZA = "countries/Azaes.txt"         # hellenic, atlantean, merchant_republic
+DIA = "countries/Diaprepes.txt"     # hellenic, atlantean, despotic_monarchy
+
+# Viking
+THL = "countries/Thule.txt"         # hellenic, atlantean, merchant_republic
+
+# Antillia
+ARI = "countries/Aria.txt"          # catholic, antillian, feudal_monarchy
+AUB = "countries/Antuab.txt"        # catholic, antillian, feudal_monarchy
+ASL = "countries/Ansalli.txt"       # catholic, antillian, feudal_monarchy
+ALI = "countries/Ansesseli.txt"     # catholic, antillian, feudal_monarchy
+ASD = "countries/Ansodi.txt"        # catholic, antillian, feudal_monarchy
+ASO = "countries/Ansolli.txt"       # catholic, antillian, feudal_monarchy
+CNX = "countries/Con_x.txt"         # catholic, antillian, feudal_monarchy
+
+# Lemuria
+AGA = "countries/Aghatia.txt"       # asakti, lemurian, feudal_monarchy
+AKA = "countries/Akamatuli.txt"     # hurufi, kakushivilar, theocratic_government
+BHG = "countries/Bahrograbia.txt"   # asakti, lemurian, feudal_monarchy
+COA = "countries/Chola.txt"         # asakti, lemurian, feudal_monarchy
+CRU = "countries/Crul.txt"          # asakti, lemurian, despotic_monarchy
+DEZ = "countries/Dezumen.txt"       # asakti, lemurian, tribal_kingdom
+DJI = "countries/Djelibeibi.txt"    # asakti, lemurian, tribal_kingdom
+EFI = "countries/Efiib.txt"         # asakti, lemurian, tribal_kingdom
+FRQ = "countries/Foreqs.txt"        # asakti, lemurian, tribal_kingdom
+HAO = "countries/Haondulend.txt"    # animism, laxian, tribal_despotism
+HER = "countries/Hersheva.txt"      # asakti, lemurian, feudal_monarchy
+IZT = "countries/Iztansia.txt"      # asakti, lemurian, feudal_monarchy
+JEN = "countries/Jenwa.txt"         # asakti, lemurian, theocratic_government
+KUM = "countries/Kumari.txt"        # asakti, lemurian, feudal_monarchy
+KWI = "countries/Kwirm.txt"         # asakti, lemurian, despotic_monarchy
+LMM = "countries/Lammedos.txt"      # asakti, lemurian, feudal_monarchy
+LNK = "countries/Lankr.txt"         # asakti, lemurian, feudal_monarchy
+LRS = "countries/Lors-Pauseni.txt"  # hurufi, kakushivilar, feudal_monarchy
+MAC = "countries/Macehualuti.txt"   # hurufi, kakushivilar, despotic_monarchy
+MAT = "countries/Matahuli.txt"      # hurufi, kakushivilar, feudal_monarchy
+MEK = "countries/MeruKaketi.txt"    # hurufi, kakushivilar, feudal_monarchy
+MHU = "countries/Mhuntab.txt"       # animism, laxian, tribal_despotism
+NUV = "countries/Nuvara.txt"        # nasrani, lemurian, theocratic_government
+PAN = "countries/Pantiya.txt"       # asakti, lemurian, feudal_monarchy
+QLA = "countries/Qlach.txt"         # asakti, lemurian, feudal_monarchy
+SDP = "countries/Sudopalis.txt"     # asakti, lemurian, tribal_kingdom
+SDU = "countries/Sonduru.txt"       # hurufi, sinhala, tribal_kingdom
+SID = "countries/Sidura.txt"        # nasrani, sinhala, theocratic_government
+STO = "countries/Stolat.txt"        # asakti, lemurian, despotic_monarchy
+TUO = "countries/Tuoledi.txt"       # asakti, lemurian, despotic_monarchy
+UTU = "countries/Utura.txt"         # buddhism, lemurian, theocratic_government
+VNG = "countries/Vangvangdaq.txt"   # asakti, lemurian, despotic_monarchy
+YUB = "countries/Yubervalt.txt"     # asakti, lemurian, despotic_monarchy
+ZLO = "countries/Zlobenea.txt"      # asakti, lemurian, despotic_monarchy
+
+# Humour
+ANK = "countries/AnkMoarporq.txt"   # offlian, discworlder, patricianship
+OMM = "countries/Ommnya.txt"        # omnian, discworlder, cenobiarchy
+
+# Mu
+ALJ = "countries/Aljiraq.txt"           # dragon_gods, gulamur, despotic_monarchy
+GAN = "countries/Ganara.txt"            # dragon_gods, muror, despotic_monarchy
+GEQ = "countries/Geq.txt"               # dragon_gods, gulamur, despotic_monarchy
+GOP = "countries/Goprug.txt"            # dragon_gods, mul, despotic_monarchy
+GUL = "countries/Gula.txt"              # dragon_gods, gulamur, despotic_monarchy
+JIJ = "countries/Jijeq.txt"             # dragon_gods, gulamur, despotic_monarchy
+LAB = "countries/Labn.txt"              # dragon_gods, muror, despotic_monarchy
+MLL = "countries/Mul.txt"               # dragon_gods, mul, merchant_republic
+MUR = "countries/Mur.txt"               # dragon_gods, muror, feudal_monarchy
+MUU = "countries/Mu.txt"                # dragon_gods, muror, feudal_monarchy
+NJI = "countries/Neji.txt"              # dragon_gods, muror, feudal_monarchy
+QTI = "countries/Q'tir.txt"             # dragon_gods, muror, despotic_monarchy
+TOL = "countries/Tollang.txt"           # dragon_gods, muror, despotic_monarchy
+VAS = "countries/Vashparaq.txt"         # dragon_gods, gulamur, despotic_monarchy
+YOL = "countries/Yollohtli.txt"         # dragon_gods, muror, despotic_monarchy
+YTK = "countries/Yatiklik.txt"          # dragon_gods, muror, despotic_monarchy
+
+# Polynesian Muror 
+AIH = "countries/Aiheretata.txt"        # arior, tahitian, tribal_despotism
+AKI = "countries/Akamai.txt"            # tangata_manu, rapanni, tribal_democracy
+AWA = "countries/Awaruru.txt"           # arioi, samoan, tribal_kingdom
+HOU = "countries/Houpo'e.txt"           # arioi, savaikian, tribal_kingdom
+IKA = "countries/Ikaika.txt"            # arioi, savaikian, tribal_kingdom
+ITI = "countries/Ititangata.txt"        # arioi, samoan, tribal_kingdom
+KEA = "countries/Kealakekua.txt"        # tiki, hawaiian, tribal_democracy
+MAU = "countries/Maumota.txt"           # arior, tongan, tribal_kingdom
+MLH = "countries/Malihini.txt"          # tiki, savaikian, tribal_kingdom
+MUI = "countries/Mui.txt"               # tiki, hawaiian, tribal_democracy
+NGI = "countries/Ngati.txt"             # arior, tongan, tribal_kingdom
+PAK = "countries/Pakiriivi.txt"         # arioi, samoan, tribal_kingdom
+PKA = "countries/Paraka'a.txt"          # tangata_manu, rapanni, tribal_democracy
+TAH = "countries/Tahiti.txt"            # arior, tahitian, tribal_despotism
+TRN = "countries/Taringaturi.txt"       # arior, tongan, tribal_despotism
+URI = "countries/Uriivi.txt"            # arioi, savaikian, tribal_kingdom
+WAP = "countries/Waponi.txt"            # tiki, waponi, tribal_despotism
+
+# Hairen islands
+CHN = "countries/Chuanmin.txt"          # mazu, hairen, tribal_federation
+DAO = "countries/Daomin.txt"            # mazu, hairen, tribal_democracy
+HAY = "countries/Haiyuan.txt"           # mazu, hairen, tribal_federation
+HUO = "countries/Huozaidaomin.txt"      # mazu, hairen, tribal_federation
+LNS = "countries/Lanseren.txt"          # mazu, hairen, tribal_democracy
+LUD = "countries/Ludaoren.txt"          # mazu, hairen, tribal_federation
+PNT = "countries/Pantu.txt"             # mazu, hairen, tribal_democracy
+PNX = "countries/Panxiederen.txt"       # mazu, hairen, tribal_federation
+YUM = "countries/Yumin.txt"             # mazu, hairen, tribal_democracy
+YUR = "countries/Yuren.txt"             # mazu, hairen, tribal_federation
+ZHE = "countries/Zhenzhuren.txt"        # mazu, hairen, tribal_democracy
+
+# Occult
+CTH = "countries/Cthulhu.txt"               # cthulu, cthulu_worship, cult
+YOG = "countries/Yog-Sothoth.txt"           # yog_sothoth, yog_sothoth, cult
+NYR = "countries/Nyarlathotep.txt"          # nyarlathotep, nyarlathotep, cult
+SHB = "countries/Shub-Niggurath.txt"        # shub_niggurath, shub_niggurath, cult
+HSR = "countries/Hastur.txt"                # hastur, hastur, cult
+DAG = "countries/Dagon.txt"                 # dagon, dagon, cult
+TSA = "countries/Tsathoggua.txt"            # tsathoggua, tsathoggua, cult
+
+EOY = "countries/Empire of Yog-Sothoth.txt"
+EON = "countries/Empire of Nyarlathotep.txt"
+EOS = "countries/Empire of Shub-Niggurath.txt"
+EOH = "countries/Empire of Hastur.txt"
+EOD = "countries/Empire of Dagon.txt"
+EOT = "countries/Empire of Tsathoggua.txt"

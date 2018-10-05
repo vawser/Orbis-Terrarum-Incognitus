@@ -1,0 +1,15 @@
+owner = YOG
+controller = YOG
+add_core = YOG
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 2
+
+culture = yog_sothoth
+religion = yog_sothoth
+
+trade_goods = livestock
+hre = no
+

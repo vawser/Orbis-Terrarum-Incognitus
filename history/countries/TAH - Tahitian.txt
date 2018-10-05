@@ -1,0 +1,251 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = tahitian
+capital = 4885
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Kealii"
+		dynasty = "Ikepela"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1401.1.1
+	}
+
+	heir = {
+		name = "Konala"
+		monarch_name = "Konala"
+		dynasty = "Ikepela"
+		adm = 3
+		dip = 2
+		mil = 5
+		claim = 50
+		birth_date = 1436.1.1
+		death_date = 1510.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Hayam"
+		dynasty = "Ho'okano"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 1419.1.1
+	}
+
+	heir = {
+		name = "Rattirai"
+		monarch_name = "Rattirai"
+		dynasty = "Ho'okano"
+		adm = 5
+		dip = 5
+		mil = 4
+		claim = 100
+		birth_date = 1438.1.1
+		death_date = 1463.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Keoni"
+		dynasty = "Hi'iaka"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1393.1.1
+	}
+
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Abu"
+		dynasty = "Selangor"
+		adm = 5
+		dip = 1
+		mil = 2
+		birth_date = 1464.1.1
+	}
+
+	heir = {
+		name = "Shah"
+		monarch_name = "Shah"
+		dynasty = "Selangor"
+		adm = 5
+		dip = 2
+		mil = 5
+		claim = 100
+		birth_date = 1496.1.1
+		death_date = 1575.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Kertawardhana"
+		dynasty = "Aceh"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1483.1.1
+	}
+
+	heir = {
+		name = "Mu'azzam"
+		monarch_name = "Mu'azzam"
+		dynasty = "Aceh"
+		adm = 4
+		dip = 1
+		mil = 1
+		claim = 100
+		birth_date = 1545.1.1
+		death_date = 1603.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Indravarman"
+		dynasty = "Pahang"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1527.1.1
+	}
+
+	heir = {
+		name = "Pekelo"
+		monarch_name = "Pekelo"
+		dynasty = "Pahang"
+		adm = 2
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1581.1.1
+		death_date = 1634.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Heleakala"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1613.1.1
+	}
+
+	queen = {
+		country_of_origin = TAH 
+		name = "Shâh"
+		dynasty = "Heleakala"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1602.1.1
+		death_date = 1722.1.1
+	}
+
+	heir = {
+		name = "Poenui"
+		monarch_name = "Poenui"
+		dynasty = "Heleakala"
+		adm = 1
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1684.1.1
+		death_date = 1712.1.1
+		female = yes
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Kamea"
+		dynasty = "Pattani"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1636.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = TAH 
+		name = "Inoke"
+		dynasty = "Pattani"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1656.1.1
+		death_date = 1748.1.1
+	}
+
+	heir = {
+		name = "Qasim"
+		monarch_name = "Qasim"
+		dynasty = "Pattani"
+		adm = 4
+		dip = 1
+		mil = 3
+		claim = 100
+		birth_date = 1707.1.1
+		death_date = 1738.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Girishawardhana"
+		dynasty = "Lono"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1728.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Wijaya"
+		monarch_name = "Wijaya"
+		dynasty = "Lono"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 50
+		birth_date = 1746.1.1
+		death_date = 1805.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Cirebon"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1732.1.1
+	}
+
+}
+

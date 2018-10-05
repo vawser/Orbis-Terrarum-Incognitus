@@ -1,0 +1,5 @@
+government = cult
+government_rank = 3
+primary_culture = dagon
+religion = dagon
+technology_group = occult

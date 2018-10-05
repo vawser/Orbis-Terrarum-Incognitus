@@ -1,0 +1,17 @@
+
+owner = KNV
+controller = KNV
+add_core = KNV
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 1
+
+culture = atlantean
+religion = hellenic
+
+trade_goods = salt
+hre = no
+
+

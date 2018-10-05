@@ -1,0 +1,18 @@
+# 4835 - Taua.txt
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 3
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = fish
+hre = no
+
+

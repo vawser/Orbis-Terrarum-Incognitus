@@ -1,0 +1,17 @@
+# 4600 - Langi.txt
+
+owner = KWI
+controller = KWI
+add_core = KWI
+is_city = yes
+
+base_tax = 6
+base_production = 6
+base_manpower = 6
+
+culture = lemurian
+religion = asakti
+
+trade_goods = glass
+hre = no
+

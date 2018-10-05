@@ -1,0 +1,23 @@
+# 4818 - Eztli.txt
+
+owner = MLL
+controller = MLL
+add_core = MLL
+is_city = yes
+
+base_tax = 5
+base_production = 5
+base_manpower = 4
+
+culture = mul
+religion = dragon_gods
+
+trade_goods = livestock
+hre = no
+
+add_permanent_province_modifier = {
+	name = river_estuary_modifier
+	duration = -1
+}
+
+

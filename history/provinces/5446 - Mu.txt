@@ -1,0 +1,17 @@
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = gold
+hre = no
+
+

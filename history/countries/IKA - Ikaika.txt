@@ -1,0 +1,284 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = savaikian
+capital = 5256
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Pekelo"
+		dynasty = "Hau'oli"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1418.1.1
+	}
+
+	queen = {
+		country_of_origin = IKA 
+		name = "Ko"
+		dynasty = "Hau'oli"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1404.1.1
+		death_date = 1454.1.1
+	}
+
+	heir = {
+		name = "Nga"
+		monarch_name = "Nga"
+		dynasty = "Hau'oli"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 50
+		birth_date = 1416.1.1
+		death_date = 1487.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "cheng"
+		dynasty = "Melaka"
+		adm = 4
+		dip = 1
+		mil = 3
+		birth_date = 1398.1.1
+	}
+
+	queen = {
+		country_of_origin = IKA 
+		name = "Moeata"
+		dynasty = "Melaka"
+		adm = 4
+		dip = 1
+		mil = 5
+		birth_date = 1413.1.1
+		death_date = 1533.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kertabumi"
+		monarch_name = "Kertabumi"
+		dynasty = "Melaka"
+		adm = 4
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1446.1.1
+		death_date = 1525.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Samprangan"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1437.1.1
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Samprangan"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 75
+		birth_date = 1492.1.1
+		death_date = 1515.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Makani"
+		dynasty = "Lanakila"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1410.1.1
+	}
+
+	heir = {
+		name = "Cheng"
+		monarch_name = "Cheng"
+		dynasty = "Lanakila"
+		adm = 4
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1475.1.1
+		death_date = 1529.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Ko"
+		dynasty = "Siak"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1527.1.1
+	}
+
+	queen = {
+		country_of_origin = IKA 
+		name = "Jaya"
+		dynasty = "Siak"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1539.1.1
+		death_date = 1608.1.1
+	}
+
+	heir = {
+		name = "Chong"
+		monarch_name = "Chong"
+		dynasty = "Siak"
+		adm = 4
+		dip = 1
+		mil = 2
+		claim = 100
+		birth_date = 1574.1.1
+		death_date = 1596.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "'Abd"
+		dynasty = "Kelantan"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1584.1.1
+	}
+
+	queen = {
+		country_of_origin = IKA 
+		name = "Orama"
+		dynasty = "Kelantan"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1577.1.1
+		death_date = 1638.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "P'an-lo-yue"
+		dynasty = "Alealani"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 1665.1.1
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Alealani"
+		adm = 1
+		dip = 4
+		mil = 1
+		claim = 100
+		birth_date = 1673.1.1
+		death_date = 1731.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Kimo"
+		dynasty = "Palembang"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1676.1.1
+	}
+
+	heir = {
+		name = "Shah"
+		monarch_name = "Shah"
+		dynasty = "Palembang"
+		adm = 5
+		dip = 4
+		mil = 2
+		claim = 50
+		birth_date = 1712.1.1
+		death_date = 1789.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Aceh"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1734.1.1
+	}
+
+	heir = {
+		name = "Chong"
+		monarch_name = "Chong"
+		dynasty = "Aceh"
+		adm = 5
+		dip = 1
+		mil = 1
+		claim = 75
+		birth_date = 1751.1.1
+		death_date = 1764.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "'Abd"
+		dynasty = "Nohealani"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1768.1.1
+	}
+
+	heir = {
+		name = "Moeata"
+		monarch_name = "Moeata"
+		dynasty = "Nohealani"
+		adm = 5
+		dip = 1
+		mil = 2
+		claim = 75
+		birth_date = 1786.1.1
+		death_date = 1818.1.1
+		female = yes
+	}
+}
+

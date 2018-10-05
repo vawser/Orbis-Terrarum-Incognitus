@@ -1,0 +1,31 @@
+has_dragon_scholars_trigger = {
+	custom_trigger_tooltip = {
+		tooltip = has_religious_scholars_trigger_tooltip
+		OR = {
+			has_country_modifier = dragon_school_yellow_modifier
+			has_country_modifier = dragon_school_blue_modifier
+			has_country_modifier = dragon_school_cyan_modifier
+			has_country_modifier = dragon_school_green_modifier
+			has_country_modifier = dragon_school_red_modifier
+			has_country_modifier = dragon_school_purple_modifier
+		}
+	}
+}
+
+dragon_scholar_from_our_school_trigger = {
+	has_country_modifier = dragon_school_$school$_modifier
+	ROOT = {
+		religious_school = {
+			group = muror
+			school = $school$_school
+		}
+	}
+}
+our_dragon_scholar_matches_their_school_trigger = {
+	PREV = { has_country_modifier = dragon_school_$school$_modifier }
+	religious_school = {
+		group = muror
+		school = $school$_school
+	}
+}
+

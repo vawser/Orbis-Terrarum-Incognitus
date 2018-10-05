@@ -1,0 +1,21 @@
+# 4813 - Himene.txt
+owner = NJI
+controller = NJI
+add_core = NJI
+is_city = yes
+
+base_tax = 6
+base_production = 6
+base_manpower = 7
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = tobacco
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+

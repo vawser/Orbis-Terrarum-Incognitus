@@ -1,0 +1,105 @@
+superiority_atlantean_unification = {
+	type = superiority
+	
+	attacker = {
+		badboy_factor = 0.5
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5
+		
+		allowed_provinces = {
+			region = atlantis_region
+		}
+		
+		peace_options = {
+			po_demand_provinces
+		}
+		
+		country_desc = ALL_CGROUP_COUNTRIES
+		prov_desc = ALL_ATLANTIS_PROVS
+	}
+	
+	defender = {
+		badboy_factor = 0.5
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5
+		
+		allowed_provinces = {
+			region = atlantis_region
+		}
+		
+		peace_options = {
+			po_demand_provinces
+		}
+		
+		country_desc = ALL_CGROUP_COUNTRIES
+		prov_desc = ALL_ATLANTIS_PROVS
+	}
+	
+	war_name = ATLANTIS_UNIFICATION_WAR_NAME	
+}
+
+take_capital_dragon_empire = {
+	type = take_capital
+	
+	attacker = {
+		badboy_factor = 0.5
+		prestige_factor = 1.0
+		peace_cost_factor = 1.0
+
+		peace_options = {
+			po_demand_provinces
+            po_take_dragon_empire_throne
+		}
+
+		country_desc = DRAGON_EMPIRE_COUNTRY
+		prov_desc = ALL_PROVS
+	}
+	
+	defender = {
+		badboy_factor = 0.5
+		prestige_factor = 1.0
+		peace_cost_factor = 0.5
+
+		peace_options = {
+			po_demand_provinces
+		}
+
+		country_desc = ALL_COUNTRIES
+		prov_desc = ALL_PROVS
+	}
+	
+	war_name = DRAGON_EMPIRE_CLAIM_WAR_NAME
+}
+
+superiority_occult = {
+	type = superiority
+	
+	attacker = {
+		badboy_factor = 2.0
+		prestige_factor = 0
+		peace_cost_factor = 1
+		
+		peace_options = {
+			po_demand_provinces
+            po_occult_conversion
+		}
+		
+		country_desc = ALL_CGROUP_COUNTRIES
+		prov_desc = ALL_PROVS
+	}
+	
+	defender = {
+		badboy_factor = 0.0
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5
+		
+		peace_options = {
+			po_demand_provinces
+		}
+		
+		country_desc = ALL_CGROUP_COUNTRIES
+		prov_desc = ALL_PROVS
+	}
+	
+	war_name = OCCULT_WAR_NAME	
+}

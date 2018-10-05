@@ -1,0 +1,17 @@
+# 4576 - Pantiya.txt
+
+owner = TUO
+controller = TUO
+add_core = TUO
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 6
+
+culture = lemurian
+religion = asakti
+
+trade_goods = fish
+hre = no
+

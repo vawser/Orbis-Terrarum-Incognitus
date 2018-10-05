@@ -1,0 +1,266 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muror
+religion = dragon_gods
+primary_culture = muror
+capital = 5545
+religious_school = red_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Abu"
+		dynasty = "Polola"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1416.1.1
+	}
+
+	queen = {
+		country_of_origin = LAB 
+		name = "Miri"
+		dynasty = "Polola"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1402.1.1
+		death_date = 1484.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Keiki"
+		monarch_name = "Keiki"
+		dynasty = "Polola"
+		adm = 4
+		dip = 3
+		mil = 2
+		claim = 100
+		birth_date = 1416.1.1
+		death_date = 1471.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Badr"
+		dynasty = "'Ewalani"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1366.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Muzaffar"
+		dynasty = "Banten"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1474.1.1
+	}
+
+	heir = {
+		name = "Alika"
+		monarch_name = "Alika"
+		dynasty = "Banten"
+		adm = 2
+		dip = 5
+		mil = 2
+		claim = 25
+		birth_date = 1466.1.1
+		death_date = 1562.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Orama"
+		dynasty = "Surabaya"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1464.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Yu"
+		monarch_name = "Yu"
+		dynasty = "Surabaya"
+		adm = 5
+		dip = 3
+		mil = 1
+		claim = 75
+		birth_date = 1492.1.1
+		death_date = 1532.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Ma'ayat"
+		dynasty = "Indrapura"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1522.1.1
+	}
+
+	heir = {
+		name = "Po"
+		monarch_name = "Po"
+		dynasty = "Indrapura"
+		adm = 3
+		dip = 1
+		mil = 2
+		claim = 25
+		birth_date = 1554.1.1
+		death_date = 1642.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Akamu"
+		dynasty = "Ahulani"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1578.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Moea"
+		monarch_name = "Moea"
+		dynasty = "Ahulani"
+		adm = 2
+		dip = 2
+		mil = 1
+		claim = 75
+		birth_date = 1618.1.1
+		death_date = 1700.1.1
+		female = yes
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Saktirai"
+		dynasty = "Lehuanani"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1614.1.1
+	}
+
+	heir = {
+		name = "Keahi"
+		monarch_name = "Keahi"
+		dynasty = "Lehuanani"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 100
+		birth_date = 1701.1.1
+		death_date = 1770.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Kapena"
+		dynasty = "Akeakamai"
+		adm = 4
+		dip = 2
+		mil = 2
+		birth_date = 1678.1.1
+	}
+
+	heir = {
+		name = "Paramesvara"
+		monarch_name = "Paramesvara"
+		dynasty = "Akeakamai"
+		adm = 3
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1686.1.1
+		death_date = 1723.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Tithun"
+		dynasty = "Wailani"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1716.1.1
+	}
+
+	queen = {
+		country_of_origin = LAB 
+		name = "Keala"
+		dynasty = "Wailani"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 1712.1.1
+		death_date = 1824.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Moanna"
+		monarch_name = "Moanna"
+		dynasty = "Wailani"
+		adm = 4
+		dip = 2
+		mil = 1
+		claim = 25
+		birth_date = 1727.1.1
+		death_date = 1840.1.1
+		female = yes
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Kertawardhana"
+		dynasty = "Wailani"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1764.1.1
+	}
+
+	heir = {
+		name = "Keahi"
+		monarch_name = "Keahi"
+		dynasty = "Wailani"
+		adm = 1
+		dip = 1
+		mil = 1
+		claim = 75
+		birth_date = 1776.1.1
+		death_date = 1846.1.1
+	}
+}
+

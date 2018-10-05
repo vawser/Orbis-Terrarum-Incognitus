@@ -1,0 +1,253 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = tongan
+capital = 4860
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Thuttirai"
+		dynasty = "Aalona"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1391.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Aalona"
+		adm = 2
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1434.1.1
+		death_date = 1497.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "al-Jalîl"
+		dynasty = "Lono"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1365.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Iwalani"
+		dynasty = "Momilani"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1411.1.1
+	}
+
+	heir = {
+		name = "Mohea"
+		monarch_name = "Mohea"
+		dynasty = "Momilani"
+		adm = 4
+		dip = 3
+		mil = 5
+		claim = 100
+		birth_date = 1477.1.1
+		death_date = 1556.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Maija"
+		dynasty = "Kelantan"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1490.1.1
+	}
+
+	queen = {
+		country_of_origin = MAU 
+		name = "Kiele"
+		dynasty = "Kelantan"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1492.1.1
+		death_date = 1529.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Hoa"
+		monarch_name = "Hoa"
+		dynasty = "Kelantan"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 25
+		birth_date = 1491.1.1
+		death_date = 1589.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tsau-Lha"
+		dynasty = "Kedah"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1516.1.1
+	}
+
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Abu"
+		dynasty = "Ikepela"
+		adm = 1
+		dip = 5
+		mil = 4
+		birth_date = 1549.1.1
+	}
+
+	queen = {
+		country_of_origin = MAU 
+		name = "Keola"
+		dynasty = "Ikepela"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1548.1.1
+		death_date = 1638.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Poe"
+		dynasty = "Lono"
+		adm = 5
+		dip = 5
+		mil = 2
+		birth_date = 1607.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = MAU 
+		name = "Che"
+		dynasty = "Lono"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1613.1.1
+		death_date = 1716.1.1
+	}
+
+	heir = {
+		name = "Liko"
+		monarch_name = "Liko"
+		dynasty = "Lono"
+		adm = 2
+		dip = 4
+		mil = 3
+		claim = 25
+		birth_date = 1685.1.1
+		death_date = 1786.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Maha"
+		dynasty = "Kalauokalani"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1688.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Badr"
+		dynasty = "Demak"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1734.1.1
+	}
+
+	queen = {
+		country_of_origin = MAU 
+		name = "Keoni"
+		dynasty = "Demak"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1744.1.1
+		death_date = 1840.1.1
+	}
+
+	heir = {
+		name = "Inayat"
+		monarch_name = "Inayat"
+		dynasty = "Demak"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1741.1.1
+		death_date = 1765.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Kalei"
+		dynasty = "Melaka"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1737.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Jaya"
+		monarch_name = "Jaya"
+		dynasty = "Melaka"
+		adm = 1
+		dip = 3
+		mil = 3
+		claim = 100
+		birth_date = 1779.1.1
+		death_date = 1812.1.1
+	}
+}
+

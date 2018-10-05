@@ -1,0 +1,21 @@
+# 4860 - Shinal.txt
+
+owner = MAU
+controller = MAU
+add_core = MAU
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 4
+
+culture = tongan
+religion = arioi
+
+trade_goods = grain
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}

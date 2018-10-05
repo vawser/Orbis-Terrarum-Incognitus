@@ -1,0 +1,156 @@
+country_decisions = {
+    # Establish European Cult
+    # + morale
+    
+    # Establish Arab Cult
+    # + discipline
+    
+    # Establish Asian Cult
+    # + power
+    
+    # Conduct Ritual
+    # random effect
+    
+    sacifice_the_immortal = {
+        potential = {
+            has_dlc = "Rights of Man"
+			ruler_has_personality = immortal_personality
+		}
+		allow = {
+			ruler_has_personality = immortal_personality
+		}
+		effect = {
+            # ADM
+            if = {
+                limit = {
+                    ADM = 1
+                    NOT = { ADM = 2 }
+                }
+                add_adm_power = 100
+            }
+            if = {
+                limit = {
+                    ADM = 2
+                    NOT = { ADM = 3 }
+                }
+                add_adm_power = 200
+            }
+            if = {
+                limit = {
+                    ADM = 3
+                    NOT = { ADM = 4 }
+                }
+                add_adm_power = 300
+            }
+            if = {
+                limit = {
+                    ADM = 4
+                    NOT = { ADM = 5 }
+                }
+                add_adm_power = 400
+            }
+            if = {
+                limit = {
+                    ADM = 5
+                    NOT = { ADM = 6 }
+                }
+                add_adm_power = 500
+            }
+            if = {
+                limit = {
+                    ADM = 6
+                }
+                add_adm_power = 600
+            }
+            # DIP
+            if = {
+                limit = {
+                    DIP = 1
+                    NOT = { DIP = 2 }
+                }
+                add_dip_power = 100
+            }
+            if = {
+                limit = {
+                    DIP = 2
+                    NOT = { DIP = 3 }
+                }
+                add_dip_power = 200
+            }
+            if = {
+                limit = {
+                    DIP = 3
+                    NOT = { DIP = 4 }
+                }
+                add_dip_power = 300
+            }
+            if = {
+                limit = {
+                    DIP = 4
+                    NOT = { DIP = 5 }
+                }
+                add_dip_power = 400
+            }
+            if = {
+                limit = {
+                    DIP = 5
+                    NOT = { DIP = 6 }
+                }
+                add_dip_power = 500
+            }
+            if = {
+                limit = {
+                    DIP = 6
+                }
+                add_dip_power = 600
+            }
+            # MIL
+            if = {
+                limit = {
+                    MIL = 1
+                    NOT = { MIL = 2 }
+                }
+                add_mil_power = 100
+            }
+            if = {
+                limit = {
+                    MIL = 2
+                    NOT = { MIL = 3 }
+                }
+                add_mil_power = 200
+            }
+            if = {
+                limit = {
+                    MIL = 3
+                    NOT = { MIL = 4 }
+                }
+                add_mil_power = 300
+            }
+            if = {
+                limit = {
+                    MIL = 4
+                    NOT = { MIL = 5 }
+                }
+                add_mil_power = 400
+            }
+            if = {
+                limit = {
+                    MIL = 5
+                    NOT = { MIL = 6 }
+                }
+                add_mil_power = 500
+            }
+            if = {
+                limit = {
+                    MIL = 6
+                }
+                add_mil_power = 600
+            }
+            
+            kill_ruler = yes
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+}

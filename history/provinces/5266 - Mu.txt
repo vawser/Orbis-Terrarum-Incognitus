@@ -1,0 +1,17 @@
+
+owner = WAP
+controller = WAP
+add_core = WAP
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 3
+
+culture = waponi
+religion = tiki
+
+trade_goods = tobacco
+hre = no
+
+

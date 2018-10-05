@@ -1,0 +1,21 @@
+
+owner = LRS
+controller = LRS
+add_core = LRS
+is_city = yes
+
+base_tax = 10
+base_production = 9
+base_manpower = 9
+
+culture = kakushivilar
+religion = hurufi
+
+trade_goods = glass
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+

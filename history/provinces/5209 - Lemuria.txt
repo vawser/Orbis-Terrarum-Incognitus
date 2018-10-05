@@ -1,0 +1,17 @@
+
+owner = MHU
+controller = MHU
+add_core = MHU
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = laxian
+religion = animism
+
+trade_goods = tropical_wood
+hre = no
+
+

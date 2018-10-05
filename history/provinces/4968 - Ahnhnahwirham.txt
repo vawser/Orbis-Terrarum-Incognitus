@@ -1,0 +1,17 @@
+# 4968 - Ahnhnahwirham.txt
+
+owner = OMM
+controller = OMM
+add_core = OMM
+is_city = yes
+
+base_tax = 6
+base_production = 6
+base_manpower = 7
+
+culture = discworlder
+religion = omnian
+
+trade_goods = fish
+hre = no
+

@@ -1,0 +1,17 @@
+# 4850 - Hahash.txt
+
+owner = AKI
+controller = AKI
+add_core = AKI
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 2
+
+culture = rapanni
+religion = tangata_manu
+
+trade_goods = fish
+hre = no
+

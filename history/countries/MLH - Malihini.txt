@@ -1,0 +1,265 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = savaikian
+capital = 5293
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Tra"
+		dynasty = "Alealani"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1412.1.1
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Alealani"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 50
+		birth_date = 1421.1.1
+		death_date = 1450.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Tra"
+		dynasty = "Ho'okano"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1429.1.1
+	}
+
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Sinhavarman"
+		dynasty = "Kehaulani"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1458.1.1
+	}
+
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî"
+		dynasty = "Kehaulani"
+		adm = 5
+		dip = 5
+		mil = 2
+		claim = 100
+		birth_date = 1463.1.1
+		death_date = 1537.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Kaili"
+		dynasty = "Lokelani"
+		adm = 3
+		dip = 1
+		mil = 2
+		birth_date = 1426.1.1
+	}
+
+	queen = {
+		country_of_origin = MLH 
+		name = "Metetini"
+		dynasty = "Lokelani"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1446.1.1
+		death_date = 1522.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî"
+		dynasty = "Lokelani"
+		adm = 1
+		dip = 1
+		mil = 2
+		claim = 75
+		birth_date = 1492.1.1
+		death_date = 1526.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Shâh"
+		dynasty = "Samprangan"
+		adm = 5
+		dip = 2
+		mil = 1
+		birth_date = 1520.1.1
+	}
+
+	queen = {
+		country_of_origin = MLH 
+		name = "Miri"
+		dynasty = "Samprangan"
+		adm = 1
+		dip = 2
+		mil = 5
+		birth_date = 1535.1.1
+		death_date = 1635.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Nu’utea"
+		monarch_name = "Nu’utea"
+		dynasty = "Samprangan"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1550.1.1
+		death_date = 1630.1.1
+		female = yes
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Moea"
+		dynasty = "Terengganu"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1524.1.1
+		female = yes
+	}
+
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Kertabumi"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1602.1.1
+	}
+
+	queen = {
+		country_of_origin = MLH 
+		name = "Poenui"
+		dynasty = "Samprangan"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1612.1.1
+		death_date = 1710.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ri'âyat"
+		monarch_name = "Ri'âyat"
+		dynasty = "Samprangan"
+		adm = 4
+		dip = 5
+		mil = 1
+		claim = 75
+		birth_date = 1662.1.1
+		death_date = 1782.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Po"
+		dynasty = "Ainalani"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1637.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Kaili"
+		dynasty = "Kainalu"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1659.1.1
+	}
+
+	queen = {
+		country_of_origin = MLH 
+		name = "Pear"
+		dynasty = "Kainalu"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1666.1.1
+		death_date = 1776.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kalagamet"
+		monarch_name = "Kalagamet"
+		dynasty = "Kainalu"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1733.1.1
+		death_date = 1801.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Iskandar"
+		dynasty = "Siak"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1760.1.1
+	}
+
+	heir = {
+		name = "Mahmûd"
+		monarch_name = "Mahmûd"
+		dynasty = "Siak"
+		adm = 4
+		dip = 1
+		mil = 4
+		claim = 100
+		birth_date = 1764.1.1
+		death_date = 1858.1.1
+	}
+}
+

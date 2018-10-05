@@ -1,0 +1,17 @@
+# 4900 - Hoi.txt
+
+owner = MUU
+controller = MUU
+add_core = MUU
+is_city = yes
+
+base_tax = 5
+base_production = 5
+base_manpower = 6
+
+culture = muror
+religion = dragon_gods
+
+trade_goods = tropical_wood
+hre = no
+

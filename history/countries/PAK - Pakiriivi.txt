@@ -1,0 +1,311 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = arioi
+primary_culture = samoan
+capital = 4877
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Keanu"
+		dynasty = "Ha'aheo"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1352.1.1
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "Pear"
+		dynasty = "Ha'aheo"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1363.1.1
+		death_date = 1460.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kapena"
+		monarch_name = "Kapena"
+		dynasty = "Ha'aheo"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1424.1.1
+		death_date = 1509.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Liko"
+		dynasty = "Anakalia"
+		adm = 1
+		dip = 5
+		mil = 1
+		birth_date = 1414.1.1
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "Leilani"
+		dynasty = "Anakalia"
+		adm = 2
+		dip = 1
+		mil = 5
+		birth_date = 1416.1.1
+		death_date = 1473.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Riayat"
+		monarch_name = "Riayat"
+		dynasty = "Anakalia"
+		adm = 5
+		dip = 4
+		mil = 4
+		claim = 75
+		birth_date = 1448.1.1
+		death_date = 1520.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Kale"
+		dynasty = "Sanoe"
+		adm = 1
+		dip = 1
+		mil = 4
+		birth_date = 1442.1.1
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "Puaiti"
+		dynasty = "Sanoe"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1432.1.1
+		death_date = 1533.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Poenui"
+		monarch_name = "Poenui"
+		dynasty = "Sanoe"
+		adm = 3
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1474.1.1
+		death_date = 1562.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Thuttirai"
+		dynasty = "Makikonu"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1487.1.1
+	}
+
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tithun"
+		dynasty = "Ualani"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1508.1.1
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "Alika"
+		dynasty = "Ualani"
+		adm = 2
+		dip = 5
+		mil = 1
+		birth_date = 1528.1.1
+		death_date = 1589.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Kalagamet"
+		monarch_name = "Kalagamet"
+		dynasty = "Ualani"
+		adm = 4
+		dip = 4
+		mil = 1
+		claim = 50
+		birth_date = 1558.1.1
+		death_date = 1659.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Mu'azzam"
+		dynasty = "Kehaulani"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1538.1.1
+	}
+
+	heir = {
+		name = "'Abd"
+		monarch_name = "'Abd"
+		dynasty = "Kehaulani"
+		adm = 2
+		dip = 3
+		mil = 3
+		claim = 100
+		birth_date = 1603.1.1
+		death_date = 1653.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Cheng"
+		dynasty = "Jambi"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1666.1.1
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "Titaina"
+		dynasty = "Jambi"
+		adm = 3
+		dip = 1
+		mil = 1
+		birth_date = 1654.1.1
+		death_date = 1727.1.1
+		female = yes
+	}
+
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Ri'âyat"
+		dynasty = "Pasai"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1638.1.1
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "Ulani"
+		dynasty = "Pasai"
+		adm = 2
+		dip = 5
+		mil = 5
+		birth_date = 1629.1.1
+		death_date = 1737.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Pasai"
+		adm = 3
+		dip = 5
+		mil = 2
+		claim = 25
+		birth_date = 1702.1.1
+		death_date = 1772.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Kamaile"
+		dynasty = "Ainalani"
+		adm = 1
+		dip = 4
+		mil = 5
+		birth_date = 1682.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = PAK 
+		name = "P'an-lo-yue"
+		dynasty = "Ainalani"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1693.1.1
+		death_date = 1791.1.1
+	}
+
+	heir = {
+		name = "Chan"
+		monarch_name = "Chan"
+		dynasty = "Ainalani"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1750.1.1
+		death_date = 1781.1.1
+	}
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Kouei-Lai"
+		dynasty = "Palembang"
+		adm = 1
+		dip = 1
+		mil = 5
+		birth_date = 1761.1.1
+	}
+
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 1
+		mil = 1
+		claim = 50
+		birth_date = 1782.1.1
+		death_date = 1816.1.1
+	}
+}
+

@@ -1,0 +1,276 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = hellenic
+primary_culture = atlantean
+capital = 4526
+religious_school = stoic_school
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Nikolaos"
+		dynasty = "Thylakas"
+		adm = 4
+		dip = 2
+		mil = 1
+		birth_date = 1412.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Germanus"
+		monarch_name = "Germanus"
+		dynasty = "Thylakas"
+		adm = 5
+		dip = 3
+		mil = 2
+		claim = 25
+		birth_date = 1438.1.1
+		death_date = 1461.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Proteuon"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1418.1.1
+	}
+
+	queen = {
+		country_of_origin = APF 
+		name = "Agathe"
+		dynasty = "Proteuon"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1435.1.1
+		death_date = 1525.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Arsenios"
+		monarch_name = "Arsenios"
+		dynasty = "Proteuon"
+		adm = 4
+		dip = 5
+		mil = 1
+		claim = 50
+		birth_date = 1418.1.1
+		death_date = 1514.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Herakleios"
+		dynasty = "Aineidas"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1452.1.1
+	}
+
+	heir = {
+		name = "Nestor"
+		monarch_name = "Nestor"
+		dynasty = "Aineidas"
+		adm = 1
+		dip = 2
+		mil = 3
+		claim = 75
+		birth_date = 1470.1.1
+		death_date = 1579.1.1
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Anthe"
+		dynasty = "Musurus"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1489.1.1
+		female = yes
+	}
+
+	queen = {
+		country_of_origin = APF 
+		name = "Dorothy"
+		dynasty = "Musurus"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1477.1.1
+		death_date = 1578.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos"
+		dynasty = "Musurus"
+		adm = 3
+		dip = 1
+		mil = 4
+		claim = 50
+		birth_date = 1482.1.1
+		death_date = 1563.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Pavlos"
+		dynasty = "Pekoules"
+		adm = 5
+		dip = 2
+		mil = 2
+		birth_date = 1536.1.1
+	}
+
+	heir = {
+		name = "Palaemon"
+		monarch_name = "Palaemon"
+		dynasty = "Pekoules"
+		adm = 2
+		dip = 4
+		mil = 3
+		claim = 75
+		birth_date = 1554.1.1
+		death_date = 1609.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Evanthia"
+		dynasty = "Makrembolites"
+		adm = 5
+		dip = 1
+		mil = 1
+		birth_date = 1600.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bartholomaios"
+		monarch_name = "Bartholomaios"
+		dynasty = "Makrembolites"
+		adm = 4
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1590.1.1
+		death_date = 1659.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Andronicus"
+		dynasty = "Choirosphaktes"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1648.1.1
+	}
+
+	queen = {
+		country_of_origin = APF 
+		name = "Barbara"
+		dynasty = "Choirosphaktes"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1667.1.1
+		death_date = 1730.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Eudoxios"
+		monarch_name = "Eudoxios"
+		dynasty = "Choirosphaktes"
+		adm = 4
+		dip = 2
+		mil = 4
+		claim = 100
+		birth_date = 1687.1.1
+		death_date = 1750.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Chrysanthos"
+		dynasty = "Katakylas"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1656.1.1
+	}
+
+	queen = {
+		country_of_origin = APF 
+		name = "Petros"
+		dynasty = "Katakylas"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1655.1.1
+		death_date = 1752.1.1
+	}
+
+	heir = {
+		name = "Diogenes"
+		monarch_name = "Diogenes"
+		dynasty = "Katakylas"
+		adm = 2
+		dip = 5
+		mil = 5
+		claim = 75
+		birth_date = 1699.1.1
+		death_date = 1737.1.1
+	}
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Andreas"
+		dynasty = "Chrysanthos"
+		adm = 3
+		dip = 4
+		mil = 1
+		birth_date = 1697.1.1
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Adrian"
+		dynasty = "Kalaphates"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1744.1.1
+	}
+
+}
+

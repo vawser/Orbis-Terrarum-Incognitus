@@ -1,0 +1,290 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = asakti
+primary_culture = lemurian
+capital = 4603
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Mâtevipattan"
+		dynasty = "Nanduri"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1357.1.1
+	}
+
+	queen = {
+		country_of_origin = KUM 
+		name = "Atittapatâriyâr"
+		dynasty = "Nanduri"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1368.1.1
+		death_date = 1460.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Sovideva"
+		monarch_name = "Sovideva"
+		dynasty = "Nanduri"
+		adm = 5
+		dip = 3
+		mil = 1
+		claim = 100
+		birth_date = 1440.1.1
+		death_date = 1500.1.1
+	}
+}
+
+#Fall of Byzantium
+1453.1.1 = {
+	monarch = {
+		name = "Pararajasekharan"
+		dynasty = "Chaulukya"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1382.1.1
+		regent = yes
+	}
+
+	heir = {
+		name = "Parakesaripanmar"
+		monarch_name = "Parakesaripanmar"
+		dynasty = "Chaulukya"
+		adm = 2
+		dip = 1
+		mil = 3
+		claim = 50
+		birth_date = 1453.1.1
+		death_date = 1523.1.1
+	}
+}
+
+#A New World
+1492.1.1 = {
+	monarch = {
+		name = "Hamirji"
+		dynasty = "Wodeyar"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1421.1.1
+	}
+
+	queen = {
+		country_of_origin = KUM 
+		name = "Vatavâyil"
+		dynasty = "Wodeyar"
+		adm = 1
+		dip = 5
+		mil = 2
+		birth_date = 1405.1.1
+		death_date = 1500.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Tânatonkiyâr"
+		monarch_name = "Tânatonkiyâr"
+		dynasty = "Wodeyar"
+		adm = 4
+		dip = 2
+		mil = 1
+		claim = 100
+		birth_date = 1454.1.1
+		death_date = 1508.1.1
+		female = yes
+	}
+}
+
+#League of Cambrai
+1508.1.1 = {
+	monarch = {
+		name = "Parakrama"
+		dynasty = "Dahiya"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1417.1.1
+	}
+
+	heir = {
+		name = "Gopendraraja"
+		monarch_name = "Gopendraraja"
+		dynasty = "Dahiya"
+		adm = 1
+		dip = 5
+		mil = 3
+		claim = 25
+		birth_date = 1478.1.1
+		death_date = 1590.1.1
+	}
+}
+
+#Eighty Years War
+1579.1.1 = {
+	monarch = {
+		name = "Tunaiyiruntâlcâni"
+		dynasty = "Chandravansha"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1523.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ranaditya"
+		monarch_name = "Ranaditya"
+		dynasty = "Chandravansha"
+		adm = 4
+		dip = 1
+		mil = 3
+		claim = 75
+		birth_date = 1578.1.1
+		death_date = 1623.1.1
+	}
+}
+
+#Thirty Years War
+1618.1.1 = {
+	monarch = {
+		name = "Markose"
+		dynasty = "Bhoi"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 1521.1.1
+	}
+
+	queen = {
+		country_of_origin = KUM 
+		name = "Kuñciramalli"
+		dynasty = "Bhoi"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1519.1.1
+		death_date = 1639.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Samuel"
+		monarch_name = "Samuel"
+		dynasty = "Bhoi"
+		adm = 4
+		dip = 1
+		mil = 5
+		claim = 75
+		birth_date = 1610.1.1
+		death_date = 1652.1.1
+	}
+}
+
+#Spanish Succession
+1701.1.1 = {
+	monarch = {
+		name = "Shurapala"
+		dynasty = "Chindaka-Naga"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1667.1.1
+	}
+
+	queen = {
+		country_of_origin = KUM 
+		name = "Eccumantai"
+		dynasty = "Chindaka-Naga"
+		adm = 5
+		dip = 5
+		mil = 1
+		birth_date = 1657.1.1
+		death_date = 1755.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Rajaditya"
+		monarch_name = "Rajaditya"
+		dynasty = "Chindaka-Naga"
+		adm = 1
+		dip = 1
+		mil = 4
+		claim = 100
+		birth_date = 1700.1.1
+		death_date = 1767.1.1
+	}
+}
+
+#Quadruple Alliance
+1718.1.1 = {
+	monarch = {
+		name = "Seshayya"
+		dynasty = "Sailodbhava"
+		adm = 1
+		dip = 3
+		mil = 4
+		birth_date = 1630.1.1
+	}
+
+}
+
+#Seven Years War
+1756.1.1 = {
+	monarch = {
+		name = "Ariñcikaippirâttiyâr"
+		dynasty = "Bundela"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1732.1.1
+		female = yes
+	}
+
+}
+
+#French Revolution
+1789.1.1 = {
+	monarch = {
+		name = "Viradeva"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1763.1.1
+	}
+
+	queen = {
+		country_of_origin = KUM 
+		name = "Saramma"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 1
+		mil = 1
+		birth_date = 1757.1.1
+		death_date = 1877.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Ramaraya"
+		monarch_name = "Ramaraya"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 1
+		mil = 5
+		claim = 75
+		birth_date = 1758.1.1
+		death_date = 1817.1.1
+	}
+}
+
